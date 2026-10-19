@@ -31982,16 +31982,405 @@
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
       "published_at": "2026-10-17T02:03:27.000Z"
+    },
+    {
+      "id": "pokebonk",
+      "title": "PokéBonk",
+      "description": "Free 3D Pokémon survivors-like inspired by Megabonk: pick a Pokémon, survive huge swarms across vertical 3D zones, level up moves, with weekly leaderboards and clans. Unofficial fan game by Charcher; the site says AI was used for some assets.",
+      "play_url": "https://pokebonk.com/",
+      "found_via": "PortedGames (portedgames.com/pokebonk) -> X @ImCharcher trailer",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "tags": [
+        "fan-game"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "browser_playable": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/pokebonk.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pokebonk.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pokebonk.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pokebonk.jpg",
+          "score": 7,
+          "notes": "multi-frame: 5 gameplay frames from the 55s creator trailer (3-24s) - colorful 3D survivors-like with chunky Pokémon billboards, huge enemy swarms, particle-heavy attacks, polished HUD (portrait, timer, minimap, skill bar), varied biomes (meadow, canyon, forest); busy and slightly smeared at video bitrate. Rest of trailer is leaderboard/clan promo cards."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: 5 gameplay frames from the 55s creator trailer (3-24s) - colorful 3D survivors-like with chunky Pokémon billboards, huge enemy swarms, particle-heavy attacks, polished HUD (portrait, timer, minimap, skill bar), varied biomes (meadow, canyon, forest); busy and slightly smeared at video bitrate. Rest of trailer is leaderboard/clan promo cards.",
+      "x_handle": "ImCharcher",
+      "author": "ImCharcher",
+      "author_source": "https://x.com/ImCharcher/status/2110395400914092426",
+      "source_url": "https://x.com/ImCharcher/status/2110395400914092426",
+      "likes_source_url": "https://x.com/ImCharcher/status/2110395400914092426",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1604964629981155343/yEcyclcb_normal.jpg",
+      "remote_likes": 8046,
+      "comment_count": 196,
+      "likes_checked": "2026-10-19",
+      "comments": [
+        {
+          "author": "ImCharcher",
+          "text": "@Alvarofcb710 Semana que viene, estamos trabajando en ello :)",
+          "likes": 1,
+          "url": "https://x.com/ImCharcher/status/2111861245028548728",
+          "created_at": "2026-10-18T16:45:31Z"
+        },
+        {
+          "author": "Alvarofcb710",
+          "text": "@ImCharcher Cuando le metes coop?",
+          "likes": 1,
+          "url": "https://x.com/Alvarofcb710/status/2111860731305918950",
+          "created_at": "2026-10-18T16:43:29Z"
+        },
+        {
+          "author": "Joselink_youtub",
+          "text": "@PolloDiplomtico @can_fu_mac @ImCharcher Antes que el megabonk estaba vampire survivor",
+          "likes": 1,
+          "url": "https://x.com/Joselink_youtub/status/2111429327430812156",
+          "created_at": "2026-10-17T12:09:14Z"
+        },
+        {
+          "author": "RaaoonLee",
+          "text": "@ImCharcher Muchas gracias por generarme una nueva adiccion durante las proximas semanas , esta jodidamente hermoso",
+          "likes": 1,
+          "url": "https://x.com/RaaoonLee/status/2111234833967964252",
+          "created_at": "2026-10-16T23:16:23Z"
+        },
+        {
+          "author": "elraamon_psd",
+          "text": "@ImCharcher esta muy top pero metele gachaaass",
+          "likes": 1,
+          "url": "https://x.com/elraamon_psd/status/2110848230795702310",
+          "created_at": "2026-10-15T21:40:10Z"
+        },
+        {
+          "author": "HanYang2007",
+          "text": "@ImCharcher 作者您好，我不得不向您反馈一些问题，您的游戏在中国大陆地区的电脑设备上难以登录，问题是进入网页之后会卡灰屏，请问是在国区没有服务器吗？这个问题后续会解决吗？",
+          "likes": 0,
+          "url": "https://x.com/HanYang2007/status/2111504704194883728",
+          "created_at": "2026-10-17T17:08:45Z"
+        },
+        {
+          "author": "StevieXstv",
+          "text": "@ImCharcher great game",
+          "likes": 0,
+          "url": "https://x.com/StevieXstv/status/2111380966757576940",
+          "created_at": "2026-10-17T08:57:04Z"
+        },
+        {
+          "author": "lil_ykk",
+          "text": "@ImCharcher 维护了bro 好想玩快点开放！",
+          "likes": 0,
+          "url": "https://x.com/lil_ykk/status/2111372997710037343",
+          "created_at": "2026-10-17T08:25:24Z"
+        },
+        {
+          "author": "Criptoesgamer",
+          "text": "@ImCharcher @Kromethius Y hay discord o algún otro canal con el que comunicarme con otros jugadores?",
+          "likes": 0,
+          "url": "https://x.com/Criptoesgamer/status/2111368684144939283",
+          "created_at": "2026-10-17T08:08:16Z"
+        },
+        {
+          "author": "Javi35642778",
+          "text": "@ImCharcher La verdad que es una pasada, muy divertido de jugar",
+          "likes": 0,
+          "url": "https://x.com/Javi35642778/status/2111180004956495987",
+          "created_at": "2026-10-16T19:38:31Z"
+        },
+        {
+          "author": "pepiiyo1997",
+          "text": "@ImCharcher Me va ultra lag 😢",
+          "likes": 0,
+          "url": "https://x.com/pepiiyo1997/status/2111132830977671644",
+          "created_at": "2026-10-16T16:31:04Z"
+        },
+        {
+          "author": "Rinaorc",
+          "text": "@ImCharcher Better https://t.co/UK0OoxAHGA",
+          "likes": 0,
+          "url": "https://x.com/Rinaorc/status/2111118164704559487",
+          "created_at": "2026-10-16T15:32:47Z"
+        },
+        {
+          "author": "ThatKaiserGuy23",
+          "text": "@ImCharcher ¿Pero que es esta mierda?!",
+          "likes": 0,
+          "url": "https://x.com/ThatKaiserGuy23/status/2111082751009120585",
+          "created_at": "2026-10-16T13:12:04Z"
+        },
+        {
+          "author": "toxic_user69",
+          "text": "@ImCharcher RIP PokeSurvivor, duraste 1 semana.",
+          "likes": 0,
+          "url": "https://x.com/toxic_user69/status/2111073556016611390",
+          "created_at": "2026-10-16T12:35:32Z"
+        },
+        {
+          "author": "davidterreu",
+          "text": "@AlissaWxnder @palmeritaberano @ImCharcher Eso venía a decir, que lo \"original\" es cogido de otro juego que a su vez ya lo roba de otro, y usando IA...\n\nOriginal lo que se dice original...😅",
+          "likes": 0,
+          "url": "https://x.com/davidterreu/status/2111008535957930350",
+          "created_at": "2026-10-16T08:17:10Z"
+        },
+        {
+          "author": "DracoX_097",
+          "text": "@ImCharcher No puedo ninguna mierda con tanto bicho junto",
+          "likes": 0,
+          "url": "https://x.com/DracoX_097/status/2110998593230258394",
+          "created_at": "2026-10-16T07:37:39Z"
+        },
+        {
+          "author": "kyuee1375",
+          "text": "@ImCharcher You didn't do anything.",
+          "likes": 0,
+          "url": "https://x.com/kyuee1375/status/2110989596536545714",
+          "created_at": "2026-10-16T07:01:54Z"
+        },
+        {
+          "author": "FoxRehn",
+          "text": "@ImCharcher Eewwww",
+          "likes": 0,
+          "url": "https://x.com/FoxRehn/status/2110965208252363252",
+          "created_at": "2026-10-16T05:25:00Z"
+        },
+        {
+          "author": "alexm_io",
+          "text": "@ImCharcher Que bonito y me he divertido bastante!     Seria buen momento para recordarle a @Nintendo que le paga a miles de dolares a un equipo que lleva creando juegos basura por mas de una decada entre nuevas generaciones y nuevos titulos...",
+          "likes": 0,
+          "url": "https://x.com/alexm_io/status/2110941934344605785",
+          "created_at": "2026-10-16T03:52:31Z"
+        },
+        {
+          "author": "utuki_H",
+          "text": "@ImCharcher また著作権や本家権利の軽視問題が出てくるんですね…やるにあたって協業伺いとかすればよいのに…\n\n海外では企業開発じゃない、スプランキーとか、こういう人たちに台無しにされてしまったゲームや創作は数しれないんでしょうね…(しかもスプランキーはオリジナル政策子供じゃなかったかな)",
+          "likes": 0,
+          "url": "https://x.com/utuki_H/status/2110934363814998398",
+          "created_at": "2026-10-16T03:22:26Z"
+        }
+      ],
+      "first_seen": "2026-10-19T16:00:00.000Z",
+      "last_seen": "2026-10-19T16:00:00.000Z",
+      "published_at": "2026-10-14T15:40:47.000Z"
+    },
+    {
+      "id": "pokesurvivor",
+      "title": "PokéSurvivor",
+      "description": "Free Pokémon bullet-heaven in the style of Vampire Survivors / Survivor.io with Mystery Dungeon-style sprites: 966 Pokémon from all 9 generations, evolving moves, legendary rift bosses, weather and type chart, shinies, gacha and online co-op up to 4. Vanilla HTML/JS on Canvas 2D; unofficial non-profit fan game. The author says it was built with AI help (no model named).",
+      "play_url": "https://pokesurvivor.com/",
+      "found_via": "PortedGames (portedgames.com/pokesurvivor) -> X @JPTER78 official trailer",
+      "found_via_network": "x",
+      "made_with": "unknown",
+      "engine": "Canvas 2D",
+      "tags": [
+        "fan-game"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "browser_playable": true,
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/pokesurvivor.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pokesurvivor.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pokesurvivor.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pokesurvivor.jpg",
+          "score": 6,
+          "notes": "multi-frame: 5 gameplay frames from the 82s creator trailer - clean top-down pixel art with Pokémon Mystery Dungeon-style sprites, readable hordes, boss fights, fire/ice biomes and tidy pixel UI banners; simple 2D but cohesive and polished. Trailer intercuts many feature cards (excluded from rating)."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: 5 gameplay frames from the 82s creator trailer - clean top-down pixel art with Pokémon Mystery Dungeon-style sprites, readable hordes, boss fights, fire/ice biomes and tidy pixel UI banners; simple 2D but cohesive and polished. Trailer intercuts many feature cards (excluded from rating).",
+      "x_handle": "JPTER78",
+      "author": "JPTER78",
+      "github_user": "JPTER78",
+      "repo_url": "https://github.com/JPTER78/pokesurvivor",
+      "github_stars": 315,
+      "author_source": "https://x.com/JPTER78/status/2108849627248148894",
+      "source_url": "https://x.com/JPTER78/status/2108849627248148894",
+      "likes_source_url": "https://x.com/JPTER78/status/2108849627248148894",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2020290214825017344/tCe_zmvk_normal.jpg",
+      "remote_likes": 17052,
+      "comment_count": 273,
+      "likes_checked": "2026-10-19",
+      "comments": [
+        {
+          "author": "AturdidorLibre",
+          "text": "@F_De_Ivan @JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @Oscar_BrockWah Jajaja pues cuando haga unas cuantas actualizaciones me lo pienso que de momento desde el minuto 15 se me hace aburrido los siguientes",
+          "likes": 1,
+          "url": "https://x.com/AturdidorLibre/status/2111114221165416646",
+          "created_at": "2026-10-16T15:17:07Z"
+        },
+        {
+          "author": "F_De_Ivan",
+          "text": "@AturdidorLibre @JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @Oscar_BrockWah Se podría eh jajajaja",
+          "likes": 1,
+          "url": "https://x.com/F_De_Ivan/status/2111107339109474689",
+          "created_at": "2026-10-16T14:49:46Z"
+        },
+        {
+          "author": "AturdidorLibre",
+          "text": "@F_De_Ivan @JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @Oscar_BrockWah En la new 3ds debe ser una cosa jajaj",
+          "likes": 1,
+          "url": "https://x.com/AturdidorLibre/status/2111106248925917275",
+          "created_at": "2026-10-16T14:45:26Z"
+        },
+        {
+          "author": "chalexandro",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Ccp @_El_Memo",
+          "likes": 1,
+          "url": "https://x.com/chalexandro/status/2110217484624089529",
+          "created_at": "2026-10-14T03:53:48Z"
+        },
+        {
+          "author": "Leonard12134647",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah como puedo entrar a las peleas de la grietas",
+          "likes": 0,
+          "url": "https://x.com/Leonard12134647/status/2111162020699529528",
+          "created_at": "2026-10-16T18:27:03Z"
+        },
+        {
+          "author": "TheBlueBear1998",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah If you want feedback I think having followers would be great and the evolution aspect would be cool",
+          "likes": 0,
+          "url": "https://x.com/TheBlueBear1998/status/2111107355525976399",
+          "created_at": "2026-10-16T14:49:50Z"
+        },
+        {
+          "author": "FelixBaue",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah great game, but sometimes screen resolution isn’t right :( on mobile btw.\nI can’t press any skills if this happens https://t.co/7rLfnIVxQa",
+          "likes": 0,
+          "url": "https://x.com/FelixBaue/status/2111086830913495164",
+          "created_at": "2026-10-16T13:28:17Z"
+        },
+        {
+          "author": "franco_venica",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Esta bien, pero requiere muuucho farmeo y cuando se juntan todos los bichos que dan escudo y curan ahi se pone imposible matar a nadie. Ademas, si no tenes \"Agility\" para poder aumentar tu velocidad vas a morir al toque",
+          "likes": 0,
+          "url": "https://x.com/franco_venica/status/2110861204386398562",
+          "created_at": "2026-10-15T22:31:43Z"
+        },
+        {
+          "author": "Nicorgez",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Necesitamos poder localizar a los bosses",
+          "likes": 0,
+          "url": "https://x.com/Nicorgez/status/2110771165287379201",
+          "created_at": "2026-10-15T16:33:56Z"
+        },
+        {
+          "author": "DrBeevo",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Is there an offline version",
+          "likes": 0,
+          "url": "https://x.com/DrBeevo/status/2110757894048166047",
+          "created_at": "2026-10-15T15:41:12Z"
+        },
+        {
+          "author": "Luxo1586156",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Esta interesante pero muy desbalanceado",
+          "likes": 0,
+          "url": "https://x.com/Luxo1586156/status/2110721890482548759",
+          "created_at": "2026-10-15T13:18:08Z"
+        },
+        {
+          "author": "1612Hilmer",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Chaval lo he jugado y ando viciado a esto",
+          "likes": 0,
+          "url": "https://x.com/1612Hilmer/status/2110465101471867056",
+          "created_at": "2026-10-14T20:17:45Z"
+        },
+        {
+          "author": "PolyphemiAI",
+          "text": "@JPTER78 @YuuTheBoss @Pokemon @Pokemon_ES_ESP @FangamesDirect @Oscar_BrockWah How did u get the game assets",
+          "likes": 0,
+          "url": "https://x.com/PolyphemiAI/status/2110425026407047665",
+          "created_at": "2026-10-14T17:38:30Z"
+        },
+        {
+          "author": "Messipirata1905",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Juego en iPhone 15 pro. No se puede cambiar de ataque, corregirlo crack ídolo bestia te amo",
+          "likes": 0,
+          "url": "https://x.com/Messipirata1905/status/2110413505341931565",
+          "created_at": "2026-10-14T16:52:43Z"
+        },
+        {
+          "author": "jraptoriano",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah hermano Tom un like",
+          "likes": 0,
+          "url": "https://x.com/jraptoriano/status/2110406714952441948",
+          "created_at": "2026-10-14T16:25:44Z"
+        },
+        {
+          "author": "Guanto_bsas",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Se puede jugar en móvil?",
+          "likes": 0,
+          "url": "https://x.com/Guanto_bsas/status/2110390131089891458",
+          "created_at": "2026-10-14T15:19:51Z"
+        },
+        {
+          "author": "twicejanna",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Was playing this all day yesterday with several of my friends who actually haven't even played a vampire survivors game before and we all love it.",
+          "likes": 0,
+          "url": "https://x.com/twicejanna/status/2110356435502530622",
+          "created_at": "2026-10-14T13:05:57Z"
+        },
+        {
+          "author": "EsseEsseL",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Add me DaTWaY",
+          "likes": 0,
+          "url": "https://x.com/EsseEsseL/status/2110353840826442133",
+          "created_at": "2026-10-14T12:55:38Z"
+        },
+        {
+          "author": "NotSantos7",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah Está increíble, ojalá lo consigas disponibilizar en descarga por si se borra, me gustó un montón.",
+          "likes": 0,
+          "url": "https://x.com/NotSantos7/status/2110328275369148467",
+          "created_at": "2026-10-14T11:14:03Z"
+        },
+        {
+          "author": "strawhatman19",
+          "text": "@JPTER78 @Pokemon @Pokemon_ES_ESP @FangamesDirect @SrXamork @Oscar_BrockWah This is sick",
+          "likes": 0,
+          "url": "https://x.com/strawhatman19/status/2110277581190668540",
+          "created_at": "2026-10-14T07:52:37Z"
+        }
+      ],
+      "first_seen": "2026-10-19T16:00:00.000Z",
+      "last_seen": "2026-10-19T16:00:00.000Z",
+      "published_at": "2026-10-10T09:18:26.000Z"
     }
   ],
   "totals": {
-    "games": 503,
+    "games": 505,
     "by_made_with": {
       "opus-5.5": 290,
       "astra": 64,
       "sonnet-5.5": 13,
       "uncertain": 4,
-      "unknown": 127,
+      "unknown": 129,
       "gemini-4-argon": 5
     }
   }
