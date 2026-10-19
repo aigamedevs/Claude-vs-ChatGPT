@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T01:30:00.000Z",
+  "updated_at": "2026-10-19T16:40:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -32371,6 +32371,164 @@
       "first_seen": "2026-10-19T16:00:00.000Z",
       "last_seen": "2026-10-19T16:00:00.000Z",
       "published_at": "2026-10-10T09:18:26.000Z"
+    },
+    {
+      "id": "virtual-on-web",
+      "title": "Cyber Troopers Virtual-On (WebGPU)",
+      "description": "Unofficial ahead-of-time recompilation of Cyber Troopers Virtual-On for WebAssembly and WebGPU: Classic/Enhanced/Enhanced+ graphics, keyboard and gamepad twin-stick controls. Needs your own USA or Japan Revision B ROM (von.zip). Desktop Chrome with WebGPU; still experimental. Multiplayer planned.",
+      "play_url": "https://solid7s.github.io/Virtual-On-Web/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x9b2mw/virtualonweb_play_cyber_troopers_virtualon_arcade/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x9b2mw/virtualonweb_play_cyber_troopers_virtualon_arcade/",
+      "github_url": "https://github.com/Solid7s/Virtual-On-Web",
+      "github_user": "Solid7s",
+      "author": "Solid7s",
+      "author_source": "https://github.com/Solid7s/Virtual-On-Web",
+      "found_via": "r/decomps Virtual-On-Web by u/NoahOlive617 (Solid7s)",
+      "found_via_network": "reddit",
+      "made_with": "uncertain",
+      "engine": "WebGPU",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Virtual-On USA or Japan Revision B ROM files (von.zip)",
+      "iframe": true,
+      "screenshot_path": "screenshots/407-virtual-on-web.jpg",
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Capped at 2.5/3 (own ROM): clean launcher with Virtual-On logo, ROM file picker, graphics-mode toggles, and twin-stick control panel — no in-game combat without von.zip.",
+      "screenshots": [
+        {
+          "path": "screenshots/407-virtual-on-web.jpg",
+          "score": 2.5,
+          "notes": "Launcher with ROM picker and Virtual-On logo"
+        }
+      ],
+      "remote_likes": 13,
+      "likes_source": "reddit",
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "Ezraah",
+          "text": "this game pissed me off so much in yakuza kiwami2",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x9b2mw/virtualonweb_play_cyber_troopers_virtualon_arcade/phkh6sm/",
+          "created_at": "2026-10-18T20:39:39Z"
+        },
+        {
+          "author": "Chipper_Bandit",
+          "text": "Man, I'd love to play Virtua On again, but its just not the same without twin sticks.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1x9b2mw/virtualonweb_play_cyber_troopers_virtualon_arcade/phm5mc6/",
+          "created_at": "2026-10-19T01:54:30Z"
+        }
+      ],
+      "published_at": "2026-10-18T18:51:51Z",
+      "first_seen": "2026-10-19T16:40:00.000Z",
+      "last_seen": "2026-10-19T16:40:00.000Z",
+      "likes_checked": "2026-10-19"
+    },
+    {
+      "id": "un-banished",
+      "title": "Un-Banished",
+      "description": "From-scratch Rust reimplementation of the Banished city-builder engine: native on Windows/macOS/Linux and in the browser via WebAssembly/wgpu. Uses the game files from your own copy of Banished; reads and writes the original save format.",
+      "play_url": "https://tanepiper.github.io/unbanished/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x9w77w/unbanished_a_modern_crossplatform_browser_rust/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x9w77w/unbanished_a_modern_crossplatform_browser_rust/",
+      "github_url": "https://github.com/tanepiper/unbanished",
+      "github_user": "tanepiper",
+      "author": "tanepiper",
+      "author_source": "https://github.com/tanepiper/unbanished",
+      "found_via": "r/decomps Unbanished post by u/EternalDisciple (tanepiper)",
+      "found_via_network": "reddit",
+      "made_with": "uncertain",
+      "engine": "Rust/wgpu",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "category": "city-builder",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own copy of Banished game files",
+      "iframe": true,
+      "screenshot_path": "screenshots/408-un-banished.jpg",
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Capped at 2.5/3 (own Banished files): isometric town in autumn forest with market stalls, farms, and bottom toolbar — original Banished art drawn from a player's copy (repo screenshot).",
+      "screenshots": [
+        {
+          "path": "screenshots/408-un-banished.jpg",
+          "score": 2.5,
+          "notes": "Town overview with original Banished art from player's copy"
+        }
+      ],
+      "remote_likes": 6,
+      "likes_source": "reddit",
+      "comment_count": 0,
+      "published_at": "2026-10-19T12:58:18Z",
+      "first_seen": "2026-10-19T16:40:00.000Z",
+      "last_seen": "2026-10-19T16:40:00.000Z",
+      "likes_checked": "2026-10-19"
+    },
+    {
+      "id": "booym",
+      "title": "Booym",
+      "description": "Static decomp of a 1999 PC ball-breaker from the Galaxy of Games Yellow Edition CD, ported to browser (~35 MB), Windows, and Android. Two-player brick-smashing duel; keyboard/mouse on PC, touch on phone. Plays instantly with no extra game files.",
+      "play_url": "https://oldkid.net/booym/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1x96zkd/booym_decomp_1999_pc_ball_breaker_game/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x96zkd/booym_decomp_1999_pc_ball_breaker_game/",
+      "github_url": null,
+      "github_user": null,
+      "author": null,
+      "author_source": "https://www.reddit.com/r/decomps/comments/1x96zkd/booym_decomp_1999_pc_ball_breaker_game/",
+      "found_via": "r/decomps Booym Decomp post (author handle unknown)",
+      "found_via_network": "reddit",
+      "made_with": "uncertain",
+      "tags": [
+        "decomp"
+      ],
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "screenshot_path": "screenshots/409-booym.jpg",
+      "screenshot_score": 7.2,
+      "screenshot_score_notes": "Dark industrial landing with clear BOOYM title, Play Online / Windows / Android options and size notes (~35 MB browser). Strong branding; menu rather than mid-match bricks.",
+      "screenshots": [
+        {
+          "path": "screenshots/409-booym.jpg",
+          "score": 7.2,
+          "notes": "Landing with Play Online / Windows / Android"
+        }
+      ],
+      "video_path": "videos/booym.mp4",
+      "video_source": "feed-local",
+      "videos": [
+        {
+          "path": "videos/booym.mp4",
+          "source": "feed-local"
+        }
+      ],
+      "remote_likes": 3,
+      "likes_source": "reddit",
+      "comment_count": 0,
+      "published_at": "2026-10-18T16:08:36Z",
+      "first_seen": "2026-10-19T16:40:00.000Z",
+      "last_seen": "2026-10-19T16:40:00.000Z",
+      "likes_checked": "2026-10-19"
     }
   ],
   "totals": {
