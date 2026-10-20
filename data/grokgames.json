@@ -34546,16 +34546,70 @@
       "first_seen": "2026-10-20T01:30:00.000Z",
       "last_seen": "2026-10-20T01:30:00.000Z",
       "published_at": "2026-10-18T16:01:22.000Z"
+    },
+    {
+      "id": "pvz2-gardendless",
+      "title": "PvZ2 Gardendless (Plants vs. Zombies 2 web port)",
+      "description": "Fan rewrite of Plants vs. Zombies 2 built entirely with web tech (Cocos Creator): PC-style port that runs in the browser with mouse or touch, plus desktop builds. Plays instantly online with no game files of your own.",
+      "play_url": "https://play.pvzge.com/",
+      "source_url": "https://portsdr.com/",
+      "github_url": "https://github.com/Gzh0821/pvzge_web",
+      "repo_url": "https://github.com/Gzh0821/pvzg_site",
+      "github_user": "Gzh0821",
+      "github_stars": 238,
+      "author": "Gzh0821",
+      "author_source": "https://github.com/Gzh0821/pvzge_web",
+      "found_via": "FMHY (PortsDR) -> GitHub Gzh0821/pvzge_web (site repo Gzh0821/pvzg_site); requested by Decomp Games",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Cocos Creator",
+      "tags": [
+        "decomp"
+      ],
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "video_path": "videos/pvz2-gardendless.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/pvz2-gardendless.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/pvz2-gardendless.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pvz2-gardendless.jpg",
+          "score": 7.5,
+          "notes": "Bright official-style PvZ2 art: Peashooters lined up on the New Player's House lawn firing peas at a column of browncoat zombies, falling sun, seed packet, sun counter and wave progress bar. Clean HUD and very recognizable, but it is the sparse one-lane tutorial level. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Bright official-style PvZ2 art: Peashooters lined up on the New Player's House lawn firing peas at a column of browncoat zombies, falling sun, seed packet, sun counter and wave progress bar. Clean HUD and very recognizable, but it is the sparse one-lane tutorial level. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "remote_likes": 238,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/Gzh0821/pvzge_web",
+      "likes_checked": "2026-10-20",
+      "published_at": "2024-07-05T14:36:24Z",
+      "first_seen": "2026-10-20T04:10:00.000Z",
+      "last_seen": "2026-10-20T04:10:00.000Z"
     }
   ],
   "totals": {
-    "games": 529,
+    "games": 530,
     "by_made_with": {
       "opus-5.5": 294,
       "astra": 66,
       "sonnet-5.5": 13,
       "uncertain": 7,
-      "unknown": 144,
+      "unknown": 145,
       "gemini-4-argon": 5
     }
   }
