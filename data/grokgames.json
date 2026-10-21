@@ -11781,8 +11781,8 @@
           "notes": "Needs your own game files (rom); capped at 3 per curator rule."
         }
       ],
-      "screenshot_score": 9.5,
-      "screenshot_score_notes": "Set to 9.5 by Igor (2026-10-12).",
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Capped at 2.5/3 (was 9.5): player must load their own Halo CE ISO (Igor's rule). Poster is clear first-person Halo CE combat, but nothing is playable without your own game files.",
       "x_handle": "BanTrev",
       "author_source": "https://hcemobile.com/",
       "video_path": "videos/halo-combat-evolved-mobile-hcemobile.mp4",
@@ -11793,6 +11793,7 @@
           "source": "youtube"
         }
       ],
+      "browser_playable": true,
       "requires_own_files": true,
       "requires_own_files_note": "Upload your own Halo CE ISO",
       "remote_likes": 1,
