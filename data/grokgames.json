@@ -1658,14 +1658,40 @@
       "found_via": "GitHub search + AgentsLoop seed; README: every line by Claude Opus 5.5",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/69-long-wind.jpg",
-      "screenshot_score": 9.2,
-      "screenshot_score_notes": "Cinematic golden-hour steppe duel: dense grass, bloom lighting, clear silhouettes of swordsmen — highly composed in-game still with no HUD clutter.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - Wuxia action RPG: two swordsmen facing off in a golden grass field at sunset, a lantern-lit night forest, a courtyard duel under red lanterns, third-person field play with HUD; cinematic lighting.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29T23:57:00.000Z",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 22,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/69-long-wind.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - Wuxia action RPG: two swordsmen facing off in a golden grass field at sunset, a lantern-lit night forest, a courtyard duel under red lanterns, third-person field play with HUD; cinematic lighting."
+        },
+        {
+          "path": "screenshots/long-wind-1.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/long-wind-2.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/long-wind-3.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "casa-de-gemas",
@@ -2433,14 +2459,45 @@
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/110-turbo-kart-rally.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Bright low-poly coastal track with bold title and start gate; karts tiny but scene reads clearly.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - low-poly kart racer: title over a sunny track, karts racing past red-white curbs and mountains with lap/position HUD and minimap, VICTORY results board; bright and readable.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 19,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/110-turbo-kart-rally.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - low-poly kart racer: title over a sunny track, karts racing past red-white curbs and mountains with lap/position HUD and minimap, VICTORY results board; bright and readable."
+        },
+        {
+          "path": "screenshots/turbo-kart-rally-1.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/turbo-kart-rally-2.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/turbo-kart-rally-3.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/turbo-kart-rally-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "coral-reef-day",
@@ -2642,14 +2699,40 @@
       "found_via": "X post by @chrisjdimarco listing live Astra/ChatGPT Sites games",
       "found_via_network": "x",
       "screenshot_path": "screenshots/115-skip-a-stone.jpg",
-      "screenshot_score": 9.3,
-      "screenshot_score_notes": "Photoreal alpine lake with boats, stone picker and timing meters — exceptional still composition.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - realistic lake at golden hour: first-person view over calm water with sailboats and mountains, power/angle sliders, stone splashes and ripples; lovely water rendering, single scene.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
       "engine": "ChatGPT",
       "remote_likes": 6,
-      "likes_source": "x"
+      "likes_source": "x",
+      "screenshots": [
+        {
+          "path": "screenshots/115-skip-a-stone.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - realistic lake at golden hour: first-person view over calm water with sailboats and mountains, power/angle sliders, stone splashes and ripples; lovely water rendering, single scene."
+        },
+        {
+          "path": "screenshots/skip-a-stone-1.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/skip-a-stone-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/skip-a-stone-3.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "pool-sumo",
@@ -2718,8 +2801,8 @@
       "found_via": "X post by @BennettSchwartz: Opus 5.5 finished Balatro-style hold'em; play URL poker.gustycube.com",
       "found_via_network": "x",
       "screenshot_path": "screenshots/145-pixel-poker.jpg",
-      "screenshot_score": 8.8,
-      "screenshot_score_notes": "Balatro-like title with royal-flush fan and five clear mode buttons on psychedelic green field.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - pixel poker: suit-patterned title screen, table lobby, green felt table with cartoon AI opponents and a hole-card hand with fold/call/raise buttons; clean but flat UI.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -2736,6 +2819,32 @@
           "url": "https://x.com/keylimesoda/status/2104838184681284096",
           "created_at": "2026-09-29T07:38:23Z"
         }
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/145-pixel-poker.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - pixel poker: suit-patterned title screen, table lobby, green felt table with cartoon AI opponents and a hole-card hand with fold/call/raise buttons; clean but flat UI."
+        },
+        {
+          "path": "screenshots/pixel-poker-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/pixel-poker-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/pixel-poker-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -2851,8 +2960,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra + tikgame.org featured Astra collection",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/153-infinite-garden.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Striking sage wireframe cityscape title screen with bilingual branding and clear Enter Garden CTA — strong composition and polish.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - monochrome architectural walk: Chinese title card, then first-person wanders through pale endless courtyards, colonnades and stairs; striking sketch-like look, very low contrast.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -2862,7 +2971,38 @@
         "desktop"
       ],
       "remote_likes": 289,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/153-infinite-garden.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - monochrome architectural walk: Chinese title card, then first-person wanders through pale endless courtyards, colonnades and stairs; striking sketch-like look, very low contrast."
+        },
+        {
+          "path": "screenshots/infinite-garden-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/infinite-garden-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/infinite-garden-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/infinite-garden-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "vector-dive",
@@ -2911,8 +3051,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra Stadium Elite entry",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/155-stadium-elite.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Polished Camp Nou pitch and stands with El Clásico crests and clear Play First Goal UI — stadium scene reads instantly.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - 3D football match: El Clasico kickoff card over the pitch, then broadcast-angle play with players, goals and stands, score/time HUD; convincing TV look, small player models.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -2924,7 +3064,38 @@
       "likes_source": "github",
       "engine": "mindblown.ai",
       "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
+      "iframe_block_reason": "csp-frame-ancestors-mindblown-only",
+      "screenshots": [
+        {
+          "path": "screenshots/155-stadium-elite.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - 3D football match: El Clasico kickoff card over the pitch, then broadcast-angle play with players, goals and stands, score/time HUD; convincing TV look, small player models."
+        },
+        {
+          "path": "screenshots/stadium-elite-1.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/stadium-elite-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/stadium-elite-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/stadium-elite-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "no-moat",
@@ -2973,8 +3144,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra (Olivia295 / SURGE for Oinja)",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/157-surge-for-oinja.jpg",
-      "screenshot_score": 9.0,
-      "screenshot_score_notes": "Polished isometric menu with ninja operative, ability grid, stage select and Danger contracts — strong Oinja brand identity.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - top-down 3D street brawler/shooter: title over a dusky street, a character crossing a tiled plaza between food stalls with combat arcs and HUD timer; tidy low-poly art, dim palette.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -2989,7 +3160,38 @@
       "github_url": "https://github.com/Olivia295/SURGE-for-Oinja",
       "avatar_url": "/avatars/Olivia295.jpg",
       "x_handle": null,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/157-surge-for-oinja.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - top-down 3D street brawler/shooter: title over a dusky street, a character crossing a tiled plaza between food stalls with combat arcs and HUD timer; tidy low-poly art, dim palette."
+        },
+        {
+          "path": "screenshots/surge-for-oinja-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/surge-for-oinja-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/surge-for-oinja-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/surge-for-oinja-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "jellyblob",
@@ -16839,12 +17041,36 @@
       "screenshots": [
         {
           "path": "screenshots/396-frontier-habitat.jpg",
-          "score": 7,
-          "notes": "Repo screenshot: domed colony linked by tubes on orange Martian ground with a full management HUD, goals panel and minimap; detailed and readable."
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI."
+        },
+        {
+          "path": "screenshots/frontier-habitat-1.jpg",
+          "source": "github-readme",
+          "score": 5
+        },
+        {
+          "path": "screenshots/frontier-habitat-2.jpg",
+          "source": "github-readme",
+          "score": 5
+        },
+        {
+          "path": "screenshots/frontier-habitat-3.jpg",
+          "source": "github-readme",
+          "score": 5
+        },
+        {
+          "path": "screenshots/frontier-habitat-4.jpg",
+          "source": "headless",
+          "score": 5
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Repo screenshot: domed colony linked by tubes on orange Martian ground with a full management HUD, goals panel and minimap; detailed and readable."
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "san-theft-auto",
@@ -17639,7 +17865,8 @@
       "made_with": "opus-5.5",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "screenshots"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -17661,12 +17888,28 @@
       "screenshots": [
         {
           "path": "screenshots/402-star-fox-project-arwing.jpg",
+          "source": "existing",
           "score": 3,
-          "notes": "Repo screenshot of the attack carrier in HD 3D over an orange sky with shield HUD; crisp flat polygons. Needs your own ROM; capped at 3."
+          "notes": "screenshots: rated from 4 screenshots - README shots of the Star Fox PC port: flat-shaded polygon Arwings over Corneria and in space by a planet, port settings menu; faithful SNES look, own ROM required (capped at 3)."
+        },
+        {
+          "path": "screenshots/star-fox-project-arwing-1.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/star-fox-project-arwing-2.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/star-fox-project-arwing-3.jpg",
+          "source": "github-readme",
+          "score": 3
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Repo screenshot of the attack carrier in HD 3D over an orange sky with shield HUD; crisp flat polygons. Needs your own ROM; capped at 3.",
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - README shots of the Star Fox PC port: flat-shaded polygon Arwings over Corneria and in space by a planet, port settings menu; faithful SNES look, own ROM required (capped at 3).",
       "requires_own_files": true,
       "requires_own_files_note": "Needs your own Star Fox (USA) (Rev 2) ROM",
       "browser_playable": false,
@@ -23031,7 +23274,8 @@
       "made_with": "unknown",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "screenshots"
       ],
       "requires_own_files": true,
       "requires_own_files_note": "Needs your own Digimon World 2 game files",
@@ -23050,16 +23294,32 @@
       "remote_likes": 14,
       "comment_count": 0,
       "comments": [],
-      "screenshot_path": "videos/digimon-world-2-pc.jpg",
+      "screenshot_path": "screenshots/digimon-world-2-pc-1.jpg",
       "screenshots": [
         {
-          "path": "videos/digimon-world-2-pc.jpg",
+          "path": "screenshots/digimon-world-2-pc-1.jpg",
+          "source": "github-readme",
           "score": 3,
-          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+          "notes": "screenshots: rated from 4 screenshots - README shots of the Digimon World 2 PC port: isometric tiled base interiors with Digimon sprites, dialogue boxes, title logo; faithful PS1 art, own game files required (capped at 3)."
+        },
+        {
+          "path": "screenshots/digimon-world-2-pc-2.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/digimon-world-2-pc-3.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/digimon-world-2-pc-4.jpg",
+          "source": "github-readme",
+          "score": 3
         }
       ],
-      "screenshot_score": 1,
-      "screenshot_score_notes": "multi-frame: only image is the GitHub repo card; no gameplay frames available. Capped at 3 (needs own files).",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - README shots of the Digimon World 2 PC port: isometric tiled base interiors with Digimon sprites, dialogue boxes, title logo; faithful PS1 art, own game files required (capped at 3).",
       "found_via_network": "reddit",
       "author": "Wyrelade",
       "author_source": "https://www.reddit.com/user/Wyrelade/",
