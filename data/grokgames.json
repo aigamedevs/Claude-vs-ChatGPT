@@ -114,8 +114,8 @@
       "found_via": "X post linking the playable Hugging Face Space",
       "found_via_network": "x",
       "screenshot_path": "screenshots/08-spiderman-miles.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "A striking purple city canyon frames the swinging character clearly, with excellent depth, color, and action-focused composition.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - Spider-Verse-style purple skyline swing intro, then a pale low-poly city with Miles on rooftops and a busy combat HUD; recognisable but flat textures.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -134,6 +134,32 @@
           "url": "https://x.com/18reuchagas/status/2103143122196992121",
           "created_at": "2026-09-24T15:22:49Z"
         }
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/08-spiderman-miles.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - Spider-Verse-style purple skyline swing intro, then a pale low-poly city with Miles on rooftops and a busy combat HUD; recognisable but flat textures."
+        },
+        {
+          "path": "screenshots/spider-man-miles-morales-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/spider-man-miles-morales-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/spider-man-miles-morales-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -178,13 +204,44 @@
       "source_url": "https://agentgames.itch.io/inkbound",
       "found_via": "X post linking the itch.io browser game",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/10-inkbound.jpg",
-      "screenshot_score": 5.8,
-      "screenshot_score_notes": "The minimalist title treatment is crisp and distinctive, but the still does not show the chase or any playable scene.",
+      "screenshot_path": "screenshots/inkbound-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - ink-sketch side-scroller on parchment: a doodled runner over hand-drawn hills with 'close call' callouts, score/best HUD; charming but monochrome and sparse.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/inkbound-1.jpg",
+          "source": "itch-page",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - ink-sketch side-scroller on parchment: a doodled runner over hand-drawn hills with 'close call' callouts, score/best HUD; charming but monochrome and sparse."
+        },
+        {
+          "path": "screenshots/inkbound-2.jpg",
+          "source": "itch-page",
+          "score": 5
+        },
+        {
+          "path": "screenshots/inkbound-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/inkbound-4.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/inkbound-5.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "low-tide",
@@ -802,15 +859,41 @@
       "source_url": "https://x.com/goethecoin/status/2104376288127684938",
       "found_via": "X post by @goethecoin (hours-old) with Netlify play URL",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/29-discodino.jpg",
-      "screenshot_score": 4.2,
-      "screenshot_score_notes": "Only the game’s circular crest icon could be captured; headless Chrome did not finish loading the large Godot wasm, so gameplay is not visible.",
+      "screenshot_path": "screenshots/discodino-lost-worlds-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - top-down pixel forest with paths, ponds, mushrooms and a tiny dino explorer; tidy tiles, small sprites, sparse HUD.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "engine": "Godot",
       "remote_likes": 3,
-      "likes_source": "x"
+      "likes_source": "x",
+      "screenshots": [
+        {
+          "path": "screenshots/discodino-lost-worlds-1.jpg",
+          "source": "headless",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - top-down pixel forest with paths, ponds, mushrooms and a tiny dino explorer; tidy tiles, small sprites, sparse HUD."
+        },
+        {
+          "path": "screenshots/discodino-lost-worlds-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/discodino-lost-worlds-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/discodino-lost-worlds-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "flip-clash",
@@ -861,13 +944,44 @@
       "found_via": "X roundup + creator GitHub README with claudered.dev play link",
       "found_via_network": "x",
       "screenshot_path": "screenshots/35-claudered.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Crisp GBA-style battle still with Charizard Flamethrower vs Venusaur, clear HP windows, and vibrant pixel environments.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - GBA-style Pokémon fan game: Charizard vs Venusaur battle UI, Pallet-like town tiles, Pikachu vs Gyarados; faithful pixel art, recognisable.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 41,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/35-claudered.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - GBA-style Pokémon fan game: Charizard vs Venusaur battle UI, Pallet-like town tiles, Pikachu vs Gyarados; faithful pixel art, recognisable."
+        },
+        {
+          "path": "screenshots/pokemon-claude-red-1.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/pokemon-claude-red-2.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/pokemon-claude-red-3.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/pokemon-claude-red-4.jpg",
+          "source": "github-readme",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "sakura-river-valley",
@@ -990,9 +1104,9 @@
       "source_url": "https://x.com/hunchcapital/status/2104451132001276348",
       "found_via": "X post by @hunchcapital (RAF dogfight over London with Opus 5.5) linking fierro.ai",
       "found_via_network": "x",
-      "screenshot_path": "screenshots/42-fierro.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Polished title panel over a readable low-poly London Thames scene with clear Take off CTA and control legend.",
+      "screenshot_path": "screenshots/fierro-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - WW1 biplane dogfights over a sunlit low-poly town and desert sky, mission HUD and minimap; soft lighting, clean but simple models.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -1024,6 +1138,37 @@
           "url": "https://x.com/hunchcapital/status/2104458939576512815",
           "created_at": "2026-09-28T06:31:24Z"
         }
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/fierro-1.jpg",
+          "source": "headless",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - WW1 biplane dogfights over a sunlit low-poly town and desert sky, mission HUD and minimap; soft lighting, clean but simple models."
+        },
+        {
+          "path": "screenshots/fierro-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fierro-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fierro-4.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fierro-5.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -1452,12 +1597,38 @@
       "found_via_network": "openai",
       "made_with": "astra",
       "engine": "ChatGPT",
-      "screenshot_path": "screenshots/83-void-explorer.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Cinematic menu still: ship, planet, neon phosphor UI and expedition HUD are immediately readable with strong composition.",
+      "screenshot_path": "screenshots/void-explorer-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - space flight around a glowing blue planet with a magenta ring, spaceship third-person, sparse HUD; vivid neon palette, simple geometry.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/void-explorer-1.jpg",
+          "source": "headless",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - space flight around a glowing blue planet with a magenta ring, spaceship third-person, sparse HUD; vivid neon palette, simple geometry."
+        },
+        {
+          "path": "screenshots/void-explorer-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/void-explorer-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/void-explorer-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "sunwake",
@@ -1486,12 +1657,38 @@
       "found_via_network": "openai",
       "made_with": "astra",
       "engine": "ChatGPT",
-      "screenshot_path": "screenshots/85-hollowflux.jpg",
-      "screenshot_score": 8.1,
-      "screenshot_score_notes": "Moody pixel title screen clearly brands the game; cavern silhouette and control hints are legible but sparse on active combat.",
+      "screenshot_path": "screenshots/hollowflux-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - dark cave platformer: teal crystalline cave walls, tiny glowing explorer, minimal HUD; moody palette but small sprites and lots of black.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/hollowflux-1.jpg",
+          "source": "headless",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - dark cave platformer: teal crystalline cave walls, tiny glowing explorer, minimal HUD; moody palette but small sprites and lots of black."
+        },
+        {
+          "path": "screenshots/hollowflux-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/hollowflux-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/hollowflux-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "velocity-loop",
@@ -1537,13 +1734,39 @@
       "found_via_network": "catalog",
       "made_with": "astra",
       "engine": "ChatGPT",
-      "screenshot_path": "screenshots/88-mosswing.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Soft low-poly title still clearly shows the flyer, pillar gaps, and one-tap call to action.",
+      "screenshot_path": "screenshots/mosswing-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - Flappy-style bird weaving between mossy green pillars over a peach sky and shrubs; soft pastel art, very simple.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "remote_likes": 54,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/mosswing-1.jpg",
+          "source": "headless",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - Flappy-style bird weaving between mossy green pillars over a peach sky and shrubs; soft pastel art, very simple."
+        },
+        {
+          "path": "screenshots/mosswing-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/mosswing-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/mosswing-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "thunderfall",
@@ -1572,13 +1795,44 @@
       "found_via_network": "catalog",
       "made_with": "astra",
       "engine": "Three.js",
-      "screenshot_path": "screenshots/90-magic-carpet.jpg",
-      "screenshot_score": 8.8,
-      "screenshot_score_notes": "Cel-shaded desert city, glowing ring objective and clear Take flight CTA compose a strong title still.",
+      "screenshot_path": "screenshots/magic-carpet-wizard-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - stylised desert city of domes and towers with flying carpets, airships and floating debris, spell HUD; warm cohesive palette, busy small details.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29T23:56:48.000Z",
       "remote_likes": 3,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/magic-carpet-wizard-1.jpg",
+          "source": "headless",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - stylised desert city of domes and towers with flying carpets, airships and floating debris, spell HUD; warm cohesive palette, busy small details."
+        },
+        {
+          "path": "screenshots/magic-carpet-wizard-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/magic-carpet-wizard-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/magic-carpet-wizard-4.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/magic-carpet-wizard-5.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "hot-wheeler",
@@ -1781,16 +2035,42 @@
       "source_url": "https://github.com/aibengineering/sprout-quest",
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/104-sprout-quest.jpg",
-      "screenshot_score": 8.3,
-      "screenshot_score_notes": "Bright grassy field with sprout-hero, blob and bunny under a clean title and loading bar.",
+      "screenshot_path": "screenshots/sprout-quest-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - top-down green garden maze with hedges, sandy paths, little sprout character and quest bubbles; clean cute tiles, simple.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "remote_likes": 4,
       "likes_source": "github_stars",
       "likes_source_url": "https://github.com/aibengineering/sprout-quest",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/sprout-quest-1.jpg",
+          "source": "headless",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - top-down green garden maze with hedges, sandy paths, little sprout character and quest bubbles; clean cute tiles, simple."
+        },
+        {
+          "path": "screenshots/sprout-quest-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/sprout-quest-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/sprout-quest-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "nova-lancer",
@@ -1800,15 +2080,46 @@
       "source_url": "https://github.com/tanuu5/nova-lancer",
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/105-nova-lancer.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Low-poly jets over a dusk ocean with strong bilingual title treatment and mission HUD.",
+      "screenshot_path": "screenshots/nova-lancer-1.jpg",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - creator README shots: jet skimming a bright ocean with laser fire, a red canyon run and a neon night city; polished lighting and sense of speed.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 3,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/nova-lancer-1.jpg",
+          "source": "github-readme",
+          "score": 8,
+          "notes": "screenshots: rated from 5 screenshots - creator README shots: jet skimming a bright ocean with laser fire, a red canyon run and a neon night city; polished lighting and sense of speed."
+        },
+        {
+          "path": "screenshots/nova-lancer-2.jpg",
+          "source": "github-readme",
+          "score": 8
+        },
+        {
+          "path": "screenshots/nova-lancer-3.jpg",
+          "source": "github-readme",
+          "score": 8
+        },
+        {
+          "path": "screenshots/nova-lancer-4.jpg",
+          "source": "github-readme",
+          "score": 8
+        },
+        {
+          "path": "screenshots/nova-lancer-5.jpg",
+          "source": "github-readme",
+          "score": 8
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "fall-line",
@@ -1819,8 +2130,8 @@
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/107-fall-line.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Cinematic powder shot with trick callout, speed/alt telemetry and PRESS ANY KEY — immediately reads as freeride.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - snowboarder carving down bright alpine slopes with mountain backdrop, trick callouts and speed HUD; clean but sparse snowfields.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -1828,7 +2139,38 @@
       "remote_likes": 6,
       "likes_source": "github_stars",
       "likes_source_url": "https://github.com/Nipale-ai/opus-5-5-overnight-builds",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/107-fall-line.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - snowboarder carving down bright alpine slopes with mountain backdrop, trick callouts and speed HUD; clean but sparse snowfields."
+        },
+        {
+          "path": "screenshots/fall-line-1.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fall-line-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fall-line-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fall-line-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "kagit-kart",
@@ -1838,9 +2180,9 @@
       "source_url": "https://github.com/BurakErdemci/kagit-kart",
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/108-kagit-kart.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Gorgeous tabletop book + fox kart diorama with cohesive paper-craft branding.",
+      "screenshot_path": "screenshots/kagit-kart-1.jpg",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - papercraft kart racer: storybook course select, chunky karts at a checkered start line, Istanbul-style night track, minimap HUD; charming crafted look.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -1848,7 +2190,38 @@
       "remote_likes": 5,
       "likes_source": "github_stars",
       "likes_source_url": "https://github.com/BurakErdemci/kagit-kart",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/kagit-kart-1.jpg",
+          "source": "github-readme",
+          "score": 7,
+          "notes": "screenshots: rated from 5 screenshots - papercraft kart racer: storybook course select, chunky karts at a checkered start line, Istanbul-style night track, minimap HUD; charming crafted look."
+        },
+        {
+          "path": "screenshots/kagit-kart-2.jpg",
+          "source": "github-readme",
+          "score": 7
+        },
+        {
+          "path": "screenshots/kagit-kart-3.jpg",
+          "source": "github-readme",
+          "score": 7
+        },
+        {
+          "path": "screenshots/kagit-kart-4.jpg",
+          "source": "headless",
+          "score": 7
+        },
+        {
+          "path": "screenshots/kagit-kart-5.jpg",
+          "source": "headless",
+          "score": 7
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "turbo-kart-rally",
@@ -3586,52 +3959,6 @@
           "created_at": "2026-09-29T21:56:44Z"
         }
       ]
-    },
-    {
-      "id": "brainhive",
-      "title": "Brainhive",
-      "description": "Collection of 100 bite-sized browser brain games (memory, logic, speed) built in under 48 hours with Opus 5.5 — Phaser + React + TypeScript + Framer Motion; monthly content refresh.",
-      "play_url": "https://www.brainhive.games/",
-      "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/",
-      "found_via": "reddit / r/aigamedev",
-      "found_via_network": "reddit",
-      "made_with": "opus-5.5",
-      "engine": "Phaser",
-      "category": "puzzle",
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "published_at": "2026-09-29T13:38:40.000Z",
-      "listed_at": "2026-09-29T16:48:57.000Z",
-      "first_seen": "2026-09-29T16:48:57.000Z",
-      "last_seen": "2026-09-29T23:57:00.000Z",
-      "remote_likes": 0,
-      "likes_source": "reddit",
-      "comments": [
-        {
-          "author": "YaygFX",
-          "text": "Why are people so proud of just making endless slop.\n\nCongratulations on spending \nless than an hour on each game.\n\nPlease don't put this shit into our world though.\n\nUse AI to make a 1000 hour game take 200 hours to make. Not for shit like this man.",
-          "likes": 5,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsfpo4/",
-          "created_at": "2026-09-29T13:53:23Z"
-        },
-        {
-          "author": "Motor-Travel-7560",
-          "text": "Hey, I've seen this one before!\n\nhttps://preview.redd.it/xntw6eljtgsh1.jpeg?width=262&format=pjpg&auto=webp&s=c203e53230db6ef9dd33b609eb2d1bc094cf296e\n\nAt least yours doesn't cost $200 in 1991 money, though.",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsgtaf/",
-          "created_at": "2026-09-29T13:58:24Z"
-        },
-        {
-          "author": "Baraga91",
-          "text": "\"Why do people  complain about AI slop so much?\"\n\nBecause of you. ",
-          "likes": 0,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1wtad7l/i_made_100_games_in_less_than_48_hours/pcsvqxp/",
-          "created_at": "2026-09-29T15:03:14Z"
-        }
-      ],
-      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
     },
     {
       "id": "spider-man-spiderverse",
@@ -37187,9 +37514,9 @@
     }
   ],
   "totals": {
-    "games": 552,
+    "games": 551,
     "by_made_with": {
-      "opus-5.5": 297,
+      "opus-5.5": 296,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 7,
