@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T02:30:00.000Z",
+  "updated_at": "2026-10-21T13:56:29.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -39106,16 +39106,306 @@
       "tags": [
         "rec"
       ]
+    },
+    {
+      "id": "nolf-web",
+      "title": "No One Lives Forever (playnolf.com browser port)",
+      "description": "The Operative: No One Lives Forever (Monolith, PC 2000) running in the browser: all 16 missions plus the Game of the Year extras, picked straight from a mission list, with keyboard and mouse, touch or controller. Plays instantly with nothing to install; an optional account keeps saves across computers. Built on the released Lithtech/NOLF source code.",
+      "play_url": "https://playnolf.com/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "author": "Brightwork Digital",
+      "author_source": "https://playnolf.com/making-of/",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry the-operative-no-one-lives-forever-playnolf-com; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "LithTech (WebAssembly/WebGL)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "shooter",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "video_path": "videos/nolf-web.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/nolf-web.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/nolf-web.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nolf-web.jpg",
+          "score": 7,
+          "notes": "Real in-engine footage from Misfortune in Morocco part 1: Cate Archer at a window over a sunlit Moroccan courtyard, a diplomat walking past palms and arches, 60s-spy styling and warm textures. Clear and recognisable, slightly soft 2000-era geometry. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Real in-engine footage from Misfortune in Morocco part 1: Cate Archer at a window over a sunlit Moroccan courtyard, a diplomat walking past palms and arches, 60s-spy styling and warm textures. Clear and recognisable, slightly soft 2000-era geometry. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "first_seen": "2026-10-21T13:56:29.000Z",
+      "last_seen": "2026-10-21T13:56:29.000Z"
+    },
+    {
+      "id": "tf2-web",
+      "title": "Team Fortress 2 (web build)",
+      "description": "Team Fortress 2 (Valve, PC 2007) running in a browser tab as a Source engine WebAssembly build: type a name, the game files stream in, then create a local server with bots or join one from the in-game menu. Plays instantly, nothing of your own needed.",
+      "play_url": "https://tf2.riddy.workers.dev/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry team-fortress-2-web-build; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Source (WebAssembly/WebGL)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": true,
+      "video_path": "videos/tf2-web.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/tf2-web.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/tf2-web.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tf2-web.jpg",
+          "score": 6,
+          "notes": "Real gameplay as Scout on a bot server: lantern-lit wooden mine tunnel with rails, a RED Heavy and BLU players trading fire, scattergun in hand, TF2 HUD and objective callout boxes. Authentic look, but the scene is dark and the hint pop-ups cover part of the frame. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Real gameplay as Scout on a bot server: lantern-lit wooden mine tunnel with rails, a RED Heavy and BLU players trading fire, scattergun in hand, TF2 HUD and objective callout boxes. Authentic look, but the scene is dark and the hint pop-ups cover part of the frame. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "first_seen": "2026-10-21T13:56:29.000Z",
+      "last_seen": "2026-10-21T13:56:29.000Z"
+    },
+    {
+      "id": "portal-web",
+      "title": "Portal (source-engine Emscripten port, yikes.pw)",
+      "description": "Portal (Valve, PC 2007) in the browser on a modified Source engine compiled with Emscripten: the original Aperture test chambers from the relaxation vault onward, keyboard and mouse. Plays instantly; the page downloads the game data itself.",
+      "play_url": "https://yikes.pw/portal/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/weliveinhell/source-engine",
+      "github_stars": 85,
+      "github_user": "weliveinhell",
+      "author": "weliveinhell",
+      "author_source": "https://github.com/weliveinhell/source-engine",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry weliveinhell-source-engine; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Source (Emscripten/WebGL)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "video_path": "videos/portal-web.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/portal-web.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/portal-web.jpg",
+      "screenshots": [
+        {
+          "path": "videos/portal-web.jpg",
+          "score": 6.5,
+          "notes": "Real gameplay in Portal's first chamber: white Aperture panels, the relaxation-vault glass and a glowing blue portal opening in the wall. Instantly recognisable, but the canvas is small (720x404) and the palette is very washed-out white. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "Real gameplay in Portal's first chamber: white Aperture panels, the relaxation-vault glass and a glowing blue portal opening in the wall. Instantly recognisable, but the canvas is small (720x404) and the palette is very washed-out white. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "remote_likes": 85,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/weliveinhell/source-engine",
+      "likes_checked": "2026-10-21",
+      "published_at": "2025-06-07T07:50:23Z",
+      "first_seen": "2026-10-21T13:56:29.000Z",
+      "last_seen": "2026-10-21T13:56:29.000Z"
+    },
+    {
+      "id": "tekken-dr-recomp",
+      "title": "Tekken: Dark Resurrection (PSP recomp in the browser)",
+      "description": "Tekken: Dark Resurrection (Namco, PSP 2005) recompiled to run in the browser. The first visit downloads the game (about 1 GB) from the site's own server and keeps it in the browser, so later starts are instant; you can also load your own ULUS-10139 dump. Keyboard (arrows, Z/X/C/S) or controller.",
+      "play_url": "https://tkdr-recomp.pages.dev/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "author": "gasparegas",
+      "author_source": "https://github.com/gasparegas",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry tekken-5-dark-resurrection-tkdr-recomp; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PSP static recompilation (WebAssembly)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "video_path": "videos/tekken-dr-recomp.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/tekken-dr-recomp.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/tekken-dr-recomp.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tekken-dr-recomp.jpg",
+          "score": 5.5,
+          "notes": "Real PSP gameplay in the training/tutorial stage: a fighter in a brown suit throwing punches and kicks at the wooden Mokujin dummy on the cyan grid floor, timer and tutorial prompt on screen. Crisp and authentic, but the bare tutorial stage and text box make it less striking than a real stage. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "Real PSP gameplay in the training/tutorial stage: a fighter in a brown suit throwing punches and kicks at the wooden Mokujin dummy on the cyan grid floor, timer and tutorial prompt on screen. Crisp and authentic, but the bare tutorial stage and text box make it less striking than a real stage. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "first_seen": "2026-10-21T13:56:29.000Z",
+      "last_seen": "2026-10-21T13:56:29.000Z"
+    },
+    {
+      "id": "super-monkey-ball-online",
+      "title": "Super Monkey Ball (web port with online play)",
+      "description": "Super Monkey Ball (Amusement Vision, GameCube 2001) ported to the browser from the community SMB1 decompilation: course play from Floor 1, practice, replays and 2-player online multiplayer. Plays instantly with keyboard or controller.",
+      "play_url": "https://monkeyball-online.pages.dev/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/camthesaxman/smb-decomp",
+      "github_stars": 64,
+      "author": "TwilightPB",
+      "author_source": "https://monkeyball-online.pages.dev/",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry camthesaxman-smb-decomp; listed via samidy, unbaked)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "SMB1 decompilation (WebAssembly/WebGL)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": true,
+      "video_path": "videos/super-monkey-ball-online.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/super-monkey-ball-online.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/super-monkey-ball-online.jpg",
+      "screenshots": [
+        {
+          "path": "videos/super-monkey-ball-online.jpg",
+          "score": 7.5,
+          "notes": "Real gameplay on Beginner Floor 1: the monkey ball rolling down a bright green checkered track toward bananas, jungle vines and pink flowers around it, timer, banana counter and speed HUD. Colourful and unmistakably Monkey Ball. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "Real gameplay on Beginner Floor 1: the monkey ball rolling down a bright green checkered track toward bananas, jungle vines and pink flowers around it, timer, banana counter and speed HUD. Colourful and unmistakably Monkey Ball. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "remote_likes": 64,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/camthesaxman/smb-decomp",
+      "likes_checked": "2026-10-21",
+      "published_at": "2021-06-24T03:27:49Z",
+      "first_seen": "2026-10-21T13:56:29.000Z",
+      "last_seen": "2026-10-21T13:56:29.000Z"
+    },
+    {
+      "id": "openjkdf2",
+      "title": "OpenJKDF2 (Star Wars Jedi Knight: Dark Forces II, web demo)",
+      "description": "OpenJKDF2, a cross-platform C reimplementation of Star Wars Jedi Knight: Dark Forces II (LucasArts, PC 1997), compiled for the browser. The web build includes the free shareware demo levels, so you can play right away; the full game needs your own JKDF2 files.",
+      "play_url": "https://maxthomas.dev/openjkdf2/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/shinyquagsire23/OpenJKDF2",
+      "github_stars": 772,
+      "github_user": "shinyquagsire23",
+      "author": "shinyquagsire23",
+      "author_source": "https://github.com/shinyquagsire23/OpenJKDF2",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry shinyquagsire23-openjkdf2; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "OpenJKDF2 (Emscripten/WebGL)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "access_note": "Free demo: the shareware demo levels are built in; the full campaign needs your own JKDF2 game files.",
+      "iframe": true,
+      "video_path": "videos/openjkdf2.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/openjkdf2.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/openjkdf2.jpg",
+      "screenshots": [
+        {
+          "path": "videos/openjkdf2.jpg",
+          "score": 4,
+          "notes": "Real demo gameplay on the opening rooftops: grey concrete blocks, rust-red brick panels and a blue sky, Kyle's bryar pistol and the health/shield HUD dials. Authentic 1997 look but low-detail textures and mostly grey walls; scored a bit lower as a free-demo build. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Real demo gameplay on the opening rooftops: grey concrete blocks, rust-red brick panels and a blue sky, Kyle's bryar pistol and the health/shield HUD dials. Authentic 1997 look but low-detail textures and mostly grey walls; scored a bit lower as a free-demo build. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "remote_likes": 772,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/shinyquagsire23/OpenJKDF2",
+      "likes_checked": "2026-10-21",
+      "published_at": "2018-07-03T07:09:45Z",
+      "first_seen": "2026-10-21T13:56:29.000Z",
+      "last_seen": "2026-10-21T13:56:29.000Z"
     }
   ],
   "totals": {
-    "games": 550,
+    "games": 556,
     "by_made_with": {
       "opus-5.5": 296,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 163,
+      "unknown": 169,
       "gemini-4-argon": 5
     }
   }
