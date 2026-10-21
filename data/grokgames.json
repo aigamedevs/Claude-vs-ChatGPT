@@ -253,13 +253,39 @@
       "found_via": "X post linking the playable deploy",
       "found_via_network": "x",
       "screenshot_path": "screenshots/11-low-tide.jpg",
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "The triptych gives a clear, painterly view of the tide, beach activity, and progression, though its tall collage format is less immediately focused.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - painterly top-down beach: crowds of tiny sunbathers on golden sand, turquoise surf, a parchment 'Low Tide' card and quest panel, title screen; lovely art, little visible interaction.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/11-low-tide.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - painterly top-down beach: crowds of tiny sunbathers on golden sand, turquoise surf, a parchment 'Low Tide' card and quest panel, title screen; lovely art, little visible interaction."
+        },
+        {
+          "path": "screenshots/low-tide-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/low-tide-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/low-tide-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "night-cruise",
@@ -1218,14 +1244,40 @@
       "found_via": "X reply by @AsumaCodes crediting Opus 5.5 with play/jog link",
       "found_via_network": "x",
       "screenshot_path": "screenshots/45-sukhna-lake.jpg",
-      "screenshot_score": 8,
-      "screenshot_score_notes": "Clean multilingual start card over a soft dawn lake silhouette; clear controls and Start jogging CTA.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - low-poly sunset jog along a lakeside promenade: a jogger walking past palms, benches and lamps, stats panel and briefing card; warm stylised light, sparse scene.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 3,
-      "likes_source": "x"
+      "likes_source": "x",
+      "screenshots": [
+        {
+          "path": "screenshots/45-sukhna-lake.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - low-poly sunset jog along a lakeside promenade: a jogger walking past palms, benches and lamps, stats panel and briefing card; warm stylised light, sparse scene."
+        },
+        {
+          "path": "screenshots/sukhna-lake-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/sukhna-lake-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/sukhna-lake-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "arkenfall",
@@ -1255,12 +1307,38 @@
       "found_via": "Creator site + Opus 5.5 rebuild devlog; X mention of game studio with Opus 5.5",
       "found_via_network": "web",
       "screenshot_path": "screenshots/47-fang-the-fox.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Atmospheric rainy night title with glowing fox on a floating island, clear pixel typography, and strong mood lighting.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - pixel-art fox platformer/puzzle: title card over a night forest grid, dialogue box, the fox navigating tile rooms with HUD hearts; cohesive retro look, small dark playfield.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/47-fang-the-fox.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - pixel-art fox platformer/puzzle: title card over a night forest grid, dialogue box, the fox navigating tile rooms with HUD hearts; cohesive retro look, small dark playfield."
+        },
+        {
+          "path": "screenshots/fang-the-fox-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/fang-the-fox-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/fang-the-fox-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "koi-pond-garden",
@@ -1462,12 +1540,38 @@
       "found_via": "Forward Future Opus 5.5 field test + public Puzzle Bracket hub",
       "found_via_network": "web",
       "screenshot_path": "screenshots/64-puzzle-bracket.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Clean magenta bracket layout crowns Tidekeeper with readable thumbs for all twelve playable puzzles.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - Tidekeeper puzzle hub: pink bracket of puzzle cards, a map-style coastline puzzle with pins, beach title screen; clean UI, mostly static board views.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/64-puzzle-bracket.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - Tidekeeper puzzle hub: pink bracket of puzzle cards, a map-style coastline puzzle with pins, beach title screen; clean UI, mostly static board views."
+        },
+        {
+          "path": "screenshots/puzzle-bracket-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/puzzle-bracket-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/puzzle-bracket-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "nand-16",
@@ -1681,11 +1785,42 @@
       "made_with": "astra",
       "engine": "ChatGPT",
       "screenshot_path": "screenshots/84-sunwake.jpg",
-      "screenshot_score": 8.8,
-      "screenshot_score_notes": "Atmospheric golden-hour boat on stylized water with clean title typography and readable control legend.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - low-poly ocean voyage at sunset: a small orange boat cresting faceted purple-blue waves, title screen, minimal HUD panels; striking palette, repetitive seascape.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/84-sunwake.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - low-poly ocean voyage at sunset: a small orange boat cresting faceted purple-blue waves, title screen, minimal HUD panels; striking palette, repetitive seascape."
+        },
+        {
+          "path": "screenshots/sunwake-1.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/sunwake-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/sunwake-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/sunwake-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "hollowflux",
@@ -1758,11 +1893,37 @@
       "made_with": "astra",
       "engine": "ChatGPT",
       "screenshot_path": "screenshots/87-little-ritual.jpg",
-      "screenshot_score": 8.5,
-      "screenshot_score_notes": "Warm illustrated title with terminal, robot barista and latte art; charming and clear though light on in-world action.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - cosy isometric cafe sim: title card with chalkboard, a warm wooden coffee shop interior with stairs, plants and counter, order panels; charming diorama art, small UI text.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/87-little-ritual.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - cosy isometric cafe sim: title card with chalkboard, a warm wooden coffee shop interior with stairs, plants and counter, order panels; charming diorama art, small UI text."
+        },
+        {
+          "path": "screenshots/little-ritual-1.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/little-ritual-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/little-ritual-3.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "mosswing",
@@ -2420,13 +2581,39 @@
       "found_via": "X post by @mariohercules (Made by Astra)",
       "found_via_network": "x",
       "screenshot_path": "screenshots/113-derelict.jpg",
-      "screenshot_score": 9.2,
-      "screenshot_score_notes": "Cinematic cryopod title still with sharp typography and industrial lighting — instant sci-fi mood.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - dark sci-fi text/visual adventure: DERELICT title over a ship corridor, vital-signs terminal, 'Cryo bay' room panels with pixel scenes; moody but dim and text-heavy.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
       "remote_likes": 6,
-      "likes_source": "x"
+      "likes_source": "x",
+      "screenshots": [
+        {
+          "path": "screenshots/113-derelict.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - dark sci-fi text/visual adventure: DERELICT title over a ship corridor, vital-signs terminal, 'Cryo bay' room panels with pixel scenes; moody but dim and text-heavy."
+        },
+        {
+          "path": "screenshots/derelict-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/derelict-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/derelict-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "mini-moto",
@@ -17244,7 +17431,8 @@
       "made_with": "opus-5.5",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "screenshots"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -17266,12 +17454,28 @@
       "screenshots": [
         {
           "path": "screenshots/401-sonic-cd-little-planet.jpg",
+          "source": "existing",
           "score": 3,
-          "notes": "Repo screenshot of Stardust Speedway with score/time/rings HUD; original 16-bit art. Needs your own disc image; capped at 3."
+          "notes": "screenshots: rated from 4 screenshots - creator Reddit/README shots of the Sonic CD decomp: Palmtree Panic loops, checkered hills, rings and HUD; faithful Mega-CD art, own game files required (capped at 3)."
+        },
+        {
+          "path": "screenshots/sonic-cd-little-planet-1.jpg",
+          "source": "reddit-post",
+          "score": 3
+        },
+        {
+          "path": "screenshots/sonic-cd-little-planet-2.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/sonic-cd-little-planet-3.jpg",
+          "source": "github-readme",
+          "score": 3
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Repo screenshot of Stardust Speedway with score/time/rings HUD; original 16-bit art. Needs your own disc image; capped at 3.",
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - creator Reddit/README shots of the Sonic CD decomp: Palmtree Panic loops, checkered hills, rings and HUD; faithful Mega-CD art, own game files required (capped at 3).",
       "requires_own_files": true,
       "requires_own_files_note": "Needs your own Sonic CD disc image (cue/bin, iso, chd...)",
       "browser_playable": false,
@@ -20201,7 +20405,8 @@
       "made_with": "unknown",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "screenshots"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -20223,12 +20428,33 @@
       "screenshots": [
         {
           "path": "screenshots/406-simgolf-remastered.jpg",
+          "source": "existing",
           "score": 3,
-          "notes": "Repo screenshot of a lush HD golf course with villas, pools, pirate ship and winding paths plus a slim HUD; gorgeous, but needs your own disc; capped at 3."
+          "notes": "screenshots: rated from 5 screenshots - README shots of SimGolf Remastered: isometric golf course with villas, paths, lakes and trees at several times of day; faithful 2002 art, own game files required (capped at 3)."
+        },
+        {
+          "path": "screenshots/simgolf-remastered-1.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/simgolf-remastered-2.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/simgolf-remastered-3.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/simgolf-remastered-4.jpg",
+          "source": "github-readme",
+          "score": 3
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "Repo screenshot of a lush HD golf course with villas, pools, pirate ship and winding paths plus a slim HUD; gorgeous, but needs your own disc; capped at 3.",
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - README shots of SimGolf Remastered: isometric golf course with villas, paths, lakes and trees at several times of day; faithful 2002 art, own game files required (capped at 3).",
       "requires_own_files": true,
       "requires_own_files_note": "Needs your own SimGolf disc; the setup unpacks it locally",
       "browser_playable": false,
@@ -34076,7 +34302,8 @@
       "engine": "Rust/wgpu",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "screenshots"
       ],
       "category": "city-builder",
       "platforms": [
@@ -34087,13 +34314,29 @@
       "requires_own_files_note": "Needs your own copy of Banished game files",
       "iframe": true,
       "screenshot_path": "screenshots/408-un-banished.jpg",
-      "screenshot_score": 2.5,
-      "screenshot_score_notes": "Capped at 2.5/3 (own Banished files): isometric town in autumn forest with market stalls, farms, and bottom toolbar — original Banished art drawn from a player's copy (repo screenshot).",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - README shots of the Banished reimplementation: a riverside village with fields, wooden houses and forest, main menu over the town; faithful look, own game files required (capped at 3).",
       "screenshots": [
         {
           "path": "screenshots/408-un-banished.jpg",
-          "score": 2.5,
-          "notes": "Town overview with original Banished art from player's copy"
+          "source": "existing",
+          "score": 3,
+          "notes": "screenshots: rated from 4 screenshots - README shots of the Banished reimplementation: a riverside village with fields, wooden houses and forest, main menu over the town; faithful look, own game files required (capped at 3)."
+        },
+        {
+          "path": "screenshots/un-banished-1.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/un-banished-2.jpg",
+          "source": "github-readme",
+          "score": 3
+        },
+        {
+          "path": "screenshots/un-banished-3.jpg",
+          "source": "github-readme",
+          "score": 3
         }
       ],
       "remote_likes": 6,
