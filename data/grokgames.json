@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:09:27.000Z",
+  "updated_at": "2026-10-21T14:11:30.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -39658,16 +39658,273 @@
       "published_at": "2026-06-21T18:19:46Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
       "last_seen": "2026-10-21T14:09:27.000Z"
+    },
+    {
+      "id": "opensro",
+      "title": "OpenSRO (Silkroad Online rebuilt for the browser)",
+      "description": "OpenSRO rebuilds Silkroad Online v1.150 (Joymax, PC 2005) end to end: a WebGPU browser client, a Go game server and the asset pipeline that ties them together, playable at opensro.online. Currently a closed beta: you need a beta key from the project's Discord to log in.",
+      "play_url": "https://opensro.online/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/opensro-dev/opensro",
+      "github_stars": 60,
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry opensro-dev-opensro; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "WebGPU client + Go server",
+      "tags": [
+        "decomp"
+      ],
+      "category": "mmorpg",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "access_note": "Closed beta: a beta key from the OpenSRO Discord is required to create an account and play.",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "video_path": "videos/opensro.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://youtu.be/Vh7qbknd4DE",
+      "videos": [
+        {
+          "path": "videos/opensro.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/opensro.jpg",
+      "screenshots": [
+        {
+          "path": "videos/opensro.jpg",
+          "score": 2,
+          "notes": "Real OpenSRO client footage: a bear attack pet fighting on a sunny palm-lined grass field, a golden skill-effect flash, inventory and pet-gear windows and the Silkroad-style HUD. Authentic but mostly flat grass and UI panels; capped like own-files because a beta key is required. Rated from 5 frames sampled across the contributor clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 2,
+      "screenshot_score_notes": "Real OpenSRO client footage: a bear attack pet fighting on a sunny palm-lined grass field, a golden skill-effect flash, inventory and pet-gear windows and the Silkroad-style HUD. Authentic but mostly flat grass and UI panels; capped like own-files because a beta key is required. Rated from 5 frames sampled across the contributor clip plus the poster (multi-frame rating).",
+      "video_note": "Dev video by OpenSRO contributor kresko5007 (Kresko) showing the attack-pet feature from opensro-dev/opensro PR #1092, recorded in the OpenSRO client.",
+      "remote_likes": 60,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/opensro-dev/opensro",
+      "likes_checked": "2026-10-21",
+      "published_at": "2026-09-27T11:39:04Z",
+      "first_seen": "2026-10-21T14:11:30.000Z",
+      "last_seen": "2026-10-21T14:11:30.000Z"
+    },
+    {
+      "id": "celeste-wasm",
+      "title": "Webleste (celeste-wasm: Celeste + Everest in the browser)",
+      "description": "Webleste / celeste-wasm: a near-complete port of Celeste (Maddy Makes Games, PC 2018) and the Everest mod loader to the browser using .NET 9 threaded WebAssembly and a MonoMod WASM port, with mods and CelesteNet support. Needs about 1 GB of memory and your own FNA version of Celeste.",
+      "play_url": "https://celeste.r58playz.dev/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/MercuryWorkshop/celeste-wasm",
+      "github_stars": 266,
+      "author": "r58Playz",
+      "author_source": "https://celeste.r58playz.dev/",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry mercuryworkshop-celeste-wasm; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": ".NET 9 WebAssembly (FNA)",
+      "tags": [
+        "decomp",
+        "rom",
+        "screenshots"
+      ],
+      "category": "platformer",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own copy of Celeste (FNA version; the Steam download includes it)",
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "screenshot_path": "screenshots/celeste-wasm-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/celeste-wasm-1.jpg",
+          "source": "repo-readme",
+          "score": 2.5,
+          "notes": "screenshots: rated from 4 real screenshots from the celeste-wasm repo - Celeste's pink-and-purple mountain title menu running in the browser, the in-game summit view with Madeline, the celeste-wasm launcher splash and the Everest mod options menu. Pretty art but mostly menus; capped at 2.5 because you need your own game files."
+        },
+        {
+          "path": "screenshots/celeste-wasm-2.jpg",
+          "source": "repo-readme",
+          "score": 2.5
+        },
+        {
+          "path": "screenshots/celeste-wasm-3.jpg",
+          "source": "repo-readme",
+          "score": 2.5
+        },
+        {
+          "path": "screenshots/celeste-wasm-4.jpg",
+          "source": "repo-readme",
+          "score": 2.5
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "screenshots: rated from 4 real screenshots from the celeste-wasm repo - Celeste's pink-and-purple mountain title menu running in the browser, the in-game summit view with Madeline, the celeste-wasm launcher splash and the Everest mod options menu. Pretty art but mostly menus; capped at 2.5 because you need your own game files.",
+      "remote_likes": 266,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/MercuryWorkshop/celeste-wasm",
+      "likes_checked": "2026-10-21",
+      "published_at": "2024-05-18T00:02:10Z",
+      "first_seen": "2026-10-21T14:11:30.000Z",
+      "last_seen": "2026-10-21T14:11:30.000Z"
+    },
+    {
+      "id": "terraria-wasm",
+      "title": "Terrarium (terraria-wasm: Terraria in the browser)",
+      "description": "Terrarium / terraria-wasm: Terraria (Re-Logic, PC 2011) ported to the browser with WebAssembly by velzie of Mercury Workshop, with a frontend and build system based on r58Playz's Celeste port. You need to own Terraria: copy your local install or download your assets from Steam inside the page.",
+      "play_url": "https://terraria.mercurywork.shop/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/MercuryWorkshop/terraria-wasm",
+      "github_stars": 193,
+      "author": "velzie",
+      "author_source": "https://terraria.mercurywork.shop/",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry mercuryworkshop-terraria-wasm; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": ".NET WebAssembly (FNA)",
+      "tags": [
+        "decomp",
+        "rom",
+        "screenshots"
+      ],
+      "category": "sandbox",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Terraria (Steam copy or local install assets)",
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "screenshot_path": "screenshots/terraria-wasm-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/terraria-wasm-1.jpg",
+          "source": "repo",
+          "score": 2,
+          "notes": "screenshots: rated from 1 real screenshot (Mercury Workshop's terraria-works.png from the celeste-wasm repo) - Terraria running in the browser port in a dark underground cave with torches, a small player and the inventory hotbar. Real but very dark and small; capped because you need your own game files."
+        }
+      ],
+      "screenshot_score": 2,
+      "screenshot_score_notes": "screenshots: rated from 1 real screenshot (Mercury Workshop's terraria-works.png from the celeste-wasm repo) - Terraria running in the browser port in a dark underground cave with torches, a small player and the inventory hotbar. Real but very dark and small; capped because you need your own game files.",
+      "remote_likes": 193,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/MercuryWorkshop/terraria-wasm",
+      "likes_checked": "2026-10-21",
+      "published_at": "2025-02-02T04:56:08Z",
+      "first_seen": "2026-10-21T14:11:30.000Z",
+      "last_seen": "2026-10-21T14:11:30.000Z"
+    },
+    {
+      "id": "gt2-web",
+      "title": "Gran Turismo 2 (gt-2-pc native port, browser build)",
+      "description": "gt-2-pc: Yevhen Dubrovskyi's native C++ port of Gran Turismo 2 (Polyphony Digital, PS1 1999) for web, Steam Deck, macOS, Windows, PCVR and Quest 3; this is the browser build (0.8.0) with Arcade and Simulation modes and a cockpit view. Select your own full BIN disc image (2352 bytes per sector).",
+      "play_url": "https://ydubr-gt2.surge.sh/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
+      "github_stars": 141,
+      "github_user": "dubrovskiy-yevhen-stakelogic",
+      "author": "dubrovskiy-yevhen-stakelogic",
+      "author_source": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry dubrovskiy-yevhen-stakelogic-gt-2-pc; listed via unbaked)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Native C++ port (WebAssembly)",
+      "tags": [
+        "decomp",
+        "rom",
+        "screenshots"
+      ],
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Gran Turismo 2 full BIN disc image (2352 bytes/sector)",
+      "iframe": true,
+      "screenshot_path": "screenshots/gt2-web-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/gt2-web-1.jpg",
+          "source": "repo-readme",
+          "score": 2.5,
+          "notes": "screenshots: rated from 1 real screenshot from the gt-2-pc README - the new cockpit view in a race, dashboard and steering wheel, rear-view mirror, track map, 6th place, lap timer and a 53 km/h speedo. Clean and recognisable; capped at 2.5 because you need your own disc image."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "screenshots: rated from 1 real screenshot from the gt-2-pc README - the new cockpit view in a race, dashboard and steering wheel, rear-view mirror, track map, 6th place, lap timer and a 53 km/h speedo. Clean and recognisable; capped at 2.5 because you need your own disc image.",
+      "remote_likes": 141,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
+      "likes_checked": "2026-10-21",
+      "published_at": "2026-09-20T22:51:26Z",
+      "first_seen": "2026-10-21T14:11:30.000Z",
+      "last_seen": "2026-10-21T14:11:30.000Z"
+    },
+    {
+      "id": "vcmi-homm3",
+      "title": "Heroes of Might and Magic III (vcmi-wasm on DOS.Zone)",
+      "description": "DOS.Zone's WebAssembly port of the VCMI engine for Heroes of Might and Magic III (New World Computing, PC 1999): campaigns, custom scenarios, saves, Horn of the Abyss and VCMI multiplayer in the browser. Load your own Heroes III Complete resources.",
+      "play_url": "https://dos.zone/homm3/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/caiiiycuk/vcmi-wasm",
+      "github_stars": 15,
+      "github_user": "caiiiycuk",
+      "author": "caiiiycuk",
+      "author_source": "https://github.com/caiiiycuk/vcmi-wasm",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry caiiiycuk-vcmi-wasm; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "VCMI (WebAssembly)",
+      "tags": [
+        "decomp",
+        "rom",
+        "screenshots",
+        "doszone"
+      ],
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Heroes of Might and Magic III Complete game files",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-dos.zone-only+coep-require-corp",
+      "screenshot_path": "screenshots/vcmi-homm3-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/vcmi-homm3-1.jpg",
+          "source": "site",
+          "score": 2.5,
+          "notes": "screenshots: rated from 1 real screenshot from the DOS.Zone game page - a dense HoMM3 adventure map with snowy and green terrain, castles, mines and resource piles. Detailed and instantly recognisable; capped at 2.5 because you need your own game files."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "screenshots: rated from 1 real screenshot from the DOS.Zone game page - a dense HoMM3 adventure map with snowy and green terrain, castles, mines and resource piles. Detailed and instantly recognisable; capped at 2.5 because you need your own game files.",
+      "remote_likes": 15,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/caiiiycuk/vcmi-wasm",
+      "likes_checked": "2026-10-21",
+      "published_at": "2024-11-28T12:29:01Z",
+      "first_seen": "2026-10-21T14:11:30.000Z",
+      "last_seen": "2026-10-21T14:11:30.000Z"
     }
   ],
   "totals": {
-    "games": 561,
+    "games": 566,
     "by_made_with": {
       "opus-5.5": 296,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 174,
+      "unknown": 179,
       "gemini-4-argon": 5
     }
   }
