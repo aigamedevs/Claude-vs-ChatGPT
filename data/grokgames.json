@@ -240,7 +240,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "itchio"
       ]
     },
     {
@@ -454,6 +455,9 @@
           "score": 7,
           "notes": "multi-frame: cute chunky 3D pressure-washer kid blasting dirt off lawns, driveways and a street, gnomes and leaf debris, clean HUD with score/combo; polished and readable. Rated from 5 frames across the creator clip plus poster."
         }
+      ],
+      "tags": [
+        "wavedash"
       ]
     },
     {
@@ -493,7 +497,10 @@
       "video_path": "videos/silt-signal.mp4",
       "video_source": "feed-local",
       "remote_likes": 105,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "tidal-orbit",
@@ -513,7 +520,10 @@
       "video_path": "videos/tidal-orbit.mp4",
       "video_source": "feed-local",
       "remote_likes": 9,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "house-of-drakan",
@@ -631,7 +641,10 @@
       "video_path": "videos/ozomatli.mp4",
       "video_source": "feed-local",
       "remote_likes": 5,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "gamefoundry"
+      ]
     },
     {
       "id": "opus-55-nba-2k",
@@ -810,6 +823,9 @@
           "score": 5,
           "notes": "multi-frame: 3D basketball arena with a lit court, hoop and scoreboard; players are small and the arena is dim and empty, so most frames read as layout rather than action. Rated from 5 frames across the creator clip plus poster."
         }
+      ],
+      "tags": [
+        "genex"
       ]
     },
     {
@@ -1056,7 +1072,10 @@
       "video_path": "videos/towline.mp4",
       "video_source": "feed-local",
       "remote_likes": 25,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "voxel-musou",
@@ -1301,7 +1320,10 @@
       "video_path": "videos/ashfall-perimeter.mp4",
       "video_source": "feed-local",
       "remote_likes": 11,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "crayon-motors",
@@ -1321,7 +1343,10 @@
       "video_path": "videos/crayon-motors.mp4",
       "video_source": "feed-local",
       "remote_likes": 33,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "last-train-to-the-sea",
@@ -1341,7 +1366,10 @@
       "video_path": "videos/last-train-to-the-sea.mp4",
       "video_source": "awesome-local",
       "remote_likes": 183,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "wildbrush",
@@ -1397,7 +1425,10 @@
       "video_path": "videos/cozy-cove.mp4",
       "video_source": "awesome-local",
       "remote_likes": 25,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "tesana"
+      ]
     },
     {
       "id": "spawn-legends",
@@ -1417,7 +1448,10 @@
       "video_path": "videos/spawn-legends.mp4",
       "video_source": "awesome-local",
       "remote_likes": 53,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "spawn"
+      ]
     },
     {
       "id": "puzzle-bracket",
@@ -1472,7 +1506,10 @@
       "video_path": "videos/work-tomorrow.mp4",
       "video_source": "feed-local",
       "remote_likes": 26,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "id": "hyperbrick",
@@ -1585,7 +1622,10 @@
       "video_path": "videos/squall-riders.mp4",
       "video_source": "awesome-local",
       "remote_likes": 3,
-      "likes_source": "x"
+      "likes_source": "x",
+      "tags": [
+        "bitmagic"
+      ]
     },
     {
       "id": "void-explorer",
@@ -3413,7 +3453,10 @@
       "video_source": "https://x.com/SoonLab_AI/status/2104887052659728605",
       "likes_source_url": "https://x.com/i/status/2104887052659728605",
       "comment_count": 0,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "soonlab"
+      ]
     },
     {
       "id": "sf-founder-mode",
@@ -3554,7 +3597,10 @@
       "video_path": "videos/genex-skate.mp4",
       "screenshot_score": 7.6,
       "screenshot_score_notes": "Sunset plaza clearly shows the skater, board, and control overlay, though the tiny HUD and stiff pose keep it short of polished key art.",
-      "screenshot_path": "videos/genex-skate.jpg"
+      "screenshot_path": "videos/genex-skate.jpg",
+      "tags": [
+        "genex"
+      ]
     },
     {
       "id": "speedracer-horizon",
@@ -4801,7 +4847,10 @@
       "published_at": "2026-09-29T18:54:14.000Z",
       "listed_at": "2026-09-30T02:45:01.000Z",
       "first_seen": "2026-09-30T02:45:01.000Z",
-      "last_seen": "2026-09-30T05:50:00.000Z"
+      "last_seen": "2026-09-30T05:50:00.000Z",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "roomwave",
@@ -5260,6 +5309,9 @@
           "url": "https://x.com/_nilni/status/2105158386404970699",
           "created_at": "2026-09-30T04:50:45Z"
         }
+      ],
+      "tags": [
+        "aigameshare"
       ]
     },
     {
@@ -5316,7 +5368,8 @@
       "last_seen": "2026-10-04T01:42:38.000Z",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "itchio"
       ]
     },
     {
@@ -5353,7 +5406,10 @@
       "listed_at": "2026-09-30T05:52:30.000Z",
       "first_seen": "2026-09-30T05:52:30.000Z",
       "last_seen": "2026-09-30T05:52:30.000Z",
-      "video_path": "videos/lost-cathedral.mp4"
+      "video_path": "videos/lost-cathedral.mp4",
+      "tags": [
+        "genex"
+      ]
     },
     {
       "id": "halo-ce-browser",
@@ -5584,7 +5640,10 @@
       "published_at": "2026-09-29T20:34:22.000Z",
       "listed_at": "2026-09-30T07:51:31.000Z",
       "first_seen": "2026-09-30T07:51:31.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "tags": [
+        "gamefoundry"
+      ]
     },
     {
       "id": "halo-ce-phone",
@@ -5737,7 +5796,8 @@
       "likes_source": "github_stars",
       "likes_checked": "2026-10-12",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "itchio"
       ]
     },
     {
@@ -5767,7 +5827,10 @@
       "first_seen": "2026-10-01T01:30:00.000Z",
       "last_seen": "2026-10-01T01:30:00.000Z",
       "listed_at": "2026-10-01T01:30:00.000Z",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "halo-ce-mobile-sol61",
@@ -6153,7 +6216,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "itchio"
       ]
     },
     {
@@ -6248,7 +6312,10 @@
       ],
       "likes_source_url": "https://x.com/i/status/2105667846307279269",
       "comment_count": 0,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "whip"
+      ]
     },
     {
       "id": "rivets-and-roses",
@@ -6620,7 +6687,10 @@
       ],
       "screenshot_score": 8.4,
       "screenshot_score_notes": "A chase view of the jet over a valley river, with rings cue and HUD, makes the flyer obvious in bright, clean low-poly production.",
-      "screenshot_path": "videos/mach-run.jpg"
+      "screenshot_path": "videos/mach-run.jpg",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "rope-ninja",
@@ -6908,7 +6978,8 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - pixel mining descent: drill rig in a brown dirt layer under a night sky, upgrade shop panel, fuel/hull HUD; readable but tiny sprites on a big dark field.",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "agentgames"
       ]
     },
     {
@@ -6953,7 +7024,8 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - top-down survival arena: dark green field with blue water patches, tiny hero, lightning arc attack, timer and XP bar; sparse, small.",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "agentgames"
       ]
     },
     {
@@ -6971,7 +7043,10 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "tags": [
+        "agentgames"
+      ]
     },
     {
       "id": "blockhead-2",
@@ -7015,7 +7090,8 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - top-down zombie shooter on a dark grey floor with white block walls, crates and barrels, small soldier sprites; functional, flat.",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "agentgames"
       ]
     },
     {
@@ -7060,7 +7136,8 @@
       "screenshot_score": 5,
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - cave swinging game: tethered spark among glowing lantern garlands in a teal cavern, distance counter; atmospheric glow, minimal.",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "agentgames"
       ]
     },
     {
@@ -7077,7 +7154,10 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "tags": [
+        "agentgames"
+      ]
     },
     {
       "id": "dropzone-royale",
@@ -7093,7 +7173,10 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "tags": [
+        "agentgames"
+      ]
     },
     {
       "id": "patch-agentgames",
@@ -7137,7 +7220,8 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - snake-like puzzle on a dark grid: a growing neon-green path, side leaderboard and score; clean UI but very minimal visuals.",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "agentgames"
       ]
     },
     {
@@ -7154,7 +7238,10 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "tags": [
+        "agentgames"
+      ]
     },
     {
       "id": "dash-dinner",
@@ -7170,7 +7257,10 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "tags": [
+        "agentgames"
+      ]
     },
     {
       "id": "blobvarium",
@@ -7254,7 +7344,10 @@
       "remote_likes": 16,
       "likes_source": "agentgames_plays",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "tags": [
+        "agentgames"
+      ]
     },
     {
       "id": "lion-city-life",
@@ -7383,7 +7476,8 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - itch screenshots of a fake-desktop management game: isometric pixel office, chat/email windows, robot mascot and event popups; busy UI, small art.",
       "tags": [
-        "screenshots"
+        "screenshots",
+        "itchio"
       ]
     },
     {
@@ -7716,7 +7810,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Moody top-down sea with a lone ship and wake reads as naval combat, but the ship is small and letterbox bars plus trailer text eat the frame."
+      "screenshot_score_notes": "Moody top-down sea with a lone ship and wake reads as naval combat, but the ship is small and letterbox bars plus trailer text eat the frame.",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "atomic-war-2d",
@@ -8350,7 +8447,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Moody fog-drenched forest path is atmospheric, but the letterboxed frame is murky and low-contrast with nothing to interact with."
+      "screenshot_score_notes": "Moody fog-drenched forest path is atmospheric, but the letterboxed frame is murky and low-contrast with nothing to interact with.",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "creo-mars-signal",
@@ -8389,7 +8489,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Clean LEVEL UP card choice with clear icons over a top-down base shows the survivor-like loop, though the cards hide the arena."
+      "screenshot_score_notes": "Clean LEVEL UP card choice with clear icons over a top-down base shows the survivor-like loop, though the cards hide the arena.",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "seedhouse",
@@ -9022,7 +9125,10 @@
           "created_at": "2026-10-16T06:10:30Z"
         }
       ],
-      "published_at": "2026-10-16T04:18:34Z"
+      "published_at": "2026-10-16T04:18:34Z",
+      "tags": [
+        "tesana"
+      ]
     },
     {
       "id": "patsy",
@@ -9093,7 +9199,10 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "Crisp pixel-art shop counter with a miniature being painted, a coin counter and a clear 'Hold SPACE' prompt shows the minigame well, at low resolution."
+      "screenshot_score_notes": "Crisp pixel-art shop counter with a miniature being painted, a coin counter and a clear 'Hold SPACE' prompt shows the minigame well, at low resolution.",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "selk",
@@ -9133,7 +9242,10 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "Dim green-on-black terminal panes with a small welcome dialog fit the investigation theme, but the text is tiny and hard to read.",
       "comment_count": 0,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "rise-and-raid",
@@ -9370,7 +9482,10 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Motion-blurred neon city road with a racer diving through a hex gate sells the speed; the blur makes details hard to read.",
-      "x_handle": "aniketjart"
+      "x_handle": "aniketjart",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "endgame-spawn",
@@ -9409,7 +9524,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Dim flashlight-lit hallway with a bloody figure shambling forward is creepy, but the frame is murky and low-detail."
+      "screenshot_score_notes": "Dim flashlight-lit hallway with a bloody figure shambling forward is creepy, but the frame is murky and low-detail.",
+      "tags": [
+        "spawn"
+      ]
     },
     {
       "id": "state-property",
@@ -9972,7 +10090,10 @@
         }
       ],
       "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/",
-      "published_at": "2026-10-20T14:10:48Z"
+      "published_at": "2026-10-20T14:10:48Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "minnows-den",
@@ -10011,7 +10132,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Clean, evenly lit living room with a grey sofa, TV, bookshelf and posters; tidy 3D but nothing anomalous visible in the frame."
+      "screenshot_score_notes": "Clean, evenly lit living room with a grey sofa, TV, bookshelf and posters; tidy 3D but nothing anomalous visible in the frame.",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "shapeleon",
@@ -10094,7 +10218,10 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Dark sci-fi arena with gold-trimmed crates, a glowing saucer and a minimap; moody and readable but mostly empty floor.",
       "comment_count": 0,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "splat-spree",
@@ -10212,7 +10339,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Pixel dungeon arena with tiny fighters, lava in the corner, '100 FIGHTERS. 1 ARENA.' text and mobile buttons; lively but small sprites."
+      "screenshot_score_notes": "Pixel dungeon arena with tiny fighters, lava in the corner, '100 FIGHTERS. 1 ARENA.' text and mobile buttons; lively but small sprites.",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "cardboard-conquest",
@@ -10253,7 +10383,10 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Papercraft battlefield with two cardboard armies clashing on a pink and green board; colorful and distinctive, a little crowded."
+      "screenshot_score_notes": "Papercraft battlefield with two cardboard armies clashing on a pink and green board; colorful and distinctive, a little crowded.",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "ripple-pool",
@@ -10413,6 +10546,9 @@
           "url": "https://x.com/FoundPlayio/status/2107990525148357046",
           "created_at": "2026-10-08T00:24:40Z"
         }
+      ],
+      "tags": [
+        "spawn"
       ]
     },
     {
@@ -10731,6 +10867,9 @@
           "url": "https://x.com/Rubzem/status/2108542192163954789",
           "created_at": "2026-10-09T12:56:48Z"
         }
+      ],
+      "tags": [
+        "tesana"
       ]
     },
     {
@@ -10763,7 +10902,10 @@
         }
       ],
       "screenshot_score": 4,
-      "screenshot_score_notes": "Playtest.win game page with a small Skyforge island thumbnail and Play button; the game is only a thumbnail."
+      "screenshot_score_notes": "Playtest.win game page with a small Skyforge island thumbnail and Play button; the game is only a thumbnail.",
+      "tags": [
+        "playtest"
+      ]
     },
     {
       "id": "dust-2-dm-spawn",
@@ -10802,7 +10944,10 @@
         }
       ],
       "screenshot_score": 8,
-      "screenshot_score_notes": "First-person AK firing down a sandy Dust 2 lane past a white van with full CS-style HUD; instantly recognisable and crisp."
+      "screenshot_score_notes": "First-person AK firing down a sandy Dust 2 lane past a white van with full CS-style HUD; instantly recognisable and crisp.",
+      "tags": [
+        "spawn"
+      ]
     },
     {
       "id": "endless-drive",
@@ -11274,6 +11419,9 @@
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3f29z/hd2d_rpg_in_threejs_built_with_claude_code/pfezvlg/",
           "created_at": "2026-10-12T09:50:01Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -11375,7 +11523,10 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Imagine Studio playframe of a zombie-inspired 3D scene; dark."
+      "screenshot_score_notes": "Imagine Studio playframe of a zombie-inspired 3D scene; dark.",
+      "tags": [
+        "imaginestudio"
+      ]
     },
     {
       "id": "last-lantern",
@@ -11447,7 +11598,10 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Fight scene in a pixel-art server-hall stage: Elon Musk stands over a knocked-down 'Scam Altman' under big health bars, timer and SUPER meters; crisp, funny and clearly a Street Fighter-style brawler.",
-      "comment_count": 26
+      "comment_count": 26,
+      "tags": [
+        "ryft"
+      ]
     },
     {
       "id": "stardust-isles",
@@ -11897,7 +12051,10 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Moody amber-lit stage with a rider on a dirt bike under a big HORNET vehicle-select title; atmospheric but dark.",
-      "comment_count": 43
+      "comment_count": 43,
+      "tags": [
+        "sandscape"
+      ]
     },
     {
       "id": "blood-slayers",
@@ -11928,7 +12085,10 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Wavedash cover: gothic BLOOD SLAYERS logo over a hellish red battlefield of demons; dramatic key art, not in-game."
+      "screenshot_score_notes": "Wavedash cover: gothic BLOOD SLAYERS logo over a hellish red battlefield of demons; dramatic key art, not in-game.",
+      "tags": [
+        "wavedash"
+      ]
     },
     {
       "id": "new-rad-city",
@@ -12048,7 +12208,10 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Rider bombing a dusty trail toward hazy mountain ridges in warm late light; cinematic, slightly washed-out.",
-      "comment_count": 16
+      "comment_count": 16,
+      "tags": [
+        "wavedash"
+      ]
     },
     {
       "id": "voxel-rush-frontline",
@@ -14466,6 +14629,9 @@
           "url": "https://x.com/Buhiko/status/2108979717088965110",
           "created_at": "2026-10-10T17:55:22Z"
         }
+      ],
+      "tags": [
+        "wavedash"
       ]
     },
     {
@@ -14678,7 +14844,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "wasmarcade"
       ],
       "iframe": false,
       "iframe_block_reason": "x-frame-options-sameorigin",
@@ -14940,7 +15107,8 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "wasmarcade"
       ],
       "iframe": false,
       "iframe_block_reason": "x-frame-options-sameorigin",
@@ -15678,6 +15846,9 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1x36ues/12_year_game_dev_and_this_is_my_first_ai_game/pf9e0fv/",
           "created_at": "2026-10-11T15:36:44Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -15814,6 +15985,9 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1x341mb/worldseed_is_fully_made_by_claude_opus_55_over/pfclgzz/",
           "created_at": "2026-10-11T23:59:23Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -16078,6 +16252,9 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1wz6m0d/claude_55_opus_is_capable_of_building_a_full/pe99320/",
           "created_at": "2026-10-06T17:05:52Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -16922,6 +17099,9 @@
           "url": "https://x.com/matt__makes/status/2108232243244351933",
           "created_at": "2026-10-08T16:25:10Z"
         }
+      ],
+      "tags": [
+        "genex"
       ]
     },
     {
@@ -18595,6 +18775,9 @@
           "url": "https://www.reddit.com/r/TopologyAI/comments/1x1nkrb/almost_11_full_weeks_of_ai_game_making_every/pewdzc3/",
           "created_at": "2026-10-09T18:26:02Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -19220,6 +19403,9 @@
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0x713/i_built_a_3d_cozy_farming_hunting_game_in_under_3/petzq8r/",
           "created_at": "2026-10-09T12:10:28Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -19285,6 +19471,9 @@
           "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x1qwk0/built_a_surreal_cave_world_where_you_can_walk_on/pexqqot/",
           "created_at": "2026-10-09T22:03:16Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -19580,6 +19769,9 @@
           "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x0extp/i_turned_the_claude_dreaming_short_film_into_an/pex210z/",
           "created_at": "2026-10-09T20:09:07Z"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -19685,7 +19877,8 @@
       "screenshot_score_notes": "screenshots: rated from 4 screenshots - itch shots of a rock-paper-scissors roguelite: green card-table UI with RPS hands, a secondhand shop of upgrades, saved/run-over screens; tidy but UI-only.",
       "comments": [],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "itchio"
       ]
     },
     {
@@ -19786,6 +19979,9 @@
           "path": "videos/the-heist.mp4",
           "source": "reddit"
         }
+      ],
+      "tags": [
+        "itchio"
       ]
     },
     {
@@ -20369,7 +20565,10 @@
       "likes_source": "x",
       "avatar_url": "https://pbs.twimg.com/profile_images/2058659539399147520/8SbxUKg3_normal.jpg",
       "first_seen": "2026-10-14T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z"
+      "last_seen": "2026-10-14T01:30:00.000Z",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "planetary-defender",
@@ -20421,7 +20620,10 @@
       "likes_source": "x",
       "avatar_url": "https://pbs.twimg.com/profile_images/2105747341131038720/3Ejd1ZuG_normal.jpg",
       "first_seen": "2026-10-14T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z"
+      "last_seen": "2026-10-14T01:30:00.000Z",
+      "tags": [
+        "gamefoundry"
+      ]
     },
     {
       "id": "cuddle-empires",
@@ -22683,7 +22885,8 @@
       "author": "wannabestraight",
       "author_source": "https://www.reddit.com/r/TopologyAI/comments/1wblqvz/",
       "tags": [
-        "demake"
+        "demake",
+        "origozero"
       ],
       "comments": [
         {
@@ -22807,7 +23010,9 @@
       "screenshot_score_notes": "multi-frame: sunset 3D city with flight, big energy-blast VFX, elite enemies and minimap HUD; lively but busy UI and simple city geometry.",
       "author": "luka06111",
       "author_source": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
-      "tags": [],
+      "tags": [
+        "itchio"
+      ],
       "comments": [
         {
           "author": "Inner_Singer_592",
@@ -23020,7 +23225,10 @@
       ],
       "first_seen": "2026-10-15T01:30:00.000Z",
       "last_seen": "2026-10-15T01:30:00.000Z",
-      "published_at": "2026-10-14T17:53:55.000Z"
+      "published_at": "2026-10-14T17:53:55.000Z",
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "id": "backyard-rascals",
@@ -23288,7 +23496,10 @@
       ],
       "first_seen": "2026-10-15T01:30:00.000Z",
       "last_seen": "2026-10-15T01:30:00.000Z",
-      "published_at": "2026-10-14T17:16:14.000Z"
+      "published_at": "2026-10-14T17:16:14.000Z",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "the-near-future",
@@ -23888,7 +24099,10 @@
         }
       ],
       "first_seen": "2026-10-15T01:30:00.000Z",
-      "last_seen": "2026-10-15T01:30:00.000Z"
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "rivas-city",
@@ -23953,7 +24167,10 @@
         }
       ],
       "first_seen": "2026-10-15T01:30:00.000Z",
-      "last_seen": "2026-10-15T01:30:00.000Z"
+      "last_seen": "2026-10-15T01:30:00.000Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "cyport",
@@ -24893,7 +25110,10 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-13T13:23:51Z"
+      "published_at": "2026-10-13T13:23:51Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "scacelith",
@@ -25118,7 +25338,10 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-15T08:12:02Z"
+      "published_at": "2026-10-15T08:12:02Z",
+      "tags": [
+        "neta"
+      ]
     },
     {
       "id": "blind-sector",
@@ -25472,7 +25695,10 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-16T00:22:59Z"
+      "published_at": "2026-10-16T00:22:59Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "the-flip-side",
@@ -25743,7 +25969,10 @@
       "comments": [],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-15T13:02:12Z"
+      "published_at": "2026-10-15T13:02:12Z",
+      "tags": [
+        "playgama"
+      ]
     },
     {
       "id": "trials-hd-recompiled",
@@ -26397,7 +26626,10 @@
       "comments": [],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-16T01:15:58.000Z"
+      "published_at": "2026-10-16T01:15:58.000Z",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "kitty-hawks",
@@ -26485,7 +26717,10 @@
       "comments": [],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-15T03:53:40.000Z"
+      "published_at": "2026-10-15T03:53:40.000Z",
+      "tags": [
+        "zevio"
+      ]
     },
     {
       "id": "bolt-pit",
@@ -26608,7 +26843,10 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-15T09:59:11.000Z"
+      "published_at": "2026-10-15T09:59:11.000Z",
+      "tags": [
+        "crazygames"
+      ]
     },
     {
       "id": "riposte",
@@ -26925,7 +27163,10 @@
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
-      "published_at": "2026-10-16T19:54:32Z"
+      "published_at": "2026-10-16T19:54:32Z",
+      "tags": [
+        "spawn"
+      ]
     },
     {
       "id": "cruising-bones",
@@ -27184,7 +27425,8 @@
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-16T16:56:50Z",
       "tags": [
-        "rec"
+        "rec",
+        "itchio"
       ]
     },
     {
@@ -27478,7 +27720,8 @@
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-16T17:33:03Z",
       "tags": [
-        "rec"
+        "rec",
+        "playgama"
       ]
     },
     {
@@ -27843,7 +28086,10 @@
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
-      "published_at": "2026-10-17T11:18:04Z"
+      "published_at": "2026-10-17T11:18:04Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "hexshroom",
@@ -27967,7 +28213,10 @@
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
-      "published_at": "2026-10-16T16:15:51Z"
+      "published_at": "2026-10-16T16:15:51Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "out-of-pixkrieg",
@@ -28232,7 +28481,8 @@
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-13T16:51:41Z",
       "tags": [
-        "rec"
+        "rec",
+        "itchio"
       ]
     },
     {
@@ -28582,7 +28832,10 @@
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
-      "published_at": "2026-10-16T14:59:52.000Z"
+      "published_at": "2026-10-16T14:59:52.000Z",
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "id": "pendekar",
@@ -29442,7 +29695,10 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-15T09:53:00Z"
+      "published_at": "2026-10-15T09:53:00Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "way-of-the-river",
@@ -29936,7 +30192,10 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T13:50:11Z"
+      "published_at": "2026-10-17T13:50:11Z",
+      "tags": [
+        "astrocade"
+      ]
     },
     {
       "id": "blueprint-job",
@@ -30205,7 +30464,10 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T15:48:02Z"
+      "published_at": "2026-10-17T15:48:02Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "pigeon-pals",
@@ -30444,7 +30706,8 @@
       "last_seen": "2026-10-18T01:30:00.000Z",
       "published_at": "2026-10-17T22:29:10Z",
       "tags": [
-        "rec"
+        "rec",
+        "itchio"
       ]
     },
     {
@@ -30586,7 +30849,8 @@
       "last_seen": "2026-10-18T01:30:00.000Z",
       "published_at": "2026-10-18T01:27:33Z",
       "tags": [
-        "rec"
+        "rec",
+        "itchio"
       ]
     },
     {
@@ -30885,7 +31149,10 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T13:52:16.000Z"
+      "published_at": "2026-10-17T13:52:16.000Z",
+      "tags": [
+        "remix"
+      ]
     },
     {
       "id": "exit-interview",
@@ -31378,7 +31645,10 @@
       ],
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
-      "published_at": "2026-10-18T23:47:06Z"
+      "published_at": "2026-10-18T23:47:06Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "land-of-ascii",
@@ -31563,7 +31833,10 @@
       ],
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
-      "published_at": "2026-10-17T14:17:29Z"
+      "published_at": "2026-10-17T14:17:29Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "press-start",
@@ -33089,7 +33362,10 @@
       ],
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
-      "published_at": "2026-10-18T04:54:30.000Z"
+      "published_at": "2026-10-18T04:54:30.000Z",
+      "tags": [
+        "crayon"
+      ]
     },
     {
       "id": "charterbound",
@@ -34585,7 +34861,10 @@
       ],
       "first_seen": "2026-10-20T01:30:00.000Z",
       "last_seen": "2026-10-20T01:30:00.000Z",
-      "published_at": "2026-10-19T16:21:18Z"
+      "published_at": "2026-10-19T16:21:18Z",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "almagris",
@@ -35728,7 +36007,10 @@
       ],
       "first_seen": "2026-10-20T01:30:00.000Z",
       "last_seen": "2026-10-20T01:30:00.000Z",
-      "published_at": "2026-10-19T14:19:37.000Z"
+      "published_at": "2026-10-19T14:19:37.000Z",
+      "tags": [
+        "jig"
+      ]
     },
     {
       "id": "pplx-2049-san-francisco",
@@ -36475,7 +36757,10 @@
       "last_seen": "2026-10-21T02:30:00.000Z",
       "published_at": "2026-10-20T21:11:23Z",
       "screenshot_score": 7,
-      "screenshot_score_notes": "Blocky jetskis racing over bright turquoise water, through waterfalls and a sunset volcano track with a busy Mario Kart-style HUD; colourful. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+      "screenshot_score_notes": "Blocky jetskis racing over bright turquoise water, through waterfalls and a sunset volcano track with a busy Mario Kart-style HUD; colourful. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "tags": [
+        "playgama"
+      ]
     },
     {
       "id": "ace-1917",
@@ -37756,7 +38041,10 @@
       "last_seen": "2026-10-21T02:30:00.000Z",
       "published_at": "2026-10-21T00:24:35Z",
       "screenshot_score": 5,
-      "screenshot_score_notes": "Low-poly Normandy battlefield in first person with words floating over enemy soldiers, a dark interior and a burning village; muted. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+      "screenshot_score_notes": "Low-poly Normandy battlefield in first person with words floating over enemy soldiers, a dark interior and a burning village; muted. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "tags": [
+        "itchio"
+      ]
     },
     {
       "id": "zygote-vs-shitcoins",
@@ -37867,7 +38155,8 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "UNREST title card, then a dim top-down room with an inventory bar and objective text; dark and sparse. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
       "tags": [
-        "rec"
+        "rec",
+        "itchio"
       ]
     },
     {
