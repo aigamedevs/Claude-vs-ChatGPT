@@ -21414,7 +21414,8 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~5.1 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 19.3s, no audio"
     },
     {
       "id": "penguinsmack",
@@ -21764,7 +21765,8 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~6.8 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 16.7s, no audio"
     },
     {
       "id": "handoff-atc",
@@ -26443,7 +26445,8 @@
       "published_at": "2026-10-14T12:35:32Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~7.2 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 19.0s, no audio"
     },
     {
       "id": "robotaxi-veridia",
@@ -27427,7 +27430,8 @@
       "tags": [
         "rec",
         "itchio"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 17.7s, no audio"
     },
     {
       "id": "blood-and-sand",
@@ -27614,7 +27618,8 @@
       "published_at": "2026-10-13T08:50:56Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~8.2 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 3.66x (target 30fps, capped at 4x) to 12.5s, no audio"
     },
     {
       "id": "relay-gate",
@@ -29595,7 +29600,8 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-15T07:32:12Z"
+      "published_at": "2026-10-15T07:32:12Z",
+      "video_note": "fps fix 2026-10-21: headless recording measured ~10.0 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 3x (target 30fps, capped at 4x) to 14.3s, no audio"
     },
     {
       "id": "insert-soul",
@@ -35297,7 +35303,8 @@
       "published_at": "2026-10-19T21:53:14Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~6.4 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 10.8s, no audio"
     },
     {
       "id": "chateau-de-sable",
@@ -37259,7 +37266,8 @@
       "last_seen": "2026-10-21T02:30:00.000Z",
       "published_at": "2026-10-19T20:16:39Z",
       "screenshot_score": 4,
-      "screenshot_score_notes": "Japanese Rockman DASH title screen, then the island map menu; faithful but no action in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+      "screenshot_score_notes": "Japanese Rockman DASH title screen, then the island map menu; faithful but no action in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 8.5s, no audio; under 10s after speed-up, kept anyway"
     },
     {
       "id": "roomio",
@@ -37558,7 +37566,8 @@
       "screenshot_score_notes": "Loading screens, an intro text card and a headphones prompt over a dark bodycam frame; no gameplay reached. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~12.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.33x (target 30fps, capped at 4x) to 24.5s, no audio"
     },
     {
       "id": "claybound",
@@ -38157,7 +38166,8 @@
       "tags": [
         "rec",
         "itchio"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio"
     },
     {
       "id": "jev-cards",
