@@ -145,14 +145,30 @@
       "found_via": "X post linking the playable deploy",
       "found_via_network": "x",
       "screenshot_path": "screenshots/09-inkwave.jpg",
-      "screenshot_score": 4.8,
-      "screenshot_score_notes": "The colorful turf-war interface is visible, but an OBS window dominates the frame and substantially obscures the underlying game.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Splatoon-style 3D turf war: pink and lime ink splattered across a seaside plaza, timer and team HUD, player squid-kid shooting; bright and lively. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-10-07T01:58:22.000Z",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "remote_likes": 246,
-      "likes_source": "reddit"
+      "likes_source": "reddit",
+      "video_path": "videos/inkwave.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/TopologyAI/comments/1wy4ecz/",
+      "videos": [
+        {
+          "path": "videos/inkwave.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/inkwave.jpg",
+          "score": 7,
+          "notes": "multi-frame: Splatoon-style 3D turf war: pink and lime ink splattered across a seaside plaza, timer and team HUD, player squid-kid shooting; bright and lively. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "inkbound",
@@ -213,8 +229,8 @@
       "found_via": "aicookd.com catalog row and WebSearch confirmation",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/13-pressure-wash-panic.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Bright cartoon rendering, expressive character art, readable grime and water effects, and a clear cleaning action make this exceptionally legible.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: cute chunky 3D pressure-washer kid blasting dirt off lawns, driveways and a street, gnomes and leaf debris, clean HUD with score/combo; polished and readable. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -364,6 +380,22 @@
           "likes": 0,
           "url": "https://x.com/Sanctum_5/status/2102842812253569278",
           "created_at": "2026-09-23T19:29:30Z"
+        }
+      ],
+      "video_path": "videos/pressure-wash-panic.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/chongdashu/status/2102674509593796808",
+      "videos": [
+        {
+          "path": "videos/pressure-wash-panic.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/pressure-wash-panic.jpg",
+          "score": 7,
+          "notes": "multi-frame: cute chunky 3D pressure-washer kid blasting dirt off lawns, driveways and a street, gnomes and leaf debris, clean HUD with score/combo; polished and readable. Rated from 5 frames across the creator clip plus poster."
         }
       ]
     },
@@ -553,8 +585,8 @@
       "found_via": "Live web search → Genex catalog page for Opus 5.5 NBA 2K by @Simeon M",
       "found_via_network": "web",
       "screenshot_path": "screenshots/24-opus-nba-2k.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Cinematic behind-the-player arena still with reflective court wood, readable hoop/shot clock, and clear dribble pose that immediately sells the basketball sim.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: 3D basketball arena with a lit court, hoop and scoreboard; players are small and the arena is dim and empty, so most frames read as layout rather than action. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-30T05:52:30.000Z",
       "made_with": "opus-5.5",
@@ -704,6 +736,22 @@
           "likes": 0,
           "url": "https://x.com/tito_nf/status/2102871334178922502",
           "created_at": "2026-09-23T21:22:50Z"
+        }
+      ],
+      "video_path": "videos/opus-55-nba-2k.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/genex_games/status/2102695292113981770",
+      "videos": [
+        {
+          "path": "videos/opus-55-nba-2k.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/opus-55-nba-2k.jpg",
+          "score": 5,
+          "notes": "multi-frame: 3D basketball arena with a lit court, hoop and scoreboard; players are small and the arena is dim and empty, so most frames read as layout rather than action. Rated from 5 frames across the creator clip plus poster."
         }
       ]
     },
@@ -905,8 +953,8 @@
       "found_via": "Bubu Studio writeup + X @BubuStd; play URL voxel-musou.vercel.app / GitHub mike007jd/voxel-musou",
       "found_via_network": "web",
       "screenshot_path": "screenshots/41-voxel-musou.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Sunset fortress standoff clearly shows Zhao Yun, spear, massed voxel troops, boss nameplates, minimap, and HUD.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: voxel Three Kingdoms musou: a hero cutting through crowds of soldiers, then stylish character cards (Zhang Fei, Zhuge Liang, Lu Bu) and a stage menu; strong art direction, mostly promo cards. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-30T03:48:00.000Z",
       "made_with": "opus-5.5",
@@ -916,7 +964,23 @@
       "likes_source": "x",
       "comment_count": 0,
       "x_handle": "BubuStd",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "video_path": "videos/voxel-musou.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/BubuStd/status/2105592147286409275",
+      "videos": [
+        {
+          "path": "videos/voxel-musou.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/voxel-musou.jpg",
+          "score": 6,
+          "notes": "multi-frame: voxel Three Kingdoms musou: a hero cutting through crowds of soldiers, then stylish character cards (Zhang Fei, Zhuge Liang, Lu Bu) and a stage menu; strong art direction, mostly promo cards. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "fierro",
@@ -1813,8 +1877,8 @@
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/112-coral-reef.jpg",
-      "screenshot_score": 8.5,
-      "screenshot_score_notes": "Dense lively pixel reef with schools, turtle and jellyfish under a clear Japanese title.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: pixel-art reef cross-section cycling dawn, day, dusk and night: fish, jellyfish, corals and rocks with nice lighting shifts; lovely but static, no player action. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -1915,6 +1979,22 @@
           "likes": 0,
           "url": "https://x.com/Haru_ArtPortal/status/2102613557733150976",
           "created_at": "2026-09-23T04:18:31Z"
+        }
+      ],
+      "video_path": "videos/coral-reef-day.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/akiy_8/status/2102545213218803769",
+      "videos": [
+        {
+          "path": "videos/coral-reef-day.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/coral-reef-day.jpg",
+          "score": 7,
+          "notes": "multi-frame: pixel-art reef cross-section cycling dawn, day, dusk and night: fish, jellyfish, corals and rocks with nice lighting shifts; lovely but static, no player action. Rated from 5 frames across the creator clip plus poster."
         }
       ]
     },
@@ -2067,14 +2147,30 @@
       "found_via": "X post by @givros with GPT-6 Astra + Three.js + Blender demo link",
       "found_via_network": "x",
       "screenshot_path": "screenshots/147-cropper-seven.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Third-person orange biplane over Alpine Lake forest with clear telemetry HUD and Four Horizons location menu.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: low-poly crop-duster takeoff from an airfield, then flights over forests, red mesas, a stone arch and a lake; clean stylised biomes with soft lighting, small HUD. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
       "engine": "Three.js",
       "remote_likes": 19,
-      "likes_source": "x"
+      "likes_source": "x",
+      "video_path": "videos/cropper-seven.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/givros/status/2104692807965564947",
+      "videos": [
+        {
+          "path": "videos/cropper-seven.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/cropper-seven.jpg",
+          "score": 7,
+          "notes": "multi-frame: low-poly crop-duster takeoff from an airfield, then flights over forests, red mesas, a stone arch and a lake; clean stylised biomes with soft lighting, small HUD. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "soccar",
@@ -2177,8 +2273,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra + creator X (Dimillian)",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/154-vector-dive.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Synthwave neon tunnel with craft, environment picker and crisp HUD typography — excellent visual clarity and theme cohesion.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: neon wireframe tunnel dive: pink/cyan rings and gates rushing at the camera over a dark city grid; stylish synthwave look but sparse and repetitive. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -2188,7 +2284,23 @@
         "desktop"
       ],
       "remote_likes": 56,
-      "likes_source": "x"
+      "likes_source": "x",
+      "video_path": "videos/vector-dive.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/Dimillian/status/2097188900888322323",
+      "videos": [
+        {
+          "path": "videos/vector-dive.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/vector-dive.jpg",
+          "score": 5,
+          "notes": "multi-frame: neon wireframe tunnel dive: pink/cyan rings and gates rushing at the camera over a dark city grid; stylish synthwave look but sparse and repetitive. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "stadium-elite",
@@ -2223,8 +2335,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra + creator X (petergyang)",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/156-no-moat.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Character-select still with three detailed 3D founder figurines, stats and Lead the Lab CTAs — clear identity and production polish.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: dark polished deckbuilder UI: a garage hub with founder cards, then battle rows of chibi units with card hand and energy; tidy but small, ends on a 'play it at' card. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -2234,7 +2346,23 @@
         "desktop"
       ],
       "remote_likes": 132,
-      "likes_source": "x"
+      "likes_source": "x",
+      "video_path": "videos/no-moat.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/petergyang/status/2096297378584375672",
+      "videos": [
+        {
+          "path": "videos/no-moat.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/no-moat.jpg",
+          "score": 6,
+          "notes": "multi-frame: dark polished deckbuilder UI: a garage hub with founder cards, then battle rows of chibi units with card hand and energy; tidy but small, ends on a 'play it at' card. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "surge-for-oinja",
@@ -2296,8 +2424,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra + OpenDesignHQ X",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/160-harbor-skirmish.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Cel-shaded FPS still of Old Town with ink rifle, rabbit foes and full HUD — playful identity and readable combat UI.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: bright first-person shooter in a pastel low-poly harbor town: ink rifle, colourful houses, bunting, rooftop routes and rabbit enemies; cheerful and clean, 'GPT-6 Astra' overlay on most frames. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-10-02T12:34:06.000Z",
       "made_with": "astra",
@@ -2312,7 +2440,23 @@
       "avatar_url": "/avatars/OpenDesignHQ.jpg",
       "likes_source_url": "https://x.com/i/status/2097635757917983223",
       "comment_count": 3,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "video_path": "videos/harbor-skirmish.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/OpenDesignHQ/status/2097635757917983223",
+      "videos": [
+        {
+          "path": "videos/harbor-skirmish.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/harbor-skirmish.jpg",
+          "score": 7,
+          "notes": "multi-frame: bright first-person shooter in a pastel low-poly harbor town: ink rifle, colourful houses, bunting, rooftop routes and rabbit enemies; cheerful and clean, 'GPT-6 Astra' overlay on most frames. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "astra-floor",
@@ -2403,8 +2547,8 @@
       "found_via": "onehack catalog (Karts.com Opus 5.5)",
       "found_via_network": "web",
       "screenshot_path": "screenshots/167-karts-world-tour.jpg",
-      "screenshot_score": 9.0,
-      "screenshot_score_notes": "Bright coastal title screen with PRESS START, kart lineup on the grid, and clear WORLD TOUR branding.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: 3D kart race: GO! countdown, then karts on a red-white kerbed track past a city skyline and green hills with position, minimap and speed HUD; decent but simple textures. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -2564,6 +2708,22 @@
           "likes": 0,
           "url": "https://x.com/Scar_Sounds/status/2104135540501295523",
           "created_at": "2026-09-27T09:06:20Z"
+        }
+      ],
+      "video_path": "videos/karts-world-tour.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/KenLin1985/status/2103866807954399530",
+      "videos": [
+        {
+          "path": "videos/karts-world-tour.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshots": [
+        {
+          "path": "videos/karts-world-tour.jpg",
+          "score": 6,
+          "notes": "multi-frame: 3D kart race: GO! countdown, then karts on a red-white kerbed track past a city skyline and green hills with position, minimap and speed HUD; decent but simple textures. Rated from 5 frames across the creator clip plus poster."
         }
       ]
     },
@@ -5623,12 +5783,30 @@
       ],
       "remote_likes": 0,
       "likes_source": "reddit",
-      "screenshot_score": 7.5,
-      "screenshot_score_notes": "Landing page / prison planet idle RPG framing (no dedicated clip this run).",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: creator GIF: top-down tile RPG town and mine with many players, mining level-up, world boss fight and a clue-scroll map; readable RuneScape-like look, simple 2D art, caption bars. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-10-02T12:34:06.000Z",
       "last_seen": "2026-10-02T12:34:06.000Z",
       "listed_at": "2026-10-02T12:34:06.000Z",
-      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
+      "video_path": "videos/colony-exodus.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/aigamedev/comments/1wviou0/",
+      "videos": [
+        {
+          "path": "videos/colony-exodus.mp4",
+          "source": "reddit"
+        }
+      ],
+      "video_note": "Clip is the creator's GIF from the Reddit post (i.redd.it) converted to MP4.",
+      "screenshot_path": "videos/colony-exodus.jpg",
+      "screenshots": [
+        {
+          "path": "videos/colony-exodus.jpg",
+          "score": 5,
+          "notes": "multi-frame: creator GIF: top-down tile RPG town and mine with many players, mining level-up, world boss fight and a clue-scroll map; readable RuneScape-like look, simple 2D art, caption bars. Rated from 5 frames across the creator clip plus poster."
+        }
+      ]
     },
     {
       "id": "vybenomad",
@@ -6389,7 +6567,26 @@
       "remote_likes": 3,
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z"
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "video_path": "videos/mandris.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/aigamedev/comments/1wu9nqk/",
+      "videos": [
+        {
+          "path": "videos/mandris.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/mandris.jpg",
+      "screenshots": [
+        {
+          "path": "videos/mandris.jpg",
+          "score": 5,
+          "notes": "multi-frame: vertical trailer: MANDRIS title card, then enemy/ability cards (Garmo, Jivadin, Norgron) over neon space combat and an explosion; flashy effects, little readable gameplay. Rated from 5 frames across the creator clip plus poster."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: vertical trailer: MANDRIS title card, then enemy/ability cards (Garmo, Jivadin, Norgron) over neon space combat and an explosion; flashy effects, little readable gameplay. Rated from 5 frames across the creator clip plus poster."
     },
     {
       "id": "evergrow",
@@ -7419,13 +7616,18 @@
       "screenshot_path": "screenshots/294-city-2026.jpg",
       "screenshots": [
         {
+          "path": "videos/city-2026.jpg",
+          "score": 6,
+          "notes": "multi-frame: low-poly 3D SimCity 2000 city with dense blocks, arcology, plane flyover, disasters and fires, classic toolbar UI; faithful and busy, flat textures. Rated from 5 frames across the creator clip plus poster."
+        },
+        {
           "path": "screenshots/294-city-2026.jpg",
           "score": 6,
           "notes": "Bright City 2026 logo over a blurred low-poly skyline looks polished, but it is the click-to-start screen with no city building visible."
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Bright City 2026 logo over a blurred low-poly skyline looks polished, but it is the click-to-start screen with no city building visible.",
+      "screenshot_score_notes": "multi-frame: low-poly 3D SimCity 2000 city with dense blocks, arcology, plane flyover, disasters and fires, classic toolbar UI; faithful and busy, flat textures. Rated from 5 frames across the creator clip plus poster.",
       "likes_source_url": "https://www.reddit.com/r/ClaudeCode/comments/1x0ksja/",
       "comment_count": 55,
       "comments": [
@@ -7568,6 +7770,15 @@
           "likes": 2,
           "url": "https://www.reddit.com/r/ClaudeCode/comments/1x0ksja/i_built_a_modern_lowpoly_simcity_2000_clone_with/pf9yw3l/",
           "created_at": "2026-10-11T17:02:49Z"
+        }
+      ],
+      "video_path": "videos/city-2026.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/SimCity/comments/1x0ksja/",
+      "videos": [
+        {
+          "path": "videos/city-2026.mp4",
+          "source": "reddit"
         }
       ]
     },
@@ -18674,13 +18885,18 @@
       "screenshot_path": "screenshots/405-the-heist.jpg",
       "screenshots": [
         {
+          "path": "videos/the-heist.jpg",
+          "score": 6,
+          "notes": "multi-frame: third-person co-op heist in a museum: unlock the loot, run with it past glass cases, seal the exit; decent stylised 3D interiors with captions, ends on a playtest card. Rated from 5 frames across the creator clip plus poster."
+        },
+        {
           "path": "screenshots/405-the-heist.jpg",
           "score": 5,
           "notes": "Itch screenshot: two backpack-wearing robbers in a dark security room before a wall of CCTV monitors; clean stylised 3D, dim."
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Itch screenshot: two backpack-wearing robbers in a dark security room before a wall of CCTV monitors; clean stylised 3D, dim.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: third-person co-op heist in a museum: unlock the loot, run with it past glass cases, seal the exit; decent stylised 3D interiors with captions, ends on a playtest card. Rated from 5 frames across the creator clip plus poster.",
       "browser_playable": false,
       "download_url": "https://theheistdev.itch.io/the-heist",
       "download_platforms": [
@@ -18688,7 +18904,16 @@
         "macos",
         "linux"
       ],
-      "comments": []
+      "comments": [],
+      "video_path": "videos/the-heist.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/aigamedev/comments/1x3g50f/",
+      "videos": [
+        {
+          "path": "videos/the-heist.mp4",
+          "source": "reddit"
+        }
+      ]
     },
     {
       "id": "monolith",
@@ -21004,11 +21229,11 @@
         {
           "path": "videos/majora-mask-3d.jpg",
           "score": 3,
-          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+          "notes": "multi-frame: real Majora's Mask 3D gameplay on PC: Clock Town fairy fountain, Termina field, mask menu and Link in a cave with 3DS-style HUD; faithful, own game files required (capped at 3). Rated from 5 frames across the creator clip plus poster."
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "multi-frame: clip was a GitHub repo card; scored README screenshot: crisp HD Majora's Mask 3D item menu over 3D scene. Capped at 3 (needs own files).",
+      "screenshot_score_notes": "multi-frame: real Majora's Mask 3D gameplay on PC: Clock Town fairy fountain, Termina field, mask menu and Link in a cave with 3DS-style HUD; faithful, own game files required (capped at 3). Rated from 5 frames across the creator clip plus poster.",
       "found_via_network": "reddit",
       "author": "Live_Cicada2118",
       "author_source": "https://www.reddit.com/user/Live_Cicada2118/",
@@ -21016,7 +21241,16 @@
       "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/",
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z"
+      "last_seen": "2026-10-14T01:30:00.000Z",
+      "video_path": "videos/majora-mask-3d.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/decomps/comments/1x4kbeq/",
+      "videos": [
+        {
+          "path": "videos/majora-mask-3d.mp4",
+          "source": "reddit"
+        }
+      ]
     },
     {
       "id": "nebula-smg",
@@ -21184,11 +21418,11 @@
         {
           "path": "videos/nebula-smg.jpg",
           "score": 3,
-          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+          "notes": "multi-frame: Super Mario Galaxy recomp: penguin tutorial dialogue, then Mario surfing a ray through rainbow rings over green water; colourful and smooth, own game files required (capped at 3). Rated from 5 frames across the creator clip plus poster."
         }
       ],
-      "screenshot_score": 1,
-      "screenshot_score_notes": "multi-frame: only image is the GitHub repo card; no gameplay frames available. Capped at 3 (needs own files).",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "multi-frame: Super Mario Galaxy recomp: penguin tutorial dialogue, then Mario surfing a ray through rainbow rings over green water; colourful and smooth, own game files required (capped at 3). Rated from 5 frames across the creator clip plus poster.",
       "found_via_network": "reddit",
       "author": "keepvaibin",
       "author_source": "https://www.reddit.com/user/keepvaibin/",
@@ -21196,7 +21430,16 @@
       "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x52hkn/",
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z"
+      "last_seen": "2026-10-14T01:30:00.000Z",
+      "video_path": "videos/nebula-smg.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/decomps/comments/1x52hkn/",
+      "videos": [
+        {
+          "path": "videos/nebula-smg.mp4",
+          "source": "reddit"
+        }
+      ]
     },
     {
       "id": "nhl24-pc",
@@ -21406,11 +21649,11 @@
         {
           "path": "videos/apocalypse-psx.jpg",
           "score": 3,
-          "notes": "Rated from GitHub/release poster still plus still-clip frames (no Reddit gameplay clip available today due to auth); ROM/own-files games capped at 3. Multi-frame rating from still frames."
+          "notes": "multi-frame: Apocalypse PC port: third-person Bruce Willis shooting through dark industrial corridors, catwalks and neon screens, health HUD; PSX-era low-poly, own game files required (capped at 3). Rated from 5 frames across the creator clip plus poster."
         }
       ],
-      "screenshot_score": 2,
-      "screenshot_score_notes": "multi-frame: clip was a GitHub repo card; README image is a title screen (Bruce Willis key art), no gameplay. Capped at 3 (needs own files).",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "multi-frame: Apocalypse PC port: third-person Bruce Willis shooting through dark industrial corridors, catwalks and neon screens, health HUD; PSX-era low-poly, own game files required (capped at 3). Rated from 5 frames across the creator clip plus poster.",
       "found_via_network": "reddit",
       "author": "Doodle_My_Noodle93",
       "author_source": "https://www.reddit.com/user/Doodle_My_Noodle93/",
@@ -21418,7 +21661,16 @@
       "likes_source_url": "https://www.reddit.com/r/decomps/comments/1x54rhm/",
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
-      "last_seen": "2026-10-14T01:30:00.000Z"
+      "last_seen": "2026-10-14T01:30:00.000Z",
+      "video_path": "videos/apocalypse-psx.mp4",
+      "video_source": "reddit",
+      "video_source_url": "https://www.reddit.com/r/decomps/comments/1x54rhm/",
+      "videos": [
+        {
+          "path": "videos/apocalypse-psx.mp4",
+          "source": "reddit"
+        }
+      ]
     },
     {
       "id": "ffta-recomp",
