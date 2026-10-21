@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:12:56.000Z",
+  "updated_at": "2026-10-21T14:20:19.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -39916,16 +39916,63 @@
       "published_at": "2024-11-28T12:29:01Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z"
+    },
+    {
+      "id": "fifa-street-2-online",
+      "title": "FIFA Street 2 Web Online",
+      "description": "FIFA Street 2 (EA Sports BIG, PS2 2006) playable in the browser on snuri00's PS2 Web Recomp engine: solo or against another player online, private rooms and chat, keyboard or controller, nothing to install. Needs a fast PC with a good GPU; slow machines run it far below full speed.",
+      "play_url": "https://fifastreet2.fun/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry fifa-street-2-fifa-street-2-online; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
+      "video_path": "videos/fifa-street-2-online.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/fifa-street-2-online.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/fifa-street-2-online.jpg",
+      "screenshots": [
+        {
+          "path": "videos/fifa-street-2-online.jpg",
+          "score": 4,
+          "notes": "Real footage from the browser port: the 3D EA Sports logo spinning on orange, the street-football intro FMV (clapperboard, graffiti brick wall, a freestyler on a hazy beach) and the graffiti FIFA Street 2 'Press START button' title. Recognisable branding but no gameplay, and sped up from a slow capture. Rated from 12 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Real footage from the browser port: the 3D EA Sports logo spinning on orange, the street-football intro FMV (clapperboard, graffiti brick wall, a freestyler on a hazy beach) and the graffiti FIFA Street 2 'Press START button' title. Recognisable branding but no gameplay, and sped up from a slow capture. Rated from 12 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "video_note": "Self-recorded on a GPU-less headless browser where the port ran at about 1-2 fps: the EA Sports BIG logo (2x) and the game's intro FMV (3x) sped up, then the real-speed title screen. Real output of the port, but no match footage.",
+      "first_seen": "2026-10-21T14:20:19.000Z",
+      "last_seen": "2026-10-21T14:20:19.000Z"
     }
   ],
   "totals": {
-    "games": 566,
+    "games": 567,
     "by_made_with": {
       "opus-5.5": 296,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 179,
+      "unknown": 180,
       "gemini-4-argon": 5
     }
   }
