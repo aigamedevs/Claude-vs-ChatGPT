@@ -36424,11 +36424,11 @@
         "desktop"
       ],
       "video_path": "videos/flipper-from-hell.mp4",
-      "video_source": "recorded",
+      "video_source": "github-readme",
       "videos": [
         {
           "path": "videos/flipper-from-hell.mp4",
-          "source": "recorded"
+          "source": "github-readme"
         }
       ],
       "screenshot_path": "videos/flipper-from-hell.jpg",
@@ -36436,7 +36436,7 @@
         {
           "path": "videos/flipper-from-hell.jpg",
           "score": 5,
-          "notes": "Orange-tinted one-bit fighting game in a Flipper Zero frame: title art, then two brawlers trading punches; charming but small. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+          "notes": "multi-frame: 5 frames across the creator's README gameplay GIF plus poster: real fights throughout - two Neighbours-from-Hell-style brawlers trading punches and kicks with hit sparks, health/special bars, dithered street backdrop; strong hand-drawn pixel art for a 1-bit 128x64 screen, but monochrome orange, tiny and low-res."
         }
       ],
       "found_via_network": "reddit",
@@ -36460,7 +36460,9 @@
       "last_seen": "2026-10-21T02:30:00.000Z",
       "published_at": "2026-10-20T21:02:17Z",
       "screenshot_score": 5,
-      "screenshot_score_notes": "Orange-tinted one-bit fighting game in a Flipper Zero frame: title art, then two brawlers trading punches; charming but small. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+      "screenshot_score_notes": "multi-frame: 5 frames across the creator's README gameplay GIF plus poster: real fights throughout - two Neighbours-from-Hell-style brawlers trading punches and kicks with hit sparks, health/special bars, dithered street backdrop; strong hand-drawn pixel art for a 1-bit 128x64 screen, but monochrome orange, tiny and low-res.",
+      "video_source_url": "https://github.com/Menrix/Flipper-Zero---Flipper-from-Hell---Game/blob/main/screenshots/gameplay.gif",
+      "video_note": "Clip is the creator's README GIF (screenshots/gameplay.gif) converted to MP4; replaces the earlier headless-recorded clip."
     },
     {
       "id": "words-at-war",
