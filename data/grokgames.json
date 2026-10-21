@@ -2772,9 +2772,9 @@
       "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/103",
       "found_via": "MartinDelophy awesome-gpt-6-astra (kvickan)",
       "found_via_network": "catalog",
-      "screenshot_path": "screenshots/158-jellyblob.jpg",
-      "screenshot_score": 8.4,
-      "screenshot_score_notes": "Glossy crowned jelly promo still with neon trail arena — strong brand, marketing frame rather than in-match HUD.",
+      "screenshot_path": "screenshots/jellyblob-1.jpg",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - neon jelly-blob trail game on a glowing hex arena: light trails, orbs, giant blobs, leaderboard HUD; vivid and busy.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "made_with": "astra",
@@ -2786,7 +2786,38 @@
       ],
       "remote_likes": 0,
       "likes_source": "catalog",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/jellyblob-1.jpg",
+          "source": "headless",
+          "score": 7,
+          "notes": "screenshots: rated from 5 screenshots - neon jelly-blob trail game on a glowing hex arena: light trails, orbs, giant blobs, leaderboard HUD; vivid and busy."
+        },
+        {
+          "path": "screenshots/jellyblob-2.jpg",
+          "source": "headless",
+          "score": 7
+        },
+        {
+          "path": "screenshots/jellyblob-3.jpg",
+          "source": "headless",
+          "score": 7
+        },
+        {
+          "path": "screenshots/jellyblob-4.jpg",
+          "source": "headless",
+          "score": 7
+        },
+        {
+          "path": "screenshots/jellyblob-5.jpg",
+          "source": "headless",
+          "score": 7
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "harbor-skirmish",
@@ -2840,8 +2871,8 @@
       "found_via": "MartinDelophy awesome-gpt-6-astra (BEROCHLU)",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/162-astra-floor.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Warehouse FPS combat still with diverse low-poly horde, AR-2 HUD and wave counter — solid survival identity.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - dark first-person shooter in a grey concrete arena: blocky enemies, gun viewmodel, wave counter and ammo HUD; murky lighting, little detail.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -2855,7 +2886,38 @@
       "github_url": "https://github.com/BEROCHLU/astrafloor",
       "avatar_url": "/avatars/BEROCHLU.jpg",
       "x_handle": null,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/162-astra-floor.jpg",
+          "source": "existing",
+          "score": 4,
+          "notes": "screenshots: rated from 5 screenshots - dark first-person shooter in a grey concrete arena: blocky enemies, gun viewmodel, wave counter and ammo HUD; murky lighting, little detail."
+        },
+        {
+          "path": "screenshots/astra-floor-1.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/astra-floor-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/astra-floor-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/astra-floor-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "fishslop",
@@ -3222,9 +3284,9 @@
       "github_user": "PromptEngineer48",
       "found_via": "GitHub PromptEngineer48/claude-opus-5.5-games",
       "found_via_network": "github",
-      "screenshot_path": "screenshots/197-neon-siege.jpg",
-      "screenshot_score": 9.0,
-      "screenshot_score_notes": "Synthwave DEPLOY menu over cyan grid arena with magenta rim and clear WASD/shield control legend.",
+      "screenshot_path": "screenshots/neon-siege-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - neon tower defense on a dark grid: glowing cyan turrets, wave banner, health/energy bars; clean synthwave look, sparse.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -3237,7 +3299,38 @@
       "likes_source": "github_stars",
       "avatar_url": "https://github.com/PromptEngineer48.png",
       "likes_source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/neon-siege-1.jpg",
+          "source": "headless",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - neon tower defense on a dark grid: glowing cyan turrets, wave banner, health/energy bars; clean synthwave look, sparse."
+        },
+        {
+          "path": "screenshots/neon-siege-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/neon-siege-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/neon-siege-4.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/neon-siege-5.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "mortal-clash",
@@ -4919,14 +5012,30 @@
       "description": "Isometric pixel noir adventure in New Meridian, 1957: point-and-click, inventory, notebook deductions. Single-file Canvas 2D, no external assets. Credited to Claude Opus 5.5 (Odiriuss/PixelArtGameOpus).",
       "play_url": "https://odiriuss.github.io/PixelArtGameOpus/hourglass_city.html",
       "source_url": "https://github.com/Odiriuss/PixelArtGameOpus",
-      "screenshot_path": "screenshots/248-hourglass-city.jpg",
-      "screenshot_score": 9.0,
-      "screenshot_score_notes": "Atmospheric noir title: trenchcoat silhouette over rainy New Meridian skyline.",
+      "screenshot_path": "screenshots/hourglass-city-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - noir isometric pixel city: rainy neon street, a diner interior, a black sedan chase and an apartment room; moody palette, small but detailed.",
       "screenshots": [
         {
-          "path": "screenshots/248-hourglass-city.jpg",
-          "score": 9.0,
-          "notes": "Title Act I Ordinary Dead"
+          "path": "screenshots/hourglass-city-1.jpg",
+          "source": "github-readme",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - noir isometric pixel city: rainy neon street, a diner interior, a black sedan chase and an apartment room; moody palette, small but detailed."
+        },
+        {
+          "path": "screenshots/hourglass-city-2.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/hourglass-city-3.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/hourglass-city-4.jpg",
+          "source": "headless",
+          "score": 6
         }
       ],
       "found_via": "web catalog / GitHub Pages (Odiriuss)",
@@ -4945,7 +5054,10 @@
       "likes_source_url": "https://github.com/Odiriuss/PixelArtGameOpus",
       "remote_likes": 9,
       "likes_source": "github_stars",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "fast-rocket",
@@ -4953,14 +5065,30 @@
       "description": "Rocket-building sandbox with two voiced bantering instructors: build it, launch it, land it. Free browser play, no account. Built with Claude Sonnet 5.5 in Claude Code by @fastrocket / Linh Ngo.",
       "play_url": "https://linh.com/fastrocket/",
       "source_url": "https://x.com/fastrocket/status/2105144228754153834",
-      "screenshot_path": "screenshots/249-fast-rocket.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Polished coastal launch title art with PRESS ANY KEY CTA.",
+      "screenshot_path": "screenshots/fast-rocket-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - rocket-company sim: launch-pad build screen and isometric spaceport with a rocket, globe overlay and dense management panels; polished UI, busy.",
       "screenshots": [
         {
-          "path": "screenshots/249-fast-rocket.jpg",
-          "score": 9.1,
-          "notes": "Title launch pad dusk"
+          "path": "screenshots/fast-rocket-1.jpg",
+          "source": "headless",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - rocket-company sim: launch-pad build screen and isometric spaceport with a rocket, globe overlay and dense management panels; polished UI, busy."
+        },
+        {
+          "path": "screenshots/fast-rocket-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fast-rocket-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fast-rocket-4.jpg",
+          "source": "headless",
+          "score": 6
         }
       ],
       "found_via": "X post by @fastrocket",
@@ -4980,7 +5108,10 @@
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
       "last_seen": "2026-09-30T05:50:00.000Z",
-      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "span-nine",
@@ -5109,13 +5240,34 @@
       "play_url": "https://insanityninja7.itch.io/keep-climbing",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtwfbj/keep_climbing_slapjam_2026_contender/",
       "screenshot_path": "screenshots/254-keep-climbing.jpg",
-      "screenshot_score": 8.5,
-      "screenshot_score_notes": "Night pixel-art title: KEEP CLIMBING over vine-covered castle and moon.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - vertical pixel tower climber: castle title, stone tower shafts with ledges, slap-climbing character at night; cohesive dark-blue pixel art, narrow frames.",
       "screenshots": [
         {
           "path": "screenshots/254-keep-climbing.jpg",
-          "score": 8.5,
-          "notes": "Itch title card"
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - vertical pixel tower climber: castle title, stone tower shafts with ledges, slap-climbing character at night; cohesive dark-blue pixel art, narrow frames."
+        },
+        {
+          "path": "screenshots/keep-climbing-1.jpg",
+          "source": "itch-page",
+          "score": 5
+        },
+        {
+          "path": "screenshots/keep-climbing-2.jpg",
+          "source": "itch-page",
+          "score": 5
+        },
+        {
+          "path": "screenshots/keep-climbing-3.jpg",
+          "source": "itch-page",
+          "score": 5
+        },
+        {
+          "path": "screenshots/keep-climbing-4.jpg",
+          "source": "itch-page",
+          "score": 5
         }
       ],
       "found_via": "reddit / r/aigamedev",
@@ -5133,7 +5285,10 @@
       "listed_at": "2026-09-30T05:50:00.000Z",
       "first_seen": "2026-09-30T05:50:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
-      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "lost-cathedral",
@@ -5454,13 +5609,34 @@
       "source_url": "https://github.com/ethanplusai/outpace",
       "github_url": "https://github.com/ethanplusai/outpace",
       "screenshot_path": "screenshots/275-outpace.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Pixel typing HUD: Claude ahead of Great Wave, hearts/WPM/wave UI, active word \"ask\" with pink caret — clear in-game still.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - typing-race runner fleeing a giant pixel wave across desert, night and forest dunes, typed text bar below; striking wave art, simple scenes.",
       "screenshots": [
         {
           "path": "screenshots/275-outpace.jpg",
-          "score": 8.7,
-          "notes": "Chase mode gameplay still"
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - typing-race runner fleeing a giant pixel wave across desert, night and forest dunes, typed text bar below; striking wave art, simple scenes."
+        },
+        {
+          "path": "screenshots/outpace-1.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/outpace-2.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/outpace-3.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/outpace-4.jpg",
+          "source": "headless",
+          "score": 6
         }
       ],
       "found_via": "GitHub search + AgentsLoop seed cross-check",
@@ -5477,7 +5653,10 @@
       "likes_source_url": "https://github.com/ethanplusai/outpace",
       "remote_likes": 3,
       "likes_source": "github_stars",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "gravewake",
@@ -5487,13 +5666,29 @@
       "source_url": "https://github.com/LioraLabs/gravewake",
       "github_url": "https://github.com/LioraLabs/gravewake",
       "screenshot_path": "screenshots/278-gravewake.jpg",
-      "screenshot_score": 8.5,
-      "screenshot_score_notes": "Night clearing fight: WAVE 9 · WRAITHS, score HUD, slash FX and glowing pickups among tombstones — real combat still.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - dark space bullet-hell: tiny ships in asteroid-strewn nebula, glowing boss and a radial bullet burst, star HUD; atmospheric but small, dim.",
       "screenshots": [
         {
           "path": "screenshots/278-gravewake.jpg",
-          "score": 8.5,
-          "notes": "Wave combat still"
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - dark space bullet-hell: tiny ships in asteroid-strewn nebula, glowing boss and a radial bullet burst, star HUD; atmospheric but small, dim."
+        },
+        {
+          "path": "screenshots/gravewake-1.jpg",
+          "source": "itch-page",
+          "score": 5
+        },
+        {
+          "path": "screenshots/gravewake-2.jpg",
+          "source": "itch-page",
+          "score": 5
+        },
+        {
+          "path": "screenshots/gravewake-3.jpg",
+          "source": "itch-page",
+          "score": 5
         }
       ],
       "found_via": "AgentsLoop seed cross-check (itch HTML5)",
@@ -5511,7 +5706,10 @@
       "likes_source_url": "https://github.com/LioraLabs/gravewake",
       "remote_likes": 10,
       "likes_source": "github_stars",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "type-or-die",
@@ -5891,18 +6089,42 @@
       ],
       "remote_likes": 5,
       "likes_source": "reddit",
-      "screenshot_score": 8.0,
-      "screenshot_score_notes": "Voxel overworld / RPG still from itch gallery.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - voxel RPG itch shots: walled medieval village from above, low-poly hills, a cave and a dungeon fight with spells and hotbar; varied, simple shading.",
       "first_seen": "2026-10-02T01:50:14.000Z",
       "last_seen": "2026-10-02T01:50:14.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
-      "screenshot_path": "screenshots/cubedrpg.jpg",
+      "screenshot_path": "screenshots/cubedrpg-1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/cubedrpg.jpg",
-          "score": 8.0,
-          "notes": "Voxel overworld / RPG still from itch gallery."
+          "path": "screenshots/cubedrpg-1.jpg",
+          "source": "itch-page",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - voxel RPG itch shots: walled medieval village from above, low-poly hills, a cave and a dungeon fight with spells and hotbar; varied, simple shading."
+        },
+        {
+          "path": "screenshots/cubedrpg-2.jpg",
+          "source": "itch-page",
+          "score": 6
+        },
+        {
+          "path": "screenshots/cubedrpg-3.jpg",
+          "source": "itch-page",
+          "score": 6
+        },
+        {
+          "path": "screenshots/cubedrpg-4.jpg",
+          "source": "itch-page",
+          "score": 6
+        },
+        {
+          "path": "screenshots/cubedrpg-5.jpg",
+          "source": "itch-page",
+          "score": 6
         }
+      ],
+      "tags": [
+        "screenshots"
       ]
     },
     {
