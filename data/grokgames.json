@@ -3357,8 +3357,8 @@
       "found_via": "X/catalog onehack + GitHub Pages (vasu-devs/FishSlop_Opus5.5)",
       "found_via_network": "web",
       "screenshot_path": "screenshots/163-fishslop.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Clear underwater title screen with FS-7 bathyscaphe scene, Dive in CTA, and full WASD control legend.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - underwater fishing sub game: FISHSLOP title over a reef, an orange sub cruising past kelp and fish with sonar and cargo HUD, dark-cave headlight dive, The Dock upgrade panel; colourful and busy.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -3374,7 +3374,38 @@
       "avatar_url": "/avatars/vasu-devs.jpg",
       "x_handle": null,
       "likes_source_url": "https://github.com/vasu-devs/FishSlop_Opus5.5",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/163-fishslop.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - underwater fishing sub game: FISHSLOP title over a reef, an orange sub cruising past kelp and fish with sonar and cargo HUD, dark-cave headlight dive, The Dock upgrade panel; colourful and busy."
+        },
+        {
+          "path": "screenshots/fishslop-1.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fishslop-2.jpg",
+          "source": "github-readme",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fishslop-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/fishslop-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "silent-meridian",
@@ -3385,8 +3416,8 @@
       "found_via": "onehack catalog (Astra silent-meridian.stackloom.org)",
       "found_via_network": "web",
       "screenshot_path": "screenshots/166-silent-meridian.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Cinematic observatory with golden armillary sphere under a crescent moon; title and Enter CTA perfectly legible.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - atmospheric undersea/steampunk adventure: title over a brass diving bell in murky light, intro dialogue card, corridor and machine-room scenes with HUD; moody art, very dark.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
@@ -3400,7 +3431,33 @@
       "github_url": null,
       "avatar_url": null,
       "x_handle": null,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/166-silent-meridian.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - atmospheric undersea/steampunk adventure: title over a brass diving bell in murky light, intro dialogue card, corridor and machine-room scenes with HUD; moody art, very dark."
+        },
+        {
+          "path": "screenshots/silent-meridian-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/silent-meridian-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/silent-meridian-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "karts-world-tour",
@@ -3772,8 +3829,8 @@
       "found_via": "GitHub PromptEngineer48/claude-opus-5.5-games",
       "found_via_network": "github",
       "screenshot_path": "screenshots/198-mortal-clash.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Cinematic title: red mech vs martial artist under full moon/pagodas, gold MORTAL CLASH wordmark, Press Enter.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Mortal Kombat-style fighter: title with red ninjas, fighter select row, KAGE VS VEGA splash, ROUND 1 and mid-fight frames with health bars on a red temple stage; coherent arcade look.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -3786,7 +3843,38 @@
       "likes_source": "github_stars",
       "avatar_url": "https://github.com/PromptEngineer48.png",
       "likes_source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/198-mortal-clash.jpg",
+          "source": "existing",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - Mortal Kombat-style fighter: title with red ninjas, fighter select row, KAGE VS VEGA splash, ROUND 1 and mid-fight frames with health bars on a red temple stage; coherent arcade look."
+        },
+        {
+          "path": "screenshots/mortal-clash-1.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/mortal-clash-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/mortal-clash-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/mortal-clash-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "rooftop-sniper",
@@ -3799,8 +3887,8 @@
       "found_via": "GitHub PromptEngineer48/claude-opus-5.5-games",
       "found_via_network": "github",
       "screenshot_path": "screenshots/199-rooftop-sniper.jpg",
-      "screenshot_score": 9.0,
-      "screenshot_score_notes": "Dusk city silhouette with glowing windows, Operation Duskfall title, START MISSION and full controls card.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - first-person sniper at dusk: title over a city skyline, rifle and scope view across rooftops, mission briefing, purple sunset skyline; nice mood, simple low-poly city.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -3813,7 +3901,38 @@
       "likes_source": "github_stars",
       "avatar_url": "https://github.com/PromptEngineer48.png",
       "likes_source_url": "https://github.com/PromptEngineer48/claude-opus-5.5-games",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/199-rooftop-sniper.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - first-person sniper at dusk: title over a city skyline, rifle and scope view across rooftops, mission briefing, purple sunset skyline; nice mood, simple low-poly city."
+        },
+        {
+          "path": "screenshots/rooftop-sniper-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/rooftop-sniper-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/rooftop-sniper-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/rooftop-sniper-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "neon-ridge-rider",
@@ -3913,8 +4032,8 @@
       "found_via": "X @israelfemiojo talk-characters-into-yes game",
       "found_via_network": "x",
       "screenshot_path": "screenshots/204-talk-me-into-it.jpg",
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "Bright promo still with dual phone mockups (boss raise / landlord rent), deal meter UI, and clear daily premise.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - chat-persuasion game: promo card with phones, then a cartoon character in a speech-bubble chat with typed pitches and reply cards on a green field; clear but UI-only.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -3930,7 +4049,33 @@
       "likes_source": "x",
       "x_handle": "israelfemiojo",
       "avatar_url": "/avatars/israelfemiojo.jpg",
-      "github_user": "israelfemiojo"
+      "github_user": "israelfemiojo",
+      "screenshots": [
+        {
+          "path": "screenshots/204-talk-me-into-it.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - chat-persuasion game: promo card with phones, then a cartoon character in a speech-bubble chat with typed pitches and reply cards on a green field; clear but UI-only."
+        },
+        {
+          "path": "screenshots/talk-me-into-it-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/talk-me-into-it-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/talk-me-into-it-3.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "theatre-nge",
@@ -5446,13 +5591,29 @@
       "play_url": "https://bird-siege.tonyheller.chatgpt.site/",
       "source_url": "https://x.com/TonyClimate/status/2105154016300892232",
       "screenshot_path": "screenshots/247-bird-siege.jpg",
-      "screenshot_score": 7.8,
-      "screenshot_score_notes": "Clear Level 01 slingshot playground with emoji birds/pigs and score HUD.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - Angry Birds-like slingshot: pastel sky over hills, slingshot and blue birds facing wooden towers with pigs, a 'one more shot?' prompt; clean but sparse.",
       "screenshots": [
         {
           "path": "screenshots/247-bird-siege.jpg",
-          "score": 7.8,
-          "notes": "Level 01 little outpost"
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - Angry Birds-like slingshot: pastel sky over hills, slingshot and blue birds facing wooden towers with pigs, a 'one more shot?' prompt; clean but sparse."
+        },
+        {
+          "path": "screenshots/bird-siege-1.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/bird-siege-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/bird-siege-3.jpg",
+          "source": "headless",
+          "score": 5
         }
       ],
       "found_via": "X post by @TonyClimate",
@@ -5471,7 +5632,10 @@
       "published_at": "2026-09-30T04:33:24.000Z",
       "listed_at": "2026-09-30T04:45:00.000Z",
       "first_seen": "2026-09-30T04:45:00.000Z",
-      "last_seen": "2026-09-30T07:51:31.000Z"
+      "last_seen": "2026-09-30T07:51:31.000Z",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "hourglass-city",
@@ -6468,12 +6632,44 @@
       "platforms": [
         "desktop"
       ],
-      "screenshot_score": 7.8,
-      "screenshot_score_notes": "Sheep-herding arcade benchmark page / demo chrome.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Bark & Baa sheepdog herding: cartoon title over rolling meadows, level-select grid, a dog steering a flock across green fields, WOOF! bark rings; bright, cheerful, readable.",
       "first_seen": "2026-10-02T01:50:14.000Z",
       "last_seen": "2026-10-02T01:50:14.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/baa-sheep-opus-1.jpg",
+          "source": "headless",
+          "score": 6,
+          "notes": "screenshots: rated from 5 screenshots - Bark & Baa sheepdog herding: cartoon title over rolling meadows, level-select grid, a dog steering a flock across green fields, WOOF! bark rings; bright, cheerful, readable."
+        },
+        {
+          "path": "screenshots/baa-sheep-opus-2.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/baa-sheep-opus-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/baa-sheep-opus-4.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/baa-sheep-opus-5.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "screenshot_path": "screenshots/baa-sheep-opus-1.jpg",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "attack-on-titan-shiganshina",
