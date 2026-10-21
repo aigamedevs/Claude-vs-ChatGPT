@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:56:29.000Z",
+  "updated_at": "2026-10-21T14:09:27.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -39396,16 +39396,278 @@
       "published_at": "2018-07-03T07:09:45Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z"
+    },
+    {
+      "id": "dbz-bt3-online",
+      "title": "Dragon Ball Z: Budokai Tenkaichi 3 Web Online",
+      "description": "Dragon Ball Z: Budokai Tenkaichi 3 (Spike/Namco Bandai, PS2 2007) playable in the browser on the PS2 Web Recomp engine, built on the Tenkaichi3Decomp project: solo or online versus with private rooms and chat, keyboard or controller, nothing to install. Needs a fast PC with a good GPU; slow machines run it far below full speed.",
+      "play_url": "https://dragonballbt3.online/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/stufno102/Tenkaichi3Decomp",
+      "github_stars": 29,
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry stufno102-tenkaichi3decomp; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
+      "video_path": "videos/dbz-bt3-online.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/dbz-bt3-online.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/dbz-bt3-online.jpg",
+      "screenshots": [
+        {
+          "path": "videos/dbz-bt3-online.jpg",
+          "score": 6,
+          "notes": "Real in-engine BT3 footage (attract-mode battle): Super Saiyan Vegeta, Trunks and Cell trading ki blasts over grassy plains, golden aura flares, the Tenkaichi 3 logo and a Press START prompt over the action. Recognisable and colourful, but low-res and captured in slow motion. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Real in-engine BT3 footage (attract-mode battle): Super Saiyan Vegeta, Trunks and Cell trading ki blasts over grassy plains, golden aura flares, the Tenkaichi 3 logo and a Press START prompt over the action. Recognisable and colourful, but low-res and captured in slow motion. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
+      "video_note": "Self-recorded on a GPU-less headless browser: the site ran at about 10% speed, so this is the game's own attract-mode battle demo played back at 2x; real game rendering, slower than on a real PC.",
+      "remote_likes": 29,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/stufno102/Tenkaichi3Decomp",
+      "likes_checked": "2026-10-21",
+      "published_at": "2026-10-12T04:17:42Z",
+      "first_seen": "2026-10-21T14:09:27.000Z",
+      "last_seen": "2026-10-21T14:09:27.000Z"
+    },
+    {
+      "id": "goldenweb64",
+      "title": "GoldenWeb64 (GoldenEye 007 native port in the browser)",
+      "description": "GoldenWeb64: a native port of GoldenEye 007 (Rare, N64 1997) built from the n64decomp/007 decompilation via MGB64, compiled to WebAssembly with Raylib and running in the tab. The site ships only the engine: load your own US ROM; mouse look, unlock-all-missions option.",
+      "play_url": "https://goldenweb64.com/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/akratch/mgb64",
+      "author": "akratch",
+      "author_source": "https://github.com/akratch/mgb64",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry goldeneye-007-goldenweb64; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Raylib (WebAssembly)",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own GoldenEye 007 (USA) N64 ROM (.z64/.v64/.n64, 12 MB)",
+      "iframe": true,
+      "video_path": "videos/goldenweb64.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://youtu.be/Jh3GOirvobI",
+      "videos": [
+        {
+          "path": "videos/goldenweb64.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/goldenweb64.jpg",
+      "screenshots": [
+        {
+          "path": "videos/goldenweb64.jpg",
+          "score": 2.5,
+          "notes": "Creator's real MGB64 footage on Runway/Facility: Bond's KF7 Soviet in first person, grey bunker walls, snowy runway, a guard falling and the tank section with the classic ammo HUD. Faithful N64 look; capped at 2.5 because you must bring your own ROM. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Creator's real MGB64 footage on Runway/Facility: Bond's KF7 Soviet in first person, grey bunker walls, snowy runway, a guard falling and the tank section with the classic ammo HUD. Faithful N64 look; capped at 2.5 because you must bring your own ROM. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating).",
+      "video_note": "Creator's own MGB64 gameplay video (Runway, v0.1; linked from the akratch/mgb64 README), recorded from the native build the web port is compiled from.",
+      "first_seen": "2026-10-21T14:09:27.000Z",
+      "last_seen": "2026-10-21T14:09:27.000Z"
+    },
+    {
+      "id": "smash-fun",
+      "title": "Smash.fun (Super Smash Bros. 64 with custom fighters)",
+      "description": "Smash.fun: a fan browser port of Super Smash Bros. (HAL, N64 1999) built on the OpenSmash decompilation work, with a tool to create custom fighters (celebrities, memes, anyone) and play them inside the original game. Add your own ROM under ROM Management.",
+      "play_url": "https://smash.fun/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/turtlesoupy/opensmash",
+      "author": "turtlesoupy",
+      "author_source": "https://github.com/turtlesoupy/opensmash",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry super-smash-bros-smash-fun; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "OpenSmash (WebAssembly)",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Super Smash Bros. (N64) ROM, added under ROM Management",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none+coep-require-corp",
+      "video_path": "videos/smash-fun.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://youtu.be/Uj3N_CbYMHs",
+      "videos": [
+        {
+          "path": "videos/smash-fun.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/smash-fun.jpg",
+      "screenshots": [
+        {
+          "path": "videos/smash-fun.jpg",
+          "score": 2.5,
+          "notes": "Creator's real gameplay: custom fighters (a Jesus model riding a Poke Ball, a top-hat gentleman, a giant gloved hand) brawling on Smash 64 stages like Saffron City and Peach's Castle, plus the Smash.fun title screen. Bright and funny; capped at 2.5 because you need your own ROM. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Creator's real gameplay: custom fighters (a Jesus model riding a Poke Ball, a top-hat gentleman, a giant gloved hand) brawling on Smash 64 stages like Saffron City and Peach's Castle, plus the Smash.fun title screen. Bright and funny; capped at 2.5 because you need your own ROM. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating).",
+      "video_note": "Creator's own smash.fun video (linked from the turtlesoupy/opensmash README).",
+      "first_seen": "2026-10-21T14:09:27.000Z",
+      "last_seen": "2026-10-21T14:09:27.000Z"
+    },
+    {
+      "id": "dusklight-web",
+      "title": "Dusklight web build (Zelda: Twilight Princess in the browser)",
+      "description": "Browser build of Dusklight, the PC/mobile source port of The Legend of Zelda: Twilight Princess (Nintendo, GameCube 2006) built on the zeldaret/tp decompilation. Runs fully in the tab with WebGPU (current Chrome or Edge); drop in your own GameCube disc image (ISO/CISO, USA or EUR).",
+      "play_url": "https://dusklight.pages.dev/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/TwilitRealm/dusklight",
+      "repo_url": "https://github.com/caribbeanwebdev/dusklight",
+      "github_stars": 6001,
+      "author": "caribbeanwebdev",
+      "author_source": "https://github.com/caribbeanwebdev/dusklight",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry twilitrealm-dusklight; listed via awesome-game-remakes, portsdr, quiver, recomp.fyi, unbaked)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Dusklight / Aurora (WebGPU)",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Twilight Princess GameCube disc image (ISO/GCM or CISO, USA or EUR)",
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
+      "video_path": "videos/dusklight-web.mp4",
+      "video_source": "creator-site",
+      "video_source_url": "https://twilitrealm.dev/",
+      "videos": [
+        {
+          "path": "videos/dusklight-web.mp4",
+          "source": "creator-site"
+        }
+      ],
+      "screenshot_path": "videos/dusklight-web.jpg",
+      "screenshots": [
+        {
+          "path": "videos/dusklight-web.jpg",
+          "score": 2.5,
+          "notes": "Twilit Realm's real Dusklight footage in Ordon Village: Link's treehouse interior, Ilia with Epona, Uli and the slingshot over lush green woods, all crisp at widescreen resolution. Gorgeous; capped at 2.5 because you need your own disc image. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Twilit Realm's real Dusklight footage in Ordon Village: Link's treehouse interior, Ilia with Epona, Uli and the slingshot over lush green woods, all crisp at widescreen resolution. Gorgeous; capped at 2.5 because you need your own disc image. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating).",
+      "video_note": "Twilit Realm's own Dusklight gameplay video from twilitrealm.dev (Ordon), recorded from the native port the web build is made from.",
+      "remote_likes": 6001,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/TwilitRealm/dusklight",
+      "likes_checked": "2026-10-21",
+      "published_at": "2025-11-30T01:27:51Z",
+      "first_seen": "2026-10-21T14:09:27.000Z",
+      "last_seen": "2026-10-21T14:09:27.000Z"
+    },
+    {
+      "id": "ctr-high-octane",
+      "title": "Crash Team Racing: High Octane (web build)",
+      "description": "Crash Team Racing: High Octane, Rinnegatamante's advanced source port of Crash Team Racing (Naughty Dog, PS1 1999) for PS Vita, PC and the web, with 60 FPS rendering, ghost replays and online leaderboards. The browser build needs your own NTSC-U disc image (ctr-u.bin).",
+      "play_url": "https://rinnegatamante.github.io/Crash-Team-Racing-High-Octane/",
+      "source_url": "https://github.com/aigamedevs/awesome-decomp-games",
+      "github_url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
+      "github_stars": 206,
+      "github_user": "Rinnegatamante",
+      "author": "Rinnegatamante",
+      "author_source": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
+      "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry rinnegatamante-crash-team-racing-high-octane; listed via portsdr, recomp.fyi, samidy, unbaked)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "CTR decompilation (Emscripten)",
+      "tags": [
+        "decomp",
+        "rom"
+      ],
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs your own Crash Team Racing NTSC-U disc image (ctr-u.bin)",
+      "iframe": true,
+      "video_path": "videos/ctr-high-octane.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://youtu.be/rhwcr8ngFBQ",
+      "videos": [
+        {
+          "path": "videos/ctr-high-octane.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/ctr-high-octane.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ctr-high-octane.jpg",
+          "score": 2.5,
+          "notes": "Creator's real gameplay: Arcade races on Blizzard Bluff with karts drifting through snow, Crash leading in 1st, weapon pickups, lap timers and the 60 FPS counter overlay. Lively and faithful; capped at 2.5 because you need your own disc image. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Creator's real gameplay: Arcade races on Blizzard Bluff with karts drifting through snow, Crash leading in 1st, weapon pickups, lap timers and the 60 FPS counter overlay. Lively and faithful; capped at 2.5 because you need your own disc image. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating).",
+      "video_note": "Rinnegatamante's own High Octane 60 FPS feature preview (Rinne4Fun channel), recorded on the Vita build of the same port.",
+      "remote_likes": 206,
+      "likes_source": "github",
+      "likes_source_url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
+      "likes_checked": "2026-10-21",
+      "published_at": "2026-06-21T18:19:46Z",
+      "first_seen": "2026-10-21T14:09:27.000Z",
+      "last_seen": "2026-10-21T14:09:27.000Z"
     }
   ],
   "totals": {
-    "games": 556,
+    "games": 561,
     "by_made_with": {
       "opus-5.5": 296,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 169,
+      "unknown": 174,
       "gemini-4-argon": 5
     }
   }
