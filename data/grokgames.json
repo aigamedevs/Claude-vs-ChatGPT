@@ -4051,6 +4051,35 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1wtbjnl/first_time_using_opus_55_made_a_roguelite_plinko/pcvpivb/",
           "created_at": "2026-09-29T21:56:44Z"
         }
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/dropdead-plinko-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - LCD-handheld plinko battle royale: monochrome green peg board inside a device frame, pucks dropping, upgrade picks; cohesive retro look but tiny playfield."
+        },
+        {
+          "path": "screenshots/dropdead-plinko-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/dropdead-plinko-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/dropdead-plinko-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/dropdead-plinko-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - LCD-handheld plinko battle royale: monochrome green peg board inside a device frame, pucks dropping, upgrade picks; cohesive retro look but tiny playfield.",
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -6143,15 +6172,42 @@
       "platforms": [
         "desktop"
       ],
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "Rocket-car soccer arena title / boost ball framing.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - Rocket League-style car soccer in a dark stadium: small cars on a glowing blue pitch, scoreboard and boost meter, debug text overlay; dim and low detail.",
       "first_seen": "2026-10-02T01:50:14.000Z",
       "last_seen": "2026-10-02T01:50:14.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
       "likes_source_url": "https://github.com/am-will/rl-opus",
       "remote_likes": 34,
       "likes_source": "github_stars",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/rocket-arena-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - Rocket League-style car soccer in a dark stadium: small cars on a glowing blue pitch, scoreboard and boost meter, debug text overlay; dim and low detail."
+        },
+        {
+          "path": "screenshots/rocket-arena-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/rocket-arena-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/rocket-arena-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/rocket-arena-1.jpg",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "opus-surfers",
@@ -6691,7 +6747,36 @@
       "iframe": true,
       "likes_source_url": "https://x.com/i/status/2106176362444922934",
       "comment_count": 2,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/super-intelligence-bros-1.jpg",
+          "source": "headless",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - 8-bit parody platformer: pixel lab leaders running along a sunset port with 'GPUs sold out' signs and crates, compute/energy/funding HUD; charming retro art, sparse level."
+        },
+        {
+          "path": "screenshots/super-intelligence-bros-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/super-intelligence-bros-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/super-intelligence-bros-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "screenshot_path": "screenshots/super-intelligence-bros-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - 8-bit parody platformer: pixel lab leaders running along a sunset port with 'GPUs sold out' signs and crates, compute/energy/funding HUD; charming retro art, sparse level.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "blockblast-fps",
@@ -6723,6 +6808,35 @@
           "url": "https://x.com/Misulga_/status/2106094720309141900",
           "created_at": "2026-10-02T18:51:25.000Z"
         }
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/blockblast-fps-1.jpg",
+          "source": "x-post",
+          "score": 6,
+          "notes": "screenshots: rated from 4 screenshots - cute first-person blaster: blue toy gun popping goofy round Grinnies in a pastel garden with trees and signs; bright, toy-like, simple."
+        },
+        {
+          "path": "screenshots/blockblast-fps-2.jpg",
+          "source": "x-post",
+          "score": 6
+        },
+        {
+          "path": "screenshots/blockblast-fps-3.jpg",
+          "source": "headless",
+          "score": 6
+        },
+        {
+          "path": "screenshots/blockblast-fps-4.jpg",
+          "source": "headless",
+          "score": 6
+        }
+      ],
+      "screenshot_path": "screenshots/blockblast-fps-1.jpg",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - cute first-person blaster: blue toy gun popping goofy round Grinnies in a pastel garden with trees and signs; bright, toy-like, simple.",
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -6766,7 +6880,36 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "screenshots": [
+        {
+          "path": "screenshots/deepcore-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - pixel mining descent: drill rig in a brown dirt layer under a night sky, upgrade shop panel, fuel/hull HUD; readable but tiny sprites on a big dark field."
+        },
+        {
+          "path": "screenshots/deepcore-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/deepcore-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/deepcore-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/deepcore-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - pixel mining descent: drill rig in a brown dirt layer under a night sky, upgrade shop panel, fuel/hull HUD; readable but tiny sprites on a big dark field.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "arclight",
@@ -6782,7 +6925,36 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "screenshots": [
+        {
+          "path": "screenshots/arclight-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - top-down survival arena: dark green field with blue water patches, tiny hero, lightning arc attack, timer and XP bar; sparse, small."
+        },
+        {
+          "path": "screenshots/arclight-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/arclight-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/arclight-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/arclight-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - top-down survival arena: dark green field with blue water patches, tiny hero, lightning arc attack, timer and XP bar; sparse, small.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "fortnite-og",
@@ -6815,7 +6987,36 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "screenshots": [
+        {
+          "path": "screenshots/blockhead-2-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - top-down zombie shooter on a dark grey floor with white block walls, crates and barrels, small soldier sprites; functional, flat."
+        },
+        {
+          "path": "screenshots/blockhead-2-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/blockhead-2-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/blockhead-2-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/blockhead-2-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - top-down zombie shooter on a dark grey floor with white block walls, crates and barrels, small soldier sprites; functional, flat.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "tether",
@@ -6831,7 +7032,36 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "screenshots": [
+        {
+          "path": "screenshots/tether-1.jpg",
+          "source": "headless",
+          "score": 5,
+          "notes": "screenshots: rated from 4 screenshots - cave swinging game: tethered spark among glowing lantern garlands in a teal cavern, distance counter; atmospheric glow, minimal."
+        },
+        {
+          "path": "screenshots/tether-2.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/tether-3.jpg",
+          "source": "headless",
+          "score": 5
+        },
+        {
+          "path": "screenshots/tether-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "screenshot_path": "screenshots/tether-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - cave swinging game: tethered spark among glowing lantern garlands in a teal cavern, distance counter; atmospheric glow, minimal.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "deadblock-outbreak",
@@ -6879,7 +7109,36 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny"
+      "iframe_block_reason": "xfo-deny",
+      "screenshots": [
+        {
+          "path": "screenshots/patch-agentgames-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - snake-like puzzle on a dark grid: a growing neon-green path, side leaderboard and score; clean UI but very minimal visuals."
+        },
+        {
+          "path": "screenshots/patch-agentgames-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/patch-agentgames-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/patch-agentgames-4.jpg",
+          "source": "headless",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/patch-agentgames-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - snake-like puzzle on a dark grid: a growing neon-green path, side leaderboard and score; clean UI but very minimal visuals.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "veilfall",
@@ -7096,7 +7355,36 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
-      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/doom-ai-1.jpg",
+          "source": "reddit-post",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - itch screenshots of a fake-desktop management game: isometric pixel office, chat/email windows, robot mascot and event popups; busy UI, small art."
+        },
+        {
+          "path": "screenshots/doom-ai-2.jpg",
+          "source": "itch-page",
+          "score": 4
+        },
+        {
+          "path": "screenshots/doom-ai-3.jpg",
+          "source": "itch-page",
+          "score": 4
+        },
+        {
+          "path": "screenshots/doom-ai-4.jpg",
+          "source": "itch-page",
+          "score": 4
+        }
+      ],
+      "screenshot_path": "screenshots/doom-ai-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - itch screenshots of a fake-desktop management game: isometric pixel office, chat/email windows, robot mascot and event popups; busy UI, small art.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "mandris",
@@ -10026,16 +10314,40 @@
       "likes_source": "x",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
-      "screenshot_path": "screenshots/353-tweet-obby.jpg",
+      "screenshot_path": "screenshots/tweet-obby-1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/353-tweet-obby.jpg",
-          "score": 6,
-          "notes": "Bold TWEETOBBY lobby card with color swatches and server list over a blurred blocky obby course; clean, but the course is behind the menu."
+          "path": "screenshots/tweet-obby-1.jpg",
+          "source": "headless",
+          "score": 4,
+          "notes": "screenshots: rated from 5 screenshots - Roblox-style obby: blocky avatar on floating grey platforms with blue/yellow gates and green pads over clouds; clean but bare primitives."
+        },
+        {
+          "path": "screenshots/tweet-obby-2.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/tweet-obby-3.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/tweet-obby-4.jpg",
+          "source": "headless",
+          "score": 4
+        },
+        {
+          "path": "screenshots/tweet-obby-5.jpg",
+          "source": "headless",
+          "score": 4
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Bold TWEETOBBY lobby card with color swatches and server list over a blurred blocky obby course; clean, but the course is behind the menu."
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Roblox-style obby: blocky avatar on floating grey platforms with blue/yellow gates and green pads over clouds; clean but bare primitives.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "neon-snake-spawn",
@@ -10203,16 +10515,40 @@
       "likes_source": "x",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-08T02:30:00.000Z",
-      "screenshot_path": "screenshots/354-tweety-flap.jpg",
+      "screenshot_path": "screenshots/tweety-flap-1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/354-tweety-flap.jpg",
-          "score": 5,
-          "notes": "Classic Flappy Bird style sky and city backdrop behind a name/handle form and bird picker; familiar look, menu only."
+          "path": "screenshots/tweety-flap-1.jpg",
+          "source": "headless",
+          "score": 3,
+          "notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic."
+        },
+        {
+          "path": "screenshots/tweety-flap-2.jpg",
+          "source": "headless",
+          "score": 3
+        },
+        {
+          "path": "screenshots/tweety-flap-3.jpg",
+          "source": "headless",
+          "score": 3
+        },
+        {
+          "path": "screenshots/tweety-flap-4.jpg",
+          "source": "headless",
+          "score": 3
+        },
+        {
+          "path": "screenshots/tweety-flap-5.jpg",
+          "source": "headless",
+          "score": 3
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Classic Flappy Bird style sky and city backdrop behind a name/handle form and bird picker; familiar look, menu only."
+      "screenshot_score": 3,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "sky-reach",
@@ -11071,37 +11407,6 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Dark lantern-lit action scene from the update page; moody and clear."
-    },
-    {
-      "id": "halo-ce-universal",
-      "title": "Halo CE Universal (iOS browser)",
-      "description": "Halo CE decomp running as a web app on iPhone/iPad: 60fps, widescreen, online system link (fucktrevor).",
-      "play_url": "https://fucktrevor.github.io/halo-ce-universal/",
-      "source_url": "https://x.com/CustomRider05",
-      "found_via": "X bookmark Halo CE universal browser",
-      "found_via_network": "x",
-      "made_with": "uncertain",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "shooter",
-      "platforms": [
-        "mobile",
-        "desktop"
-      ],
-      "remote_likes": 2034,
-      "likes_source": "x",
-      "first_seen": "2026-10-09T03:00:00.000Z",
-      "last_seen": "2026-10-09T03:00:00.000Z",
-      "screenshot_path": "screenshots/384-halo-ce-universal.jpg",
-      "screenshots": [
-        {
-          "path": "screenshots/384-halo-ce-universal.jpg",
-          "score": 5,
-          "notes": "Browser Halo CE capture on mobile/desktop; recognisable, UI-heavy."
-        }
-      ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Browser Halo CE capture on mobile/desktop; recognisable, UI-heavy."
     },
     {
       "id": "ai-death-battle-2",
@@ -19356,13 +19661,32 @@
       "screenshots": [
         {
           "path": "screenshots/404-rps-roguelite.jpg",
-          "score": 5,
-          "notes": "Itch screenshots: title screen, a round vs 'Felix' with win odds per throw, and a 'Secondhand Store' of upgrade cards; clean, readable card UI."
+          "source": "existing",
+          "score": 4,
+          "notes": "screenshots: rated from 4 screenshots - itch shots of a rock-paper-scissors roguelite: green card-table UI with RPS hands, a secondhand shop of upgrades, saved/run-over screens; tidy but UI-only."
+        },
+        {
+          "path": "screenshots/rps-roguelite-1.jpg",
+          "source": "itch-page",
+          "score": 4
+        },
+        {
+          "path": "screenshots/rps-roguelite-2.jpg",
+          "source": "itch-page",
+          "score": 4
+        },
+        {
+          "path": "screenshots/rps-roguelite-3.jpg",
+          "source": "itch-page",
+          "score": 4
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Itch screenshots: title screen, a round vs 'Felix' with win odds per throw, and a 'Secondhand Store' of upgrade cards; clean, readable card UI.",
-      "comments": []
+      "screenshot_score": 4,
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - itch shots of a rock-paper-scissors roguelite: green card-table UI with RPS hands, a secondhand shop of upgrades, saved/run-over screens; tidy but UI-only.",
+      "comments": [],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "zugstrecke",
@@ -37736,12 +38060,12 @@
     }
   ],
   "totals": {
-    "games": 551,
+    "games": 550,
     "by_made_with": {
       "opus-5.5": 296,
       "astra": 67,
       "sonnet-5.5": 13,
-      "uncertain": 7,
+      "uncertain": 6,
       "unknown": 163,
       "gemini-4-argon": 5
     }
