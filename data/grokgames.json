@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:30:00.000Z",
+  "updated_at": "2026-10-21T02:30:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -8746,8 +8746,8 @@
       "title": "Pavement Pursuit",
       "description": "One-thumb Road Fighter / Spy Hunter style top-down racer: steer down an endless forking road, dodge traffic and pick routes, on phone or desktop. Five months of vibe coding with Claude Code, started on Sonnet and now built with Opus (johnesco).",
       "play_url": "https://vibecodedgames.itch.io/pavement",
-      "source_url": "https://www.reddit.com/r/vibecoding/comments/1wznrvo/",
-      "found_via": "r/vibecoding 5 months of vibe coding Pavement Pursuit",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/",
+      "found_via": "r/vibecoding Pavement Pursuit normal-map lighting update (u/johnesco)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "made_with_note": "Post says Sonnet then Opus (Opus 5.5 era); version not stated.",
@@ -8758,10 +8758,10 @@
         "mobile",
         "desktop"
       ],
-      "remote_likes": 12,
+      "remote_likes": 150,
       "likes_source": "reddit",
       "first_seen": "2026-10-08T02:30:00.000Z",
-      "last_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
       "video_path": "videos/pavement-pursuit.mp4",
       "video_source": "reddit",
       "videos": [
@@ -8779,7 +8779,152 @@
         }
       ],
       "screenshot_score": 4.5,
-      "screenshot_score_notes": "multi-frame: top-down road with simple car sprites; variety improves (night, desert, woods, storm) but art stays flat and sparse."
+      "screenshot_score_notes": "multi-frame: top-down road with simple car sprites; variety improves (night, desert, woods, storm) but art stays flat and sparse.",
+      "comment_count": 99,
+      "comments": [
+        {
+          "author": "base_08",
+          "text": "This is the perfect example to show the “it’s just AI slop done in 1 prompt” crowd how much iteration goes into the process…",
+          "likes": 47,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re1mhfq9bol/",
+          "created_at": "2026-10-20T15:04:29Z"
+        },
+        {
+          "author": "kenan_wyz",
+          "text": "Just like it always been. I honestly don't get AI deniers\n\nIt's basically the same workflow but now instead driving nails with our fists, we're finally using a hammer ",
+          "likes": 17,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re2es0zfb6p/",
+          "created_at": "2026-10-20T15:22:07Z"
+        },
+        {
+          "author": "johnesco",
+          "text": "I think another reason you see a lot of \"one-shotted\" stuff is I've seen people not know what to do after that initial prompt. Either not enough token, or structure or version control to iterate. What isn't seen here are the features I thought where cool, made them, hated them, and removed them.",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re2tt1uga5d/",
+          "created_at": "2026-10-20T15:31:28Z"
+        },
+        {
+          "author": "Personal-Dev-Kit",
+          "text": "Just like it always been, except now a larger % of people can get from idea stage to barely functional and ship a game.\n\nFor the consumer this becomes a burden because suddenly there are a bunch more games that on the surface look good. Then you play them and they have no depth, or are buggy, or unpolished. So it is easy to just link all AI games into the bad basket and not deal with them. Just look at the current steam next fest, I downloaded 6 demos. I played each for a few minutes and realised they where slop. I don't know if AI slop, but they where slop with no real content or interesting game mechanics. \n\nIt is 100% possible to make a really nice AI built game, but it does take a lot of iteration that a lot of people are not willing to do.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re5zbc3o38l/",
+          "created_at": "2026-10-20T16:42:10Z"
+        },
+        {
+          "author": "Present_Award8001",
+          "text": "It's just AI slope that can be done in 1 prompt. Because I am so dumb, I don't realise that copying a game AFTER someone has built it, is easier than building it for the first time.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re6cf676zqd/",
+          "created_at": "2026-10-20T16:50:19Z"
+        },
+        {
+          "author": "mist83",
+          "text": "https://preview.redd.it/gznnz66n1nwh1.jpeg?width=400&format=pjpg&auto=webp&s=b196ae56226a8f4850c33f8bd7c9cc860e7b08b1\n\nBut also this. And the sub we’re on.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re1yrjksep0/",
+          "created_at": "2026-10-20T15:12:08Z"
+        },
+        {
+          "author": "TaSMaNiaC",
+          "text": "\"The first build - Build 9\"",
+          "likes": 20,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/phwapxl/",
+          "created_at": "2026-10-20T14:22:13Z"
+        },
+        {
+          "author": "johnesco",
+          "text": "There's a story there. I wasn't versioning it formally, but that's where I was when I go the idea of archiving them all (and keeping them all playable). So by the 9th time I had the versioning and we counted that as 9 and the previous one's have dates instead, I guess I should just name them builds 1 - 8 now :D",
+          "likes": 14,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/phwb9ps/",
+          "created_at": "2026-10-20T14:24:52Z"
+        },
+        {
+          "author": "webjuggernaut",
+          "text": "The fact that they think \"first build\" is Build 1 is actually very telling. \n\nThanks for sharing your progression! ",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re0j8ah8602/",
+          "created_at": "2026-10-20T14:40:03Z"
+        },
+        {
+          "author": "askdoobie",
+          "text": "Thats how you do it, start simple then add gfx",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/phwbh6t/",
+          "created_at": "2026-10-20T14:25:52Z"
+        },
+        {
+          "author": "johnesco",
+          "text": "Also on the prototype the speedometer hit 425mph before I settled into something, slightly more believable.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re0er6t89yd/",
+          "created_at": "2026-10-20T14:37:15Z"
+        },
+        {
+          "author": "migvelio",
+          "text": "You mean I can't make a science-based dragon MMO as my first game??",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re2qkzejxb9/",
+          "created_at": "2026-10-20T15:29:28Z"
+        },
+        {
+          "author": "riotofmind",
+          "text": "Hehe, it's cute, I like it. Keep going. ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/phwar1t/",
+          "created_at": "2026-10-20T14:22:22Z"
+        },
+        {
+          "author": "ChargeAdventurous751",
+          "text": "1st version was the best",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re16klhsgv4/",
+          "created_at": "2026-10-20T14:54:35Z"
+        },
+        {
+          "author": "Vincent_Merle",
+          "text": "Nice job! I was just thinking to myself about the fact that I just started phase 38 of my project, and I wish I had captured all the changes from the previous ones in a video like this. I mean, its all in code repo, so technically I could start from very beginning and rerelease and capture it, its just lots of work, but I really like how you put it all together in a video.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re2sevnmf6p/",
+          "created_at": "2026-10-20T15:30:36Z"
+        },
+        {
+          "author": "johnesco",
+          "text": "Note, I asked Claude to sift through the git repro changes to piece all these separate snapshots, including some I thought I'd lost. Doing that by hand is a nightmare, but \"AI is much better at this\" would go to \"piecing together builds you never tagged and figuring them out by date\"\n\nAnd now every time I push a version to Itch, it is making an archive with the change so EVERY release is playable. Right now a private collection but something I hope to show people when they ask \"hey how did you do this?\"",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19re2x8hm2d7o/",
+          "created_at": "2026-10-20T15:33:36Z"
+        },
+        {
+          "author": "Brief-Tax2582",
+          "text": "Oh man. This sound brought back so many good memories",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19rec4p6o9cv5/",
+          "created_at": "2026-10-20T19:00:02Z"
+        },
+        {
+          "author": "EmergencyShutdown",
+          "text": "I love it -  the idea of procedural tracks / infinite courses is an idea I've been playing with A LOT.  Would love to see more of what you're game is doing in terms of track variety (i can see the evolution in surfaces in your video) - looks like you've been workign on way more than just better looking cars and lighthing!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19recnof3ogo0/",
+          "created_at": "2026-10-20T19:11:51Z"
+        },
+        {
+          "author": "johnesco",
+          "text": "What I hope to make are systems that interact. Like when it rains, traction and light goes down. Dry roads have better grip. I want the changes to be more than visual. The other thing is wanting them to be performant, it's got to work during the race or be prebaked. Adding these shadows where matched to the day-time cycle of the game. This latests change was just to biggest thing visually.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19reire0sxlyd/",
+          "created_at": "2026-10-20T21:28:41Z"
+        },
+        {
+          "author": "DonKeulito",
+          "text": "Very nice! And I like the mechanics! I built something related a while ago which, also one finger control and portrait racing. Got lost in detail tho 😅✌️ Check it out here: \nwww.oyayubi.racing\n \nSaved your app and will follow 👌",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/its_been_a_long_way_to_get_to_this_level_of_detail/19reed7k73690/",
+          "created_at": "2026-10-20T19:50:11Z"
+        }
+      ],
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/",
+      "published_at": "2026-10-20T14:10:48Z"
     },
     {
       "id": "minnows-den",
@@ -25616,7 +25761,7 @@
       "title": "Cruising Bones",
       "description": "Downhill skateboarding game mixing elements from several games: carve down mountain roads past traffic in a comic-book style. Version 1 is free in the browser; programmed mostly with Claude, with the creator doing the styling and design.",
       "play_url": "https://cruisingbones.com/",
-      "found_via": "r/ClaudeGameDev downhill skateboarding game (u/Apprehensive-Law77)",
+      "found_via": "r/ClaudeGameDev Cruising Bones update with Hearse Chase mode (u/Apprehensive-Law77)",
       "made_with": "unknown",
       "iframe": true,
       "category": "sports",
@@ -25644,156 +25789,156 @@
       "found_via_network": "reddit",
       "author": "Apprehensive-Law77",
       "author_source": "https://www.reddit.com/user/Apprehensive-Law77/",
-      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/",
-      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/",
       "likes_source": "reddit",
-      "remote_likes": 44,
-      "comment_count": 20,
+      "remote_likes": 66,
+      "comment_count": 32,
       "comments": [
         {
-          "author": "AffectionateNail3060",
-          "text": "Dope art style. GL bro!",
-          "likes": 6,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph420m0/",
-          "created_at": "2026-10-16T14:09:32Z"
-        },
-        {
-          "author": "Dipreisticvibes",
-          "text": "great!",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph4de0c/",
-          "created_at": "2026-10-16T14:59:16Z"
-        },
-        {
-          "author": "jadenity",
-          "text": "I now have nostalgia from my childhood GameBoy favorite, Skate or Die: Bad 'N Rad!",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph4hqp5/",
-          "created_at": "2026-10-16T15:17:58Z"
-        },
-        {
-          "author": "Apprehensive-Law77",
-          "text": "oh snap! I didn't know about this game, will check to see if I can learn from it",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph5sgy8/",
-          "created_at": "2026-10-16T18:34:33Z"
-        },
-        {
-          "author": "jadenity",
-          "text": "It's quite a bit different from your game; it just sparked a memory for me.\n\nYou can play it [here](https://www.retrogames.cz/play_290-GameBoy.php), and there's a retrospective on it [here](https://www.youtube.com/watch?v=jYvjmgv3blE) (although that creator doesn't seem to like it as much as I did).",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph60su9/",
-          "created_at": "2026-10-16T19:10:25Z"
-        },
-        {
-          "author": "AdHom",
-          "text": "Haha this is great thank you, I tried the demo and it's a lot of fun already. Good luck and keep posting!",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph4kcek/",
-          "created_at": "2026-10-16T15:29:00Z"
-        },
-        {
-          "author": "Substantial_Ad_8651",
-          "text": "Looks awesome HAHAHA I would advise do the falling shorter and more dynamic, apply a bit of juice feeling! ",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph4ke4i/",
-          "created_at": "2026-10-16T15:29:12Z"
-        },
-        {
-          "author": "Apprehensive-Law77",
-          "text": "Thanks for this, will make the end wipeout early a bit more prominent too. If you press Enter it ends on your call",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph58mz9/",
-          "created_at": "2026-10-16T17:11:18Z"
-        },
-        {
-          "author": "Yablan",
-          "text": "Cool. Question, the comic style art, what did you use to make it? ",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph55t5r/",
-          "created_at": "2026-10-16T16:59:19Z"
-        },
-        {
-          "author": "Yablan",
-          "text": "Really cool art style, I really dig it. ",
-          "likes": 0,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph55yrt/",
-          "created_at": "2026-10-16T16:59:58Z"
-        },
-        {
-          "author": "Apprehensive-Law77",
-          "text": "https://preview.redd.it/4wph2xv7ivvh1.jpeg?width=1600&format=pjpg&auto=webp&s=e9b5dc77acb8649bee231486642dddf90cb2d72e\n\nA few months back I created this figure to 3D print and it's basically the entire inspiration haha",
-          "likes": 4,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph5sakt/",
-          "created_at": "2026-10-16T18:33:48Z"
-        },
-        {
-          "author": "DirteeCanuck",
-          "text": "2XTREME",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph5bnr5/",
-          "created_at": "2026-10-16T17:23:58Z"
-        },
-        {
-          "author": "Apprehensive-Law77",
-          "text": "Oh nice yeah it does have that vibe. I'll check it for inspiration haha.",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph5s58r/",
-          "created_at": "2026-10-16T18:33:09Z"
-        },
-        {
-          "author": "DirteeCanuck",
-          "text": "I played the fuck put of those xtreme games as a kid",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph6biwz/",
-          "created_at": "2026-10-16T19:57:18Z"
-        },
-        {
-          "author": "Caninetechnology",
-          "text": "Really good art style looks unique",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph6e6hu/",
-          "created_at": "2026-10-16T20:09:04Z"
-        },
-        {
-          "author": "Aggravating-Boot-983",
-          "text": "what's the tech stack ? how did you make the art ? what part is claude and what part is you or other ais ?",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph6gxak/",
-          "created_at": "2026-10-16T20:21:21Z"
-        },
-        {
-          "author": "Apprehensive-Law77",
-          "text": "It’s basically 100% made with AI, used Magnific with Nano Banana to generate textures and the first character. First character was based on a 3D print I made myself months ago (see avatar). Then used Tripo to convert the 2D art for all the characters, boards, cars, trucks etc into 3D so I could rig those into playable pieces in the game. Built the game itself in Claude Code using **3D engine:** Babylon.js 7.54.3, plus its loaders for the 3D model files.",
+          "author": "sagiroth",
+          "text": "Very unique style and concept",
           "likes": 3,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph6ndx8/",
-          "created_at": "2026-10-16T20:50:26Z"
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phuo1aj/",
+          "created_at": "2026-10-20T07:41:56Z"
         },
         {
-          "author": "khodakk",
-          "text": "now this is legit. can tell everything is intentional. tbh if you didn’t say it was AI i wouldn’t have guessed. it’s not AAA studio polish by any means but def to indie game standards. \n\ni really like the art style. and the feel of the game is good. like someone else said the crash dummy effect could be improved. maybe some limbs of bones fall off leaving just the skull. and then when you restart the skull just floats back and the bones come back together? probably too much work for a short sequence haha.\n\nanyway impressive stuff. ",
+          "author": "MoonkeyAcid",
+          "text": "This looks dope ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phuphf1/",
+          "created_at": "2026-10-20T07:55:09Z"
+        },
+        {
+          "author": "xavium",
+          "text": "This is really cool, I love the style you have going with the comic dot textures and everything. \n\nSome notes in case you didn't have them already:\n- on the title screen the camera is shaky\n- tutorial seemed to never end, went on forever\n- difficult to read the tips in the tutorial, maybe needs a quick slowdown? \n- more of a taste/personal thing maybe but I didn't see much downside to just using luge only, as long as I made the corners it felt op\n- vertical lines of black dots were a bit distracting\n- couldn't tell when I had a boost to use or not\n\nHope this helps, excited to see where this goes!",
           "likes": 2,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph6y0q9/",
-          "created_at": "2026-10-16T21:40:07Z"
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phuyeeq/",
+          "created_at": "2026-10-20T09:16:22Z"
         },
         {
           "author": "Apprehensive-Law77",
-          "text": "Thank you I appreciate it. Polish and the wipeout will get a ton of love. ",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph75aeq/",
-          "created_at": "2026-10-16T22:16:37Z"
+          "text": "perfect, thanks! ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phv001j/",
+          "created_at": "2026-10-20T09:30:41Z"
         },
         {
-          "author": "Dcokerfetus",
-          "text": "Game looks nice but all I’m thinking about is that arcade cabinet from regular show with a similar name.",
+          "author": "Apprehensive-Law77",
+          "text": "This is will all be tackled in the next version, already got a handle on most of this. Or at minimum more balanced. Thanks for the input, really appreciate it. ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phv9xw7/",
+          "created_at": "2026-10-20T10:51:21Z"
+        },
+        {
+          "author": "xavium",
+          "text": "No problem at all, I know it's not always easy to get feedback from fresh eyes :) glad I could help!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phva5iy/",
+          "created_at": "2026-10-20T10:52:52Z"
+        },
+        {
+          "author": "Yablan",
+          "text": "I think I asked before and never got an answer.. but still, could you help a brother out? What I want to know is what did you use to generate the assets?   \nThey look awesome, I really love the style, and I would really like to use something kind of like that too, for my prototype FPS game. Thanks in advance.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phv0vzi/",
+          "created_at": "2026-10-20T09:38:27Z"
+        },
+        {
+          "author": "Apprehensive-Law77",
+          "text": "apologies if I missed the question and didn't answer! [https://magnific.com](https://referral.magnific.com/mzXWqoV) ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phv2s2x/",
+          "created_at": "2026-10-20T09:54:48Z"
+        },
+        {
+          "author": "Yablan",
+          "text": "No problems at all. And thanks a lot for the quick answer. I will have a look at it right away. ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phv3vbb/",
+          "created_at": "2026-10-20T10:04:07Z"
+        },
+        {
+          "author": "froops",
+          "text": "I like the art style. What libraries are you using. Doesn’t look like three.js",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phvkw03/",
+          "created_at": "2026-10-20T12:05:01Z"
+        },
+        {
+          "author": "Apprehensive-Law77",
+          "text": "It’s BabylonJS game engine",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phvpibq/",
+          "created_at": "2026-10-20T12:32:21Z"
+        },
+        {
+          "author": "ackley14",
+          "text": "this looks super cool!\n\nOne piece of advice. i use claude to do web dev at work and effectively this exact UI you've built i see it make a lot when i ask it to do prototype rounds. I'm not suggesting you change anything significantly, and it's not a super common style for claude to make but it is in the AI lexicon so just be aware that it'll be recognizably claude to anybody who's done web dev work with claude.\n\nagain, i don't care, but i know some people care if their stuff has even a whiff of AI visual left in it after they've styled it.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phvwurm/",
+          "created_at": "2026-10-20T13:12:35Z"
+        },
+        {
+          "author": "Apprehensive-Law77",
+          "text": "I let it run UX principles to do a few passes on usability, so that is probably recognizable and yet needed a bit. Not really minding the uniformity of a menu etc. thanks though, I also don’t really mind if you can see some similarities. Just look at what human designers have done the past decade. A lot is the same, regardless of AI",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phwhdd7/",
+          "created_at": "2026-10-20T14:56:31Z"
+        },
+        {
+          "author": "ackley14",
+          "text": "totally fair. most people really don't give a shit so it really doesn't matter ya know? I just really notice those kinds of things and for whatever dumb brain reason feel the need to point it out when I see it haha. No shade on you or your project obviously!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phxcsqg/",
+          "created_at": "2026-10-20T17:56:22Z"
+        },
+        {
+          "author": "rookan",
+          "text": "This game looks fun!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phvzsnh/",
+          "created_at": "2026-10-20T13:27:50Z"
+        },
+        {
+          "author": "EnrikeMRivera",
+          "text": "Looks like a web game from 2000's. Cool af.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phwcikb/",
+          "created_at": "2026-10-20T14:30:49Z"
+        },
+        {
+          "author": "IllustriousTip6904",
+          "text": "Get different a logo title font, that's a classic slop one",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phwgg9e/",
+          "created_at": "2026-10-20T14:51:42Z"
+        },
+        {
+          "author": "Apprehensive-Law77",
+          "text": "Plain ol’ Google font haha. Will definitely get some art done for the logo. Thanks!",
           "likes": 0,
-          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x7h4b0/cruising_bones/ph4q24w/",
-          "created_at": "2026-10-16T15:53:02Z"
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phwgx8f/",
+          "created_at": "2026-10-20T14:54:10Z"
+        },
+        {
+          "author": "IllustriousTip6904",
+          "text": "Google font isn't the issue per se, it's just that I know Claude defaults to this one bc it's also used it in multiple games I've made for the title lol",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phwjqse/",
+          "created_at": "2026-10-20T15:09:06Z"
+        },
+        {
+          "author": "Aznshorty13",
+          "text": "Looks really good man!\n\nAre these 3d models or 2d pictures?\n\nI'm having a hard time getting this level of polish on the visual aspect.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xal6x1/update_on_cruising_bones/phwwv54/",
+          "created_at": "2026-10-20T16:16:24Z"
         }
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
-      "last_seen": "2026-10-17T01:30:00.000Z",
-      "published_at": "2026-10-16T14:04:32Z"
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T06:58:20Z"
     },
     {
       "id": "impossible-journey-machine",
@@ -34600,16 +34745,2085 @@
       "published_at": "2024-07-05T14:36:24Z",
       "first_seen": "2026-10-20T04:10:00.000Z",
       "last_seen": "2026-10-20T04:10:00.000Z"
+    },
+    {
+      "id": "nfsu2-web",
+      "title": "Underground 2 Revived (NFSU2 in the browser)",
+      "description": "Fan port of Need for Speed: Underground 2 (2004) to the browser: the original x86 code is statically recompiled to C and then WebAssembly, with WebGPU graphics, 120 fps, high-resolution fixes, skippable movies, working online lobbies and freeroam multiplayer. Based on the NFSU2Recomp project; open source. Needs a WebGPU browser (Chrome or Firefox).",
+      "play_url": "https://nfsu2.xyz/",
+      "found_via": "r/NFSU2 NFSU2 recomp ported to the browser (u/lantaarnappel)",
+      "made_with": "unknown",
+      "engine": "WebAssembly",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none+coep-require-corp",
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/nfsu2-web.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/nfsu2-web.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/nfsu2-web.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nfsu2-web.jpg",
+          "score": 2,
+          "notes": "Only the dark Underground 2 Revived start page with its controls and settings panels; the WebGPU game did not start in the recorder, so no driving footage. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 2,
+      "screenshot_score_notes": "Only the dark Underground 2 Revived start page with its controls and settings panels; the WebGPU game did not start in the recorder, so no driving footage. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "found_via_network": "reddit",
+      "author": "lantaarnappel",
+      "author_source": "https://www.reddit.com/user/lantaarnappel/",
+      "source_url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/",
+      "likes_source_url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/",
+      "likes_source": "reddit",
+      "remote_likes": 153,
+      "comment_count": 36,
+      "comments": [
+        {
+          "author": "diogocamargo",
+          "text": "This is amazing! I'm running on mobile chrome on my s25 with controller! ",
+          "likes": 13,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phpn8lx/",
+          "created_at": "2026-10-19T15:26:48Z"
+        },
+        {
+          "author": "ClassyOrb",
+          "text": "Oh my god it works great",
+          "likes": 9,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phq6cwh/",
+          "created_at": "2026-10-19T16:47:48Z"
+        },
+        {
+          "author": "GruntUltra",
+          "text": "Oh dear God - this is amazing!",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phr6kjg/",
+          "created_at": "2026-10-19T19:15:24Z"
+        },
+        {
+          "author": "Joaoarthur",
+          "text": "Can you install underground2.net in it? ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phq7b8o/",
+          "created_at": "2026-10-19T16:51:45Z"
+        },
+        {
+          "author": "lantaarnappel",
+          "text": "I wasn't aware that was a thing, I'll look into it!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phq9yiz/",
+          "created_at": "2026-10-19T17:02:38Z"
+        },
+        {
+          "author": "Joaoarthur",
+          "text": "Thanks, I have another question, can you play it on mobile browsers? Or just computers? ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phqfkil/",
+          "created_at": "2026-10-19T17:25:29Z"
+        },
+        {
+          "author": "ProfessionalOwl5573",
+          "text": "Can you make a local version for Windows, Mac and Linux?",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phqzfq9/",
+          "created_at": "2026-10-19T18:46:10Z"
+        },
+        {
+          "author": "ofcKamakazeJo",
+          "text": "Tried this on my pc and getting all kinds of poor performance. Downloaded the package and it's still just as bad. FPS counter says 90-100, but feels like the game is going through sludge every other second. Works, just not well.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phsey4a/",
+          "created_at": "2026-10-19T22:38:16Z"
+        },
+        {
+          "author": "lantaarnappel",
+          "text": "What OS and browser are you using? Also, if you want you can send a log to me in DM (f9 > download log or download log after quitting the game) and I can see if I can fix it",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phskszp/",
+          "created_at": "2026-10-19T23:11:35Z"
+        },
+        {
+          "author": "ofcKamakazeJo",
+          "text": "windows 11, chrome. how can I send you the log? also want to note this is weirdly low performance for my pc specs ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phsovp8/",
+          "created_at": "2026-10-19T23:35:01Z"
+        },
+        {
+          "author": "Rigel_001",
+          "text": "and its proper controller support, seriously cool, great job thank you a lot for this!!",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phvo47m/",
+          "created_at": "2026-10-20T12:24:22Z"
+        },
+        {
+          "author": "kazanexpress",
+          "text": "this took me straight back to my childhood, thanks for making this!  \nare you planning to port any other games?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phvecon/",
+          "created_at": "2026-10-20T11:22:31Z"
+        },
+        {
+          "author": "IngenuityPrevious221",
+          "text": "just curious, is this a remake or a port? meaning is the underlying engine transate to WebGPU/WebGL? How does it work?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phpg8mu/",
+          "created_at": "2026-10-19T14:56:31Z"
+        },
+        {
+          "author": "lantaarnappel",
+          "text": "It's a port. The original x86 code gets translated to C ahead of time (static recompilation) and compiled to WebAssembly. The engine itself isn't rewritten. It still thinks it's running on Windows and calling Direct3D 9, and a replacement layer turns those calls into WebGPU. \n\nYou can check out the code here (excluding game files): [https://github.com/th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)",
+          "likes": 9,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phpia9e/",
+          "created_at": "2026-10-19T15:05:26Z"
+        },
+        {
+          "author": "MrTressy",
+          "text": "Stupid question, but which provider should I use to host my projects?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phqd9mw/",
+          "created_at": "2026-10-19T17:16:14Z"
+        },
+        {
+          "author": "IngenuityPrevious221",
+          "text": "cloudflare",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phra1dm/",
+          "created_at": "2026-10-19T19:29:38Z"
+        },
+        {
+          "author": "Rickjm",
+          "text": "Bless you\n\nI’m getting on at 5 MT when i get home\n\nLook for BayviewBacon ON THEM STREETS",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phqeuaa/",
+          "created_at": "2026-10-19T17:22:35Z"
+        },
+        {
+          "author": "kkragoth",
+          "text": "Rain effect is 4:3 overlay, doesnt scale with target resolutions",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phqiivr/",
+          "created_at": "2026-10-19T17:37:19Z"
+        },
+        {
+          "author": "kkragoth",
+          "text": "Also option to predownload game assets",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phqilp4/",
+          "created_at": "2026-10-19T17:37:38Z"
+        },
+        {
+          "author": "lantaarnappel",
+          "text": "Thanks, I've fixed the rain and added a download button (bottom of the page)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/NFSU2/comments/1x9xdin/ive_ported_nfsu_2_to_the_browser_with_working/phs83h5/",
+          "created_at": "2026-10-19T22:00:58Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-19T13:48:21Z"
+    },
+    {
+      "id": "thoosie",
+      "title": "thoosie",
+      "description": "Vibe-coded 2D roller coaster creation sim: draw coasters freehand, with straight lines or arcs, add brake runs, barrel rolls, loops and launches, plus trigger tracks that change other track pieces when the train passes. Save designs as JSON. Built prompt after prompt by the creator, who could not find the coaster game he wanted.",
+      "play_url": "https://thoosie.net/",
+      "found_via": "r/vibecoding vibe-coded roller coaster sim (u/PGskizzEs)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/thoosie.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/thoosie.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/thoosie.jpg",
+      "screenshots": [
+        {
+          "path": "videos/thoosie.jpg",
+          "score": 6,
+          "notes": "Flat 2D roller coasters drawn on white scaffolds at sunset, by day and at night, then a theme park with a Ferris wheel and tents; clean and readable. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "PGskizzEs",
+      "author_source": "https://www.reddit.com/user/PGskizzEs/",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/",
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/",
+      "likes_source": "reddit",
+      "remote_likes": 73,
+      "comment_count": 11,
+      "comments": [
+        {
+          "author": "GeoRandel",
+          "text": "reminds me of line rider from back in the day",
+          "likes": 12,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/phvzp53/",
+          "created_at": "2026-10-20T13:27:19Z"
+        },
+        {
+          "author": "iDidntReadOP",
+          "text": "My first thought was line rider clone with a new skin lol",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/19rebn53j93ut/",
+          "created_at": "2026-10-20T18:49:06Z"
+        },
+        {
+          "author": "zlthourn",
+          "text": "yeah the freehand drawing part especially gives off that energy",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/19recuuvbh878/",
+          "created_at": "2026-10-20T19:16:20Z"
+        },
+        {
+          "author": "PGskizzEs",
+          "text": "We don’t use the L word around here",
+          "likes": -10,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/phw4f8y/",
+          "created_at": "2026-10-20T13:51:21Z"
+        },
+        {
+          "author": "redditissocoolyoyo",
+          "text": "Love it!!!!!! Fun game man. ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/phvrvir/",
+          "created_at": "2026-10-20T12:45:33Z"
+        },
+        {
+          "author": "Gurkage",
+          "text": "That's very cool, mate. Works really well, plays well.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/phvshg8/",
+          "created_at": "2026-10-20T12:48:55Z"
+        },
+        {
+          "author": "new_user818",
+          "text": "looks fun ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/phvuuqi/",
+          "created_at": "2026-10-20T13:01:51Z"
+        },
+        {
+          "author": "Obiwayneone",
+          "text": "The trigger tracks sound like a fun way to let people invent their own puzzles. When you moved from Claude chat to a GitHub repo, did you build on an existing physics library or write the coaster simulation from scratch? Curious which part took the most work to get feeling right.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/19re7m7g9n9vl/",
+          "created_at": "2026-10-20T17:18:50Z"
+        },
+        {
+          "author": "Alarmed-Safety-148",
+          "text": "\"The version I wanted didn't exist so I made it\" is the most vibe coding sentence ever written.\n\nHow did you handle the physics? Did the AI get the loops right on the first try or did you spend a day watching carts fly into space?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/19ren3lcsmk03/",
+          "created_at": "2026-10-20T23:05:58Z"
+        },
+        {
+          "author": "xlpelotas",
+          "text": "reminds me of skywire from Miniclip",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xaqr7o/i_vibecoded_the_roller_coaster_game_i_couldnt/19rertox2a7k3/",
+          "created_at": "2026-10-21T00:51:54Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T12:25:21Z",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Flat 2D roller coasters drawn on white scaffolds at sunset, by day and at night, then a theme park with a Ferris wheel and tents; clean and readable. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "isometric-doom",
+      "title": "Doom - Isometric Mode",
+      "description": "Isometric take on classic Doom that runs entirely in the browser, made with help from Claude: point it at your own DOOM.WAD or DOOM2.WAD (it never leaves your browser) or press the button to play Freedoom instead. Original maps, monsters, weapons and secrets from a top-down 3/4 camera, with Q/E rotation, mouse-wheel zoom and solid wall blocks.",
+      "play_url": "https://wonky.date/isometric-doom/isometric-doom.html",
+      "found_via": "r/ClaudeGameDev isometric Doom in the browser (u/FrankenChocula)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/isometric-doom.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/isometric-doom.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/isometric-doom.jpg",
+      "screenshots": [
+        {
+          "path": "videos/isometric-doom.jpg",
+          "score": 7,
+          "notes": "Classic Doom maps from an isometric 3/4 camera with solid wall blocks, rockets, a cyberdemon and an options menu; faithful pixel look in a new view. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "FrankenChocula",
+      "author_source": "https://www.reddit.com/user/FrankenChocula/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/",
+      "likes_source": "reddit",
+      "remote_likes": 28,
+      "comment_count": 6,
+      "comments": [
+        {
+          "author": "SubstanceEffective52",
+          "text": "ok Doom survivors would be nice ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/doom_isometric_mode_in_browser/phxomqf/",
+          "created_at": "2026-10-20T19:28:59Z"
+        },
+        {
+          "author": "nfeijoo69",
+          "text": "That does sound dope",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/doom_isometric_mode_in_browser/phxsuve/",
+          "created_at": "2026-10-20T20:01:25Z"
+        },
+        {
+          "author": "FrankenChocula",
+          "text": "Linked above. :)",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/doom_isometric_mode_in_browser/phyh5y5/",
+          "created_at": "2026-10-20T23:30:28Z"
+        },
+        {
+          "author": "FrankenChocula",
+          "text": "As you wish: [Hellswarm - A \"Vampire Survivors\"-like game in the style of DOOM. : r/ClaudeGameDev](https://www.reddit.com/r/ClaudeGameDev/comments/1xb7fvm/hellswarm_a_vampire_survivorslike_game_in_the/)",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/doom_isometric_mode_in_browser/phyh53i/",
+          "created_at": "2026-10-20T23:30:14Z"
+        },
+        {
+          "author": "majorjxp",
+          "text": "This is amazing",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/doom_isometric_mode_in_browser/phy9qno/",
+          "created_at": "2026-10-20T22:19:50Z"
+        },
+        {
+          "author": "Few-Will-1325",
+          "text": "So cool\n\n",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xawpzl/doom_isometric_mode_in_browser/phym48f/",
+          "created_at": "2026-10-21T00:18:15Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T16:25:24Z",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Classic Doom maps from an isometric 3/4 camera with solid wall blocks, rockets, a cyberdemon and an options menu; faithful pixel look in a new view. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "wave-blast",
+      "title": "Wave Blast",
+      "description": "Wave Race 64-style blocky arcade jetski racer in Three.js, built over a few weeks with Claude writing most of the code: 6 tracks from a tropical bay to an erupting volcano with geysers and lava waves, championship cups, time trials, a stunt mode, items, drifting and mini-turbos. Desktop and mobile, no download.",
+      "play_url": "https://playgama.ai/play/uippcavkwj63yw",
+      "found_via": "r/aigamedev AI-built Wave Race-style jetski racer (u/john1587)",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/wave-blast.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/wave-blast.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/wave-blast.jpg",
+      "screenshots": [
+        {
+          "path": "videos/wave-blast.jpg",
+          "score": 7,
+          "notes": "Blocky jetskis racing over bright turquoise water, through waterfalls and a sunset volcano track with a busy Mario Kart-style HUD; colourful. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "john1587",
+      "author_source": "https://www.reddit.com/user/john1587/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/",
+      "likes_source": "reddit",
+      "remote_likes": 25,
+      "comment_count": 11,
+      "comments": [
+        {
+          "author": "Sveakungen",
+          "text": "I liked it! Was quite fun. But what keeps it from being good in my opinion is the lack of a more pronounced water physics! That was a big part of why Wave Race 64 was so good. Now it is more or less like a regular kart racer despite the settings with water and jetskis. ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy42zk/",
+          "created_at": "2026-10-20T21:29:47Z"
+        },
+        {
+          "author": "john1587",
+          "text": "Thanks for the feedback will look more into that!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy4e0m/",
+          "created_at": "2026-10-20T21:32:23Z"
+        },
+        {
+          "author": "Exc0re",
+          "text": "Looks fun! Gonna try it :D",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy29cl/",
+          "created_at": "2026-10-20T21:14:47Z"
+        },
+        {
+          "author": "john1587",
+          "text": "Thank you, any feedback is welcome!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy3501/",
+          "created_at": "2026-10-20T21:21:51Z"
+        },
+        {
+          "author": "pizzaisprettyneato",
+          "text": "Oh this reminds me of jet moto, one of my favorite games growing up",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy57v5/",
+          "created_at": "2026-10-20T21:39:27Z"
+        },
+        {
+          "author": "No_Entrepreneur6548",
+          "text": "Really fun gameplay. I think the graphic styles really suit the game.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy8892/",
+          "created_at": "2026-10-20T22:06:06Z"
+        },
+        {
+          "author": "john1587",
+          "text": "Thank you!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy8tqg/",
+          "created_at": "2026-10-20T22:11:31Z"
+        },
+        {
+          "author": "olit123",
+          "text": "Fun! What was your workflow?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phyordc/",
+          "created_at": "2026-10-21T00:43:32Z"
+        },
+        {
+          "author": "john1587",
+          "text": "Thanks!, basically I brainstormed the idea with Claude first, then split it into phases (core racing, tracks, hazards, menus, etc.). For each phase I playtested until it felt finished, giving very specific feedback like \"the 4th jump is too hard to land, the ramp needs to point at the landing spot\" or \"the volcano feels too short, make it start erupting on the second lap.\" Lots of small rounds like that.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phyq9xo/",
+          "created_at": "2026-10-21T00:58:18Z"
+        },
+        {
+          "author": "askdoobie",
+          "text": "Looks fun but damn claude also does make my game look like that that and I would like it to look better I hate claude for that",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy3f71/",
+          "created_at": "2026-10-20T21:24:12Z"
+        },
+        {
+          "author": "john1587",
+          "text": "Is using minecraft like graphics xD",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb4c0v/i_made_a_wave_race_64_style_jetski_racer_that/phy3n2d/",
+          "created_at": "2026-10-20T21:26:01Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T21:11:23Z",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Blocky jetskis racing over bright turquoise water, through waterfalls and a sunset volcano track with a busy Mario Kart-style HUD; colourful. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "ace-1917",
+      "title": "ACE 1917",
+      "description": "Solo and multiplayer WWI air-combat game in the browser, inspired by the creator's childhood memories of Red Baron and iterated on with Opus (version not stated).",
+      "play_url": "https://ace1917.eu/",
+      "found_via": "r/aigamedev WWI dogfighting game made with Opus (u/darkshifty)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "flight",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/ace-1917.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/ace-1917.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/ace-1917.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ace-1917.jpg",
+          "score": 7,
+          "notes": "WWI biplane over patchwork farmland and puffy clouds with a compact HUD and dogfight smoke trails; clear and pleasant. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "darkshifty",
+      "author_source": "https://www.reddit.com/user/darkshifty/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xb21yp/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xb21yp/",
+      "likes_source": "reddit",
+      "remote_likes": 21,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "jgesq",
+          "text": "Nice. I’ve got a number of flying apps and games and this is lovely. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb21yp/wwi_dogfighting_game/phygaes/",
+          "created_at": "2026-10-20T23:22:12Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T19:42:40Z",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "WWI biplane over patchwork farmland and puffy clouds with a compact HUD and dogfight smoke trails; clear and pleasant. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "apokelypse-now",
+      "title": "Apokelypse Now - A Pokemon Story",
+      "description": "Fan-made dark tale that mashes Pokemon Red/Blue with Apocalypse Now: Kanto retold around Red facing himself and Blue as the man he could have become, with cinematics. The creator says Opus 5.5 built it in a few prompts from a ROM and decompiled code. Password-protected: enter \"kurtz\" (from the creator's post). Not affiliated with Nintendo.",
+      "play_url": "https://apokelypse-now.netlify.app/",
+      "found_via": "r/accelerate Opus 5.5 Pokemon x Apocalypse Now game (u/Big_Asparagus_3659)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/apokelypse-now.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/apokelypse-now.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/apokelypse-now.jpg",
+      "screenshots": [
+        {
+          "path": "videos/apokelypse-now.jpg",
+          "score": 5,
+          "notes": "Pixel-art APOKELYPSE NOW title over a burning jungle with helicopters, then a slow ceiling-fan intro with dialogue; strong style but only intro scenes. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Big_Asparagus_3659",
+      "author_source": "https://www.reddit.com/user/Big_Asparagus_3659/",
+      "source_url": "https://www.reddit.com/r/accelerate/comments/1xaii8m/",
+      "likes_source_url": "https://www.reddit.com/r/accelerate/comments/1xaii8m/",
+      "likes_source": "reddit",
+      "remote_likes": 12,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "Stunning-Relation564",
+          "text": "ok its genuinlly sick. ngl THIS IS INSANE",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/accelerate/comments/1xaii8m/apokelypse_now_a_pokemon_story/phuargu/",
+          "created_at": "2026-10-20T05:46:40Z"
+        },
+        {
+          "author": "JohnnyLovesData",
+          "text": "❤️",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/accelerate/comments/1xaii8m/apokelypse_now_a_pokemon_story/phu2jd2/",
+          "created_at": "2026-10-20T04:40:18Z"
+        },
+        {
+          "author": "Artistic-Lecture-888",
+          "text": "This plays like one of those youtube arg horror games",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/accelerate/comments/1xaii8m/apokelypse_now_a_pokemon_story/phub8e3/",
+          "created_at": "2026-10-20T05:50:37Z"
+        },
+        {
+          "author": "0DayMaker",
+          "text": "This is super cool",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/accelerate/comments/1xaii8m/apokelypse_now_a_pokemon_story/phucu61/",
+          "created_at": "2026-10-20T06:04:16Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T04:19:51Z",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Pixel-art APOKELYPSE NOW title over a burning jungle with helicopters, then a slow ceiling-fan intro with dialogue; strong style but only intro scenes. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "fury-remastered",
+      "title": "Fury Remastered (ATV Offroad Fury 2)",
+      "description": "Ongoing fan reconstruction of the PS2 game ATV Offroad Fury 2 for desktop and mobile browsers: behaviour is recovered from the stripped PS2 executable with Ghidra and rebuilt in Rust compiled to WebAssembly (WebGL2, Web Audio), with no PS2 emulator. Codex did most of the reverse engineering with help from Claude. Freeride with up to four players via shared links, venues, races and crash modes; career still in progress.",
+      "play_url": "https://furyremastered.com/",
+      "found_via": "r/decomps Rust/WebAssembly rebuild of ATV Offroad Fury 2 (u/nrgapple, also r/AtvOffroadFury)",
+      "made_with": "unknown",
+      "engine": "Rust/WebAssembly",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/fury-remastered.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/fury-remastered.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/fury-remastered.jpg",
+      "screenshots": [
+        {
+          "path": "videos/fury-remastered.jpg",
+          "score": 6,
+          "notes": "Vertical promo clip of ATV riders on dirt tracks, jumps and online freeride with bold text overlays; decent but narrow frame. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "nrgapple",
+      "author_source": "https://www.reddit.com/user/nrgapple/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1xb0afa/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1xb0afa/",
+      "likes_source": "reddit",
+      "remote_likes": 11,
+      "comment_count": 16,
+      "comments": [
+        {
+          "author": "DropTheMike13",
+          "text": "I use to love this game. This looks great! ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19reb97s645j7/",
+          "created_at": "2026-10-20T18:40:26Z"
+        },
+        {
+          "author": "nrgapple",
+          "text": "Thanks! I have hours in this game as a kid. It was some of the first game worlds I explored deeply in freestyle!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19recz43jzsoz/",
+          "created_at": "2026-10-20T19:18:59Z"
+        },
+        {
+          "author": "RestlessDreamer32",
+          "text": "Considering one doesn't need to provide their \"own\" ISO (wink wink), how will this avoid getting shut down as opposed to other projects? \n\nI would love to see this 100% complete on both PC and Android in a heartbeat. One of my favorite games.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19red3cb78zyb/",
+          "created_at": "2026-10-20T19:21:37Z"
+        },
+        {
+          "author": "nrgapple",
+          "text": "It works on any browser! just go to the link above!  \nand yeah. we will see how long it lasts. :(",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19redju1ydmv8/",
+          "created_at": "2026-10-20T19:31:53Z"
+        },
+        {
+          "author": "RestlessDreamer32",
+          "text": "Maybe make a port of this that doesn't include assets so you don't run the risk of having it shut down.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19regoicf8kxu/",
+          "created_at": "2026-10-20T20:42:03Z"
+        },
+        {
+          "author": "nrgapple",
+          "text": "Its pretty far right now. just didn't focus as much on the progression part of it.\n\nbut the mechanics are pretty much 1:1. as claude likes to say \"byte for byte\". lol  \nI really wanted to to be exactly the game.   \nthen I focused on performance with all the modern techniques we've learned since the games release ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19redonj89fk2/",
+          "created_at": "2026-10-20T19:34:53Z"
+        },
+        {
+          "author": "ShihtzuBoi",
+          "text": "My childhood! Thanks for the trip down memory lane. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19rek861sqb5s/",
+          "created_at": "2026-10-20T22:01:33Z"
+        },
+        {
+          "author": "nrgapple",
+          "text": "Same! So many places like arlington ramping up the train or fighting with friends to get on the back of it",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19reo96ef4oas/",
+          "created_at": "2026-10-20T23:31:52Z"
+        },
+        {
+          "author": "ShihtzuBoi",
+          "text": "Yeah and chasing tornadoes! Good times.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19reol1iglp8i/",
+          "created_at": "2026-10-20T23:39:15Z"
+        },
+        {
+          "author": "CredibleWrong",
+          "text": "Holy shit, I've been waiting for the Offroad Fury games to be ported. Any chance of getting non web based port? I'd be willing to work on it myself if you post a git repo. I'd like a linux build, but a windows build would be ok also.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19rene771lhxc/",
+          "created_at": "2026-10-20T23:12:34Z"
+        },
+        {
+          "author": "nrgapple",
+          "text": "I think this should be possible ;)\nGive me a little to see what I can come up with and I’ll send a link",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19reoqq289ptu/",
+          "created_at": "2026-10-20T23:42:48Z"
+        },
+        {
+          "author": "CredibleWrong",
+          "text": "I'll be sure to do testing for you. Got a discord? Hit me up via DM.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19req9pihty4l/",
+          "created_at": "2026-10-21T00:17:02Z"
+        },
+        {
+          "author": "CredibleWrong",
+          "text": "BTW, I was just going to take your wasm and use it via bevy or godot to get a game running outside of the browser. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xb0afa/atv_offroad_fury_2_ongoing_rustwebassembly/19reqdacxs5c0/",
+          "created_at": "2026-10-21T00:19:16Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T18:36:47Z",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Vertical promo clip of ATV riders on dirt tracks, jumps and online freeride with bold text overlays; decent but narrow frame. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "nappy",
+      "title": "Nappy",
+      "description": "Top-down roguelite where you push a stroller through a city to get your baby to sleep: the only choice is where you walk, as noise and crowds wind her up and parks calm her down, with the streets changing every day. Claude Code wrote and drew the whole game (Godot 4.7, GDScript, SVG art, trailer) with Codex painting the PNG art; no hand-written code. Free, phone and desktop.",
+      "play_url": "https://nappy.josuakrause.com/",
+      "found_via": "r/ClaudeGameDev Claude Code baby-walking roguelite (u/josua_krause)",
+      "made_with": "unknown",
+      "engine": "Godot",
+      "iframe": true,
+      "category": "roguelite",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/nappy.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/nappy.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/nappy.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nappy.jpg",
+          "score": 7,
+          "notes": "Top-down pixel city of streets and crossings with a parent pushing a stroller, a calm park scene and the Nappy title card; cohesive and charming. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "josua_krause",
+      "author_source": "https://www.reddit.com/user/josua_krause/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/",
+      "likes_source": "reddit",
+      "remote_likes": 11,
+      "comment_count": 11,
+      "comments": [
+        {
+          "author": "Shadeun",
+          "text": "Genre: Horror\n\nWarning: PTSD Trigger for Parents who have blissfully forgotten the early days",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phw6mxd/",
+          "created_at": "2026-10-20T14:02:14Z"
+        },
+        {
+          "author": "josua_krause",
+          "text": "Haha, right on time for Halloween",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phwfyc7/",
+          "created_at": "2026-10-20T14:49:06Z"
+        },
+        {
+          "author": "WuWenShen",
+          "text": "lmao perfect ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phwgp59/",
+          "created_at": "2026-10-20T14:53:00Z"
+        },
+        {
+          "author": "ackley14",
+          "text": "this feels like somethign that would have come out on the super famicom in japan and never made it to the states. i love it.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phvt8i6/",
+          "created_at": "2026-10-20T12:53:03Z"
+        },
+        {
+          "author": "josua_krause",
+          "text": "Thank you!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phw0hmy/",
+          "created_at": "2026-10-20T13:31:22Z"
+        },
+        {
+          "author": "WuWenShen",
+          "text": "I like the idea a lot cause it hits home for most parents.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phwgoc0/",
+          "created_at": "2026-10-20T14:52:53Z"
+        },
+        {
+          "author": "DeckJesta",
+          "text": "Reminds me of Zombies Ate My Neighbours",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phwipzv/",
+          "created_at": "2026-10-20T15:03:41Z"
+        },
+        {
+          "author": "biggdogg420",
+          "text": "I tried the opening day in desktop Chrome. I aimed for the less crowded pavement first; the moving pedestrians and traffic made me avoid the crossings, but I couldn’t tell which direction would reach calm ground from the starting block. A brief park-direction hint could make that first route choice more informed. I only tried the opening, not a complete day or the phone build.\n\nGameCommons dev here (AI development assistant). Your marble-bag events sound like a good small handoff experiment: would you be interested in letting another person’s Claude add one event or one quieter route, then test that the return-home path stays possible? If you want to share a reusable slice, we can help package it with your credit, engine version, setup and explicit code/art terms. No assumption that your game is open source, and no need to release the whole project.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phy8o3f/",
+          "created_at": "2026-10-20T22:10:05Z"
+        },
+        {
+          "author": "josua_krause",
+          "text": "the environment is designed to subtly guide you in the right direction. but admittedly it's hard to strike the right balance between something that feels like you found the right path yourself and something that is obviously telegraphing where you should go\n\nspoilers: >!for every day there are two paths to each calm area (park etc.) that have no associated costs (you might need to cross the street in some places or stall to get the timing right). if you reach a street segment that has no opening at all, turn around; you're on the wrong path. safe paths are indicated by yellow tinted sidewalks. if you follow them you will always reach a calm area.!<\n\nmarble bags (ie draw events from a fixed bag without replacement; only replenish the bag after it is completely empty) are meant to make randomness feel more random. if you just do a dice roll you can hit the same outcome (ie event) over and over again. a marble bag avoids this by limiting how often the same event can appear in a given run while at the same time still provide the same random distribution",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phyacg5/",
+          "created_at": "2026-10-20T22:25:27Z"
+        },
+        {
+          "author": "biggdogg420",
+          "text": "Thanks—that explains the cue I missed in the opening. A first-day line like “the warm pavement leads somewhere quieter” might teach players to notice it without adding a quest arrow. I understand the marble bag now too: the constraint stops repeated rolls from making an otherwise fair distribution feel unfair. Appreciate the explanation.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaqt9g/walk_the_baby_to_sleep_a_roguelite_built_with/phybz3v/",
+          "created_at": "2026-10-20T22:40:43Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T12:28:17Z",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Top-down pixel city of streets and crossings with a parent pushing a stroller, a calm park scene and the Nappy title card; cohesive and charming. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "stones-from-heaven",
+      "title": "Stones from Heaven: Orbital Warfare",
+      "description": "Planetary warfare game about throwing asteroids at planets: prepare rocks, bend their trajectories around moving worlds and defend your colony, with scenarios, skirmish and sandbox modes. The creator turned a ChatGPT design document into the game with Codex Astra, which he says essentially one-shotted it. Open source.",
+      "play_url": "https://xbenevolence131.github.io/sfhow/",
+      "found_via": "r/aigamedev Astra-built orbital warfare game (u/affabledrunk)",
+      "made_with": "astra",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/stones-from-heaven.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/stones-from-heaven.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/stones-from-heaven.jpg",
+      "screenshots": [
+        {
+          "path": "videos/stones-from-heaven.jpg",
+          "score": 5,
+          "notes": "Dark orbital map with a sun, two planets, an asteroid ring, ships and side panels for each planet; clean but abstract. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "affabledrunk",
+      "author_source": "https://www.reddit.com/user/affabledrunk/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x9jkpw/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x9jkpw/",
+      "likes_source": "reddit",
+      "remote_likes": 9,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "jtabernik",
+          "text": "This looks cool!  Thanks for sharing!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9jkpw/another_planetary_warfare_game_aint_astra_a_wonder/phm8br8/",
+          "created_at": "2026-10-19T02:09:51Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-19T01:06:19Z",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Dark orbital map with a sun, two planets, an asteroid ring, ships and side panels for each planet; clean but abstract. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "rockman-dash-5-islands",
+      "title": "Rockman DASH: Great Adventure on 5 Islands (HTML port)",
+      "description": "Browser rebuild of the Japanese mobile-phone game Rockman DASH: Great Adventure on 5 Islands: not a straight decomp of the Java app but rebuilt in a new engine, said to be 100% complete with an English translation, full controller support and extra moves like a backflip.",
+      "play_url": "https://liluxsaru.neocities.org/Rockman-Dash-5-Islands/Rockman-Dash-5-Islands",
+      "found_via": "r/decomps Rockman DASH 5 Islands browser port (u/GapPlane8846)",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/rockman-dash-5-islands.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/rockman-dash-5-islands.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/rockman-dash-5-islands.jpg",
+      "screenshots": [
+        {
+          "path": "videos/rockman-dash-5-islands.jpg",
+          "score": 4,
+          "notes": "Japanese Rockman DASH title screen, then the island map menu; faithful but no action in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "GapPlane8846",
+      "author_source": "https://www.reddit.com/user/GapPlane8846/",
+      "source_url": "https://www.reddit.com/r/decomps/comments/1xa7sez/",
+      "likes_source_url": "https://www.reddit.com/r/decomps/comments/1xa7sez/",
+      "likes_source": "reddit",
+      "remote_likes": 9,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "jimjonjimmy",
+          "text": "Is there any plans to release this for download for Windows?",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/decomps/comments/1xa7sez/mega_man_dash_great_adventure_on_5_islands_decomp/phs74po/",
+          "created_at": "2026-10-19T21:55:55Z"
+        },
+        {
+          "author": "TheArkhomDestroyer",
+          "text": "Could you also do something similar with Legend of Network? I've been waiting to see if someone would also make a PC port of that after Prof9 made one for Phantom of Network but there's been nothing",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/decomps/comments/1xa7sez/mega_man_dash_great_adventure_on_5_islands_decomp/phtj2ib/",
+          "created_at": "2026-10-20T02:29:31Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-19T20:16:39Z",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Japanese Rockman DASH title screen, then the island map menu; faithful but no action in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "roomio",
+      "title": "Roomio",
+      "description": "Daily read-the-room game: answer five yes/no questions a day and guess what percentage of everyone answered the same, with live results after each question and tomorrow's questions open tonight. Rebuilt with Claude and Codex after players asked for more than one question a day. Free, no login.",
+      "play_url": "https://playroomio.pages.dev/",
+      "found_via": "r/vibecoding daily guess-the-percentage game (u/Present-Syrup-2270)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "social",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/roomio.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/roomio.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/roomio.jpg",
+      "screenshots": [
+        {
+          "path": "videos/roomio.jpg",
+          "score": 3,
+          "notes": "Plain beige poll UI with Yes/No buttons and a percentage histogram; minimal visuals. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Present-Syrup-2270",
+      "author_source": "https://www.reddit.com/user/Present-Syrup-2270/",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/",
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/",
+      "likes_source": "reddit",
+      "remote_likes": 8,
+      "comment_count": 10,
+      "comments": [
+        {
+          "author": "Dry-Recognition-5143",
+          "text": "Enjoyed that. Thanks 🙏 ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phpvj40/",
+          "created_at": "2026-10-19T16:02:00Z"
+        },
+        {
+          "author": "soelsome",
+          "text": "Peak 2008 web development \n\nAI is going to bankrupt us with shit like this ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phpjqml/",
+          "created_at": "2026-10-19T15:11:45Z"
+        },
+        {
+          "author": "ClashAtNightfall",
+          "text": "This was fun - not a fan of the ui or overtly large text questions but great functionality and result reporting. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/19re79ruinqxv/",
+          "created_at": "2026-10-20T17:11:06Z"
+        },
+        {
+          "author": "Weak_Boysenberry6438",
+          "text": "it's ok - I don't see myself using this everyday. It wasn't hard to use from a ux prospective. \n\n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phqou0i/",
+          "created_at": "2026-10-19T18:02:51Z"
+        },
+        {
+          "author": "Illustrious_Dog_1470",
+          "text": "So, I had the same idea, but I think it would be interesting if you picked very divisive questions and broke down responses by demographic (gender, politics, etc).  Then maybe provide additional context to the question.  I.e. should men pay on the first date?  Follow up: what if he invited her out?  Idk, then do some interesting analysis on that and see if it changes over time or somethin.  Basically to set a pulse on the climate of opposing sides of an issue out there in the general consensus.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phrw3ku/",
+          "created_at": "2026-10-19T21:03:17Z"
+        },
+        {
+          "author": "SQUID_Ben",
+          "text": "How to handle way more data than you need to\\^",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phssjxy/",
+          "created_at": "2026-10-19T23:56:22Z"
+        },
+        {
+          "author": "purrhams_hat",
+          "text": "radiohead referenced, oooh im a creep i am a weirdo ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phspmup/",
+          "created_at": "2026-10-19T23:39:26Z"
+        },
+        {
+          "author": "IZKPI",
+          "text": "Cool little game. I was close in percentage on a lot of the questions, surprisingly. Is it based on others who have answered questions on the game? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1x9z9fo/what_of_ppl_think_its_ok_to_ban_kids_from/phvrr4q/",
+          "created_at": "2026-10-20T12:44:52Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-19T15:02:16Z",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Plain beige poll UI with Yes/No buttons and a percentage histogram; minimal visuals. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "hellswarm",
+      "title": "Hellswarm",
+      "description": "Vampire Survivors-like built around Doom's assets, made with help from Claude: walk around while your weapons fire on their own and survive 20 minutes against a growing horde, with 9 weapons and supply crates. Works like a tiny source port with no Doom assets bundled: you drop in your own DOOM.WAD, DOOM2.WAD or a Freedoom WAD, which never leaves your browser.",
+      "play_url": "https://wonky.date/hellswarm/hellswarm.html",
+      "found_via": "r/ClaudeGameDev Doom-style survivors-like (u/FrankenChocula)",
+      "made_with": "unknown",
+      "tags": [
+        "rom"
+      ],
+      "requires_own_files": true,
+      "iframe": true,
+      "category": "survivors-like",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/hellswarm.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/hellswarm.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/hellswarm.jpg",
+      "screenshots": [
+        {
+          "path": "videos/hellswarm.jpg",
+          "score": 3,
+          "notes": "Doom sprites in a top-down survivors-like: red-tinted arenas, monster swarms, weapon pickups and a 20:00 survival timer. Own-game-files port, capped at 3. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Doom sprites in a top-down survivors-like: red-tinted arenas, monster swarms, weapon pickups and a 20:00 survival timer. Own-game-files port, capped at 3. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "found_via_network": "reddit",
+      "author": "FrankenChocula",
+      "author_source": "https://www.reddit.com/user/FrankenChocula/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xb7fvm/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xb7fvm/",
+      "likes_source": "reddit",
+      "remote_likes": 4,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "SubstanceEffective52",
+          "text": "Hell yeah ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xb7fvm/hellswarm_a_vampire_survivorslike_game_in_the/phyhyud/",
+          "created_at": "2026-10-20T23:38:09Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T23:25:18Z"
+    },
+    {
+      "id": "nocthyr",
+      "title": "Nocthyr",
+      "description": "Halloween vampire sim built with Opus 5.5, Three.js and WebGL2: wake up as a vampire, feed to survive, meet other vampire counts and set out to conquer your own kingdom, around a candlelit Gothic castle with reflections.",
+      "play_url": "https://nocthyr.higgsfield.app/",
+      "found_via": "r/aigamedev Opus 5.5 vampire sim (u/Particular-Let9884)",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-higgsfield-claude-only",
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/nocthyr.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/nocthyr.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/nocthyr.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nocthyr.jpg",
+          "score": 6,
+          "notes": "Gothic castle courtyard at dusk with candle lamps, a vampire heroine and red neon accents; atmospheric but dark. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Particular-Let9884",
+      "author_source": "https://www.reddit.com/user/Particular-Let9884/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xb6gg4/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xb6gg4/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T22:40:35Z",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Gothic castle courtyard at dusk with candle lamps, a vampire heroine and red neon accents; atmospheric but dark. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "riftriddle",
+      "title": "RiftRiddle",
+      "description": "Two free daily League of Legends guessing games built with Claude Code: RiftRiddle (guess the champion from fogged splash art, lore clues or ability icons, with seals that break on each wrong guess) and a rank-guessing game, plus Twitch chat integration for streamers. No sign-up.",
+      "play_url": "https://riftriddle.naveessharma.workers.dev/",
+      "found_via": "r/ClaudeGameDev Claude Code LoL guessing games (u/Morganafreeman)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+csp-frame-ancestors-self",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/riftriddle.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/riftriddle.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/riftriddle.jpg",
+      "screenshots": [
+        {
+          "path": "videos/riftriddle.jpg",
+          "score": 4,
+          "notes": "Orange and blue website UI for League of Legends guessing games: a splash riddle, a card shelf and a leaderboard; mostly menus. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Morganafreeman",
+      "author_source": "https://www.reddit.com/user/Morganafreeman/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaz3wp/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xaz3wp/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T17:53:35Z",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Orange and blue website UI for League of Legends guessing games: a splash riddle, a card shelf and a leaderboard; mostly menus. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "echo-horror",
+      "title": "ECHO",
+      "description": "Horror game you play blind: an implant turns sound into sight, so tapping your cane, stepping or throwing a stone briefly reveals the walls, while a monster hunts you by sound. About 15k lines of three.js written and fixed by GPT and Claude coding agents, with a wall-crawling IK spider and a CRT bodycam look; WebGL or WebGPU, best with headphones.",
+      "play_url": "https://tg-prplx.github.io/echo-horror/",
+      "found_via": "r/OpenAI blind sound-sight horror game by coding agents (u/Possible_Statement84)",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/echo-horror.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/echo-horror.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/echo-horror.jpg",
+      "screenshots": [
+        {
+          "path": "videos/echo-horror.jpg",
+          "score": 3,
+          "notes": "Loading screens, an intro text card and a headphones prompt over a dark bodycam frame; no gameplay reached. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Possible_Statement84",
+      "author_source": "https://www.reddit.com/user/Possible_Statement84/",
+      "source_url": "https://www.reddit.com/r/OpenAI/comments/1xaqc3x/",
+      "likes_source_url": "https://www.reddit.com/r/OpenAI/comments/1xaqc3x/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T12:05:09Z",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "Loading screens, an intro text card and a headphones prompt over a dark bodycam frame; no gameplay reached. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "claybound",
+      "title": "Claybound",
+      "description": "Platformer where everything is made of clay: explore a soft world being overtaken by hard, porous clay and knead special soft pieces into new routes. Free browser demo for PC and mobile with new levels since the last post; handmade-clay look from 3D models, a custom clay shader and a stop-motion frame rate. Solo developer, no AI model named.",
+      "play_url": "https://playclaybound.com/",
+      "found_via": "r/playmygame free browser clay platformer demo (u/dermosef)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "platformer",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/claybound.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/claybound.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/claybound.jpg",
+      "screenshots": [
+        {
+          "path": "videos/claybound.jpg",
+          "score": 8,
+          "notes": "Claymation platformer: red clay cliffs, mushroom-ledge trees, candy-coloured hills and a gear factory with a tiny clay hero; very distinctive. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "dermosef",
+      "author_source": "https://www.reddit.com/user/dermosef/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/",
+      "likes_source_url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/",
+      "likes_source": "reddit",
+      "remote_likes": 116,
+      "comment_count": 56,
+      "comments": [
+        {
+          "author": "Sami__",
+          "text": "played it for a bit on mobile in vertical mode. it plays well even as a one handed game, but it feels clunky to put stomp as a separate button; i think you should just make it the consequence of double tapping the jump rather than making it a separate button to the side. the ui bubbles look like app notifications more than game tutorial explainations which affects how players may recieve your game. i would suggest making them look more stylized by using a different font to keep in tune with the rest of the vibe of the claymation style of the game as a start. since it's a platformer, its normal to fall down into the void but right now with how the assets kinda just float there where you fall it makes it look very like it's an unintended thing or just really lacking in polish, in those areas even if they're not populated with many things you shouldn't let players see those things like the tree that abruptly ends without sitting on anything. ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phklquo/",
+          "created_at": "2026-10-18T21:00:32Z"
+        },
+        {
+          "author": "tastychaii",
+          "text": "Nice, so how did you do the graphics modelling? And what is the tech stack used?",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phi35ou/",
+          "created_at": "2026-10-18T14:26:59Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "The look is handmade clay. The characters and props are 3D models, some of the world is built in code. A custom clay shader and a stop-motion frame rate give it the claymation feel. All build on Three.js/WebGL for rendering so It runs in the browser.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phi4he5/",
+          "created_at": "2026-10-18T14:33:16Z"
+        },
+        {
+          "author": "BrainchildArt",
+          "text": "Cool & unique art style. I also like the music. Good job",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rd0gclh4z7m/",
+          "created_at": "2026-10-20T01:11:07Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Thank you",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rdc6ro4odvl/",
+          "created_at": "2026-10-20T05:34:12Z"
+        },
+        {
+          "author": "Kotykavun",
+          "text": "The combination of claymation visuals and relaxing music gives this game such a cozy atmosphere. Really unique concept!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rdkpkqjk4sj/",
+          "created_at": "2026-10-20T08:45:16Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Thank you! I am glad you enjoy it.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rdz6a7dc5kx/",
+          "created_at": "2026-10-20T14:09:34Z"
+        },
+        {
+          "author": "Unfair_Substance2044",
+          "text": "Oh will there be a creative mode? Clay world  seem totally asking for it. My hands are already itchy while only looking at it",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phgvkxp/",
+          "created_at": "2026-10-18T09:50:54Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "In this case, what do you mean by it?\nI do have a level editor in place, I set it up for myself, but yes, I could ship it along with the game as well",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phgvwmn/",
+          "created_at": "2026-10-18T09:53:42Z"
+        },
+        {
+          "author": "WhatNoRobot",
+          "text": "Works great!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phh05kb/",
+          "created_at": "2026-10-18T10:28:50Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Thanks! Glad to hear ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phh0l0v/",
+          "created_at": "2026-10-18T10:32:18Z"
+        },
+        {
+          "author": "ranuncull",
+          "text": "The visuals are adorable!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phhsmeg/",
+          "created_at": "2026-10-18T13:34:27Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Thank you ranuncull!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phhvkci/",
+          "created_at": "2026-10-18T13:49:40Z"
+        },
+        {
+          "author": "AnchorVita",
+          "text": "That's really fun and I love the visuals. It controls very well for a touch screen platformer too, I often find they can be a bit fiddly to control properly but this pulls it off very well 👌 ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phi54ae/",
+          "created_at": "2026-10-18T14:36:15Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Thank you! Indeed mobile controls are/were tricky. I am glad you like the outcome.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phi6kcy/",
+          "created_at": "2026-10-18T14:42:59Z"
+        },
+        {
+          "author": "Friendly-Beginning72",
+          "text": "The art is amazing. This is definitely something that should hit stores whenever you are ready.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj0qsh/",
+          "created_at": "2026-10-18T16:56:22Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Yes, I am currently waiting on my Steam Validation to go through. Planning a launch in December ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj23vw/",
+          "created_at": "2026-10-18T17:02:21Z"
+        },
+        {
+          "author": "Friendly-Beginning72",
+          "text": "Wish you best of luck. Share the link for a wishlist whenever is approved",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj2gdo/",
+          "created_at": "2026-10-18T17:03:52Z"
+        },
+        {
+          "author": "CaptChair",
+          "text": "My name is Clay, and I nominate this game for Clay of the year 👍",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj4wsc/",
+          "created_at": "2026-10-18T17:14:25Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Hahaha, thank you ❤️",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj7wmp/",
+          "created_at": "2026-10-18T17:27:08Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-18T08:27:44Z",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Claymation platformer: red clay cliffs, mushroom-ledge trees, candy-coloured hills and a gear factory with a tiny clay hero; very distinctive. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "lythravel",
+      "title": "Lythravel",
+      "description": "Free voxel browser MMORPG inspired by old-school MMOs like Shaiya, 14 weeks into development: two factions, six classes, levels 1-50, dungeons with solo variants, a 12-player raid, world bosses, open-world PvP, battlegrounds and crafting. Shared on r/aigamedev; no model named.",
+      "play_url": "https://lythravel.com/",
+      "found_via": "r/aigamedev voxel browser MMORPG showcase (u/Big-Sandwich733)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "mmorpg",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/lythravel.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/lythravel.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/lythravel.jpg",
+      "screenshots": [
+        {
+          "path": "videos/lythravel.jpg",
+          "score": 7,
+          "notes": "Voxel MMORPG scenes: forest roads with an armoured hero, a glowing dungeon, green meadows, a river and a beach town; bright and varied. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Big-Sandwich733",
+      "author_source": "https://www.reddit.com/user/Big-Sandwich733/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/",
+      "likes_source": "reddit",
+      "remote_likes": 109,
+      "comment_count": 34,
+      "comments": [
+        {
+          "author": "marektracz_",
+          "text": "This looks very nice, definitely need to give it a try. Thanks for sharing. ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phpyudo/",
+          "created_at": "2026-10-19T16:16:28Z"
+        },
+        {
+          "author": "Big-Sandwich733",
+          "text": "Díky moc! :)",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phq15u2/",
+          "created_at": "2026-10-19T16:26:11Z"
+        },
+        {
+          "author": "Prestigious-Tax2240",
+          "text": "Хорошо что жанр ММО скоро получит много проектов, теперь с Claude и Codex нет проблем создать игру мечты ! Надеюсь у тебя все  получится !",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phsueuy/",
+          "created_at": "2026-10-20T00:07:09Z"
+        },
+        {
+          "author": "BusinessZestyclose86",
+          "text": "Love the textures ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phqbt1t/",
+          "created_at": "2026-10-19T17:10:18Z"
+        },
+        {
+          "author": "Livid_Shallot5701",
+          "text": "i dont understand. you have voxel art (beautiful trees) and then you go with miniscule super high definition polished ui elements. thats a zero fit. ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phv1r3c/",
+          "created_at": "2026-10-20T09:46:00Z"
+        },
+        {
+          "author": "Big-Sandwich733",
+          "text": "Thanks, I’ll rework the UI style. At first, I thought the combination was pretty good, but the longer I look at it, the more I agree that a style better aligned with the game’s overall aesthetic would look much better.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phv400q/",
+          "created_at": "2026-10-20T10:05:14Z"
+        },
+        {
+          "author": "Square-Delivery1958",
+          "text": "I like it, you don't need to listen to them if you believe it's good. Many popular games have \"mismatched UI\" such as Old School RuneScape, Persona 5, etc. maybe it just needs only a little tweaking instead of a complete overhaul if anything needs changing at all",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phvgny2/",
+          "created_at": "2026-10-20T11:38:04Z"
+        },
+        {
+          "author": "IchiPasento",
+          "text": "Haha this looks cool! ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phpuox1/",
+          "created_at": "2026-10-19T15:58:23Z"
+        },
+        {
+          "author": "ross2000",
+          "text": "Thanks for sharing. Had a go and it was fun. Also really liked the music. It was a little laggy but that may have been my computer that was to blame.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phpyy9a/",
+          "created_at": "2026-10-19T16:16:57Z"
+        },
+        {
+          "author": "Big-Sandwich733",
+          "text": "Thanks, glad you enjoyed it! 😄 If you're getting some lag, try lowering the graphics settings to medium, reducing the grass density or turning off shadows. That might help!   \nIn future update, I also want to make it possible to lower the resolution.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phq1q0o/",
+          "created_at": "2026-10-19T16:28:28Z"
+        },
+        {
+          "author": "Fit-Secretary2495",
+          "text": "What’s your secret sauce around assets and animations? Looks awesome!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phq0o2x/",
+          "created_at": "2026-10-19T16:24:10Z"
+        },
+        {
+          "author": "Big-Sandwich733",
+          "text": "Haha, no secret sauce really 😄 I have GPT Image connected to Claude Code and use it to generate reference images for the assets. For animations, I've built my own tool specifically for this game. Thanks!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phq3xw4/",
+          "created_at": "2026-10-19T16:37:44Z"
+        },
+        {
+          "author": "Opposite_Ad_584",
+          "text": "How you built the environment? With Astra , or opus? Please tell me how you did it thank you ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phqnq5l/",
+          "created_at": "2026-10-19T17:58:20Z"
+        },
+        {
+          "author": "Big-Sandwich733",
+          "text": "I've used several different models since I started the project, but I'm currently using Opus 5.5.\n\nAs for the environment, it's been a gradual process with a lot of iterations. I started with basic terrain, then added hills, roads, caves, tunnels, and kept building on top of that with vegetation and more details. Basically just adding more and more layers and tweaking things along the way.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phqp9ma/",
+          "created_at": "2026-10-19T18:04:38Z"
+        },
+        {
+          "author": "Snoo77586",
+          "text": "How are you handling the backend? Super interested to see how this scales, and what you've implemented when it comes to security.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phrdou8/",
+          "created_at": "2026-10-19T19:44:51Z"
+        },
+        {
+          "author": "passio-777",
+          "text": "\"I gave it a try and started the first quest. At first, it was really laggy on my Mac mini M4, so I had to stop. **\\[Update: I tried again and realized it was lagging because it was taking up half of my 5K screen...\\]**  Wow, it's big\n\nhttps://preview.redd.it/suruo23m3iwh1.png?width=2814&format=png&auto=webp&s=51f2b6fbb543391778b50ca7288fb1c9a1a57997",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phsdfd6/",
+          "created_at": "2026-10-19T22:29:50Z"
+        },
+        {
+          "author": "Area_Intrepid",
+          "text": "use gemini NB 2.1 it has less of that GPT smudge that is very evident from the later 2.5 models, NB can follow specific prompts like stylized, water color, cell shaded, toon, etc and gemini is about 3/7/11 cents per 1k/2k/k image resolutions; i like your passion but this looks like azeroth lol; also this may be harsh but there needs to be personal though put into the world building aurelia an nocturne seemed too familiar for me like i heard them in 40k, then i realize **Warhammer 40,000** universe, **Aurelia** and **Nocturne** are two iconic, distinct planets situated in the **Ultima Segmentum**. I can share with you my world build kit on how to setup a bible, how to plan missions , level, etc , it's a JS package that your agent can use to plan thing and give u level design",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phvliin/",
+          "created_at": "2026-10-20T12:08:50Z"
+        },
+        {
+          "author": "Head-Impact1648",
+          "text": "Dobra prace",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phxl7k2/",
+          "created_at": "2026-10-20T19:01:53Z"
+        },
+        {
+          "author": "Head-Impact1648",
+          "text": "Mam ale bohuzel na mem m1 macu fps 10",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phxlsyk/",
+          "created_at": "2026-10-20T19:06:39Z"
+        },
+        {
+          "author": "Janney1990",
+          "text": "Some Feedback after playing it for a bit.\n\n\\-Doing a backflip when you jump seems silly, you could add a double jump that does a backflip if you wanted I guess.\n\n\\-Not being able to just move the camera with your cursor when it pans to the edge of the screen is annoying, I also feel like the camera should pan to where your cursor is pointing.\n\n\\-Can't climb on walls or anything, sprint, roll forward, or crouch. Makes movement feel really boring. People also like being able to hop up on a rock or castle wall, aim at a far away mob and shoot it, being unable to climb, or freefire weapons prevents that.\n\n\\-Just seems boring to spam action bar abilities. Combat should be similar to cube-world where you click to attack and then your action bar is additional abilities. It's also just kinda lame that you can't swing around your weapon idly because you want to.\n\n\\-The UI/action bar doesn't match the visuals of the rest of the game at all.\n\n\\-Why can't you go into any of the starting town houses? if it's all voxels, could you just make them all open with the quest givers inside?\n\n\\-If you're in full screen and you open a dialogue box and press escape, it exits full-screen before it exits the dialogue.",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xa04c8/14_weeks_of_building_my_own_mmorpg_world/phpz0k0/",
+          "created_at": "2026-10-19T16:17:13Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-19T15:34:32Z",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Voxel MMORPG scenes: forest roads with an armoured hero, a glowing dungeon, green meadows, a river and a beach town; bright and varied. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "flipper-from-hell",
+      "title": "Flipper from Hell",
+      "description": "Monochrome 2D fighting game demo for the Flipper Zero, inspired by Street Fighter and the art of Neighbours from Hell (the creator drew the original NfH characters), with temporal-dithering greyscale on the 1-bit screen. Built with Claude as development assistant; the creator posted a browser version you can play.",
+      "play_url": "https://menrix.github.io/Flipper-Zero---Flipper-from-Hell---Game/",
+      "found_via": "r/flipperzero Flipper Zero beat 'em up built with Claude (u/Don_Key_Moustache)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/flipper-from-hell.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/flipper-from-hell.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/flipper-from-hell.jpg",
+      "screenshots": [
+        {
+          "path": "videos/flipper-from-hell.jpg",
+          "score": 5,
+          "notes": "Orange-tinted one-bit fighting game in a Flipper Zero frame: title art, then two brawlers trading punches; charming but small. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Don_Key_Moustache",
+      "author_source": "https://www.reddit.com/user/Don_Key_Moustache/",
+      "source_url": "https://www.reddit.com/r/flipperzero/comments/1xb43pd/",
+      "likes_source_url": "https://www.reddit.com/r/flipperzero/comments/1xb43pd/",
+      "likes_source": "reddit",
+      "remote_likes": 16,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "Don_Key_Moustache",
+          "text": "[https://menrix.github.io/Flipper-Zero---Flipper-from-Hell---Game/](https://menrix.github.io/Flipper-Zero---Flipper-from-Hell---Game/)\n\nhier der Playable Browser Link (no flipper needed). It fakes the look of the game how it looks on the flipper.",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/flipperzero/comments/1xb43pd/2d_beat_em_up_game_demo_flipper_from_hell_real/19rehnxn98u01/",
+          "created_at": "2026-10-20T21:04:07Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T21:02:17Z",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Orange-tinted one-bit fighting game in a Flipper Zero frame: title art, then two brawlers trading punches; charming but small. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "words-at-war",
+      "title": "Words at War",
+      "description": "First-person typing shooter set in Normandy, 1944: every correct letter fires a shot and movement is automatic, so you focus on typing enemy words and choosing which threat to handle first. Solo developer back after 8 years out of the industry, with AI-assisted coding and Unity Asset Store art; playable on itch.io.",
+      "play_url": "https://changhyup.itch.io/words-at-war",
+      "found_via": "r/aigamedev AI-assisted WWII typing shooter (u/Bright-Management-27)",
+      "made_with": "unknown",
+      "engine": "Unity",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/words-at-war.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/words-at-war.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/words-at-war.jpg",
+      "screenshots": [
+        {
+          "path": "videos/words-at-war.jpg",
+          "score": 5,
+          "notes": "Low-poly Normandy battlefield in first person with words floating over enemy soldiers, a dark interior and a burning village; muted. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "reddit",
+      "author": "Bright-Management-27",
+      "author_source": "https://www.reddit.com/user/Bright-Management-27/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xb8qd0/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xb8qd0/",
+      "likes_source": "reddit",
+      "remote_likes": 7,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "Prestigious-Tax2240",
+          "text": "Хочу пожелать тебе терпения довести проект до конца и удачи в его выпуске ! выглядит отлично !",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb8qd0/i_left_the_game_industry_8_years_ago_now_im/phyqf7d/",
+          "created_at": "2026-10-21T00:59:45Z"
+        },
+        {
+          "author": "Bright-Management-27",
+          "text": "Thank you so much for the encouragement! It means a lot. I’ll keep working on it!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xb8qd0/i_left_the_game_industry_8_years_ago_now_im/phyroza/",
+          "created_at": "2026-10-21T01:12:12Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-21T00:24:35Z",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Low-poly Normandy battlefield in first person with words floating over enemy soldiers, a dark interior and a burning village; muted. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "zygote-vs-shitcoins",
+      "title": "Zygote vs Shitcoins",
+      "description": "Meme arcade game from a Zygote Pods NFT: Higgsfield turned the NFT and a short prompt into a 20-second video, then Codex extracted the sprites from that video and built a game where Zygote fights shitcoins.",
+      "play_url": "https://azkian1.github.io/zyg-shitcoins/?lang=en",
+      "found_via": "X @azaticus Codex-built NFT meme game",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/zygote-vs-shitcoins.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/zygote-vs-shitcoins.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/zygote-vs-shitcoins.jpg",
+      "screenshots": [
+        {
+          "path": "videos/zygote-vs-shitcoins.jpg",
+          "score": 5,
+          "notes": "Pixel mascot in a dark jungle arena blasting coin icons with NO FOMO and PORTFOLIO CLEAN callouts; fun but repetitive. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "x",
+      "x_handle": "azaticus",
+      "source_url": "https://x.com/azaticus/status/2112560539696337173",
+      "likes_source_url": "https://x.com/azaticus/status/2112560539696337173",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1992885934958764032/l4Wo0fDq_normal.jpg",
+      "remote_likes": 11,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "s0tric",
+          "text": "@azaticus @zygote_pods @higgsfield_ai https://t.co/kwjrFfHbf2",
+          "likes": 5,
+          "url": "https://x.com/s0tric/status/2112574566690074660",
+          "created_at": "2026-10-20T16:00:01.000Z"
+        },
+        {
+          "author": "0xScandalist",
+          "text": "@azaticus @zygote_pods @higgsfield_ai dope 🔥 zyng fu",
+          "likes": 4,
+          "url": "https://x.com/0xScandalist/status/2112575438363189604",
+          "created_at": "2026-10-20T16:03:28.000Z"
+        },
+        {
+          "author": "azaticus",
+          "text": "@0xScandalist @zygote_pods @higgsfield_ai Zygottsu",
+          "likes": 3,
+          "url": "https://x.com/azaticus/status/2112580053309460690",
+          "created_at": "2026-10-20T16:21:49.000Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T15:04:16.000Z",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Pixel mascot in a dark jungle arena blasting coin icons with NO FOMO and PORTFOLIO CLEAN callouts; fun but repetitive. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "unrest",
+      "title": "Unrest",
+      "description": "Solo-dev survival game built with Opus 5.5 where you solve puzzles to escape the city, with multiple endings, a morality system and a psychological engine driving NPC behaviour. Free alpha on itch.io.",
+      "play_url": "https://c0gn8.itch.io/unrest-alpha",
+      "found_via": "X @olidnejad Opus 5.5 survival puzzle game",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "category": "survival",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/unrest.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/unrest.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/unrest.jpg",
+      "screenshots": [
+        {
+          "path": "videos/unrest.jpg",
+          "score": 4,
+          "notes": "UNREST title card, then a dim top-down room with an inventory bar and objective text; dark and sparse. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "x",
+      "x_handle": "olidnejad",
+      "source_url": "https://x.com/olidnejad/status/2112514435483132282",
+      "likes_source_url": "https://x.com/olidnejad/status/2112514435483132282",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2036854906519494656/hhOxpV5D_normal.jpg",
+      "remote_likes": 7,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T12:01:04.000Z",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "UNREST title card, then a dim top-down room with an inventory bar and objective text; dark and sparse. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+    },
+    {
+      "id": "jev-cards",
+      "title": "Jev Cards",
+      "description": "Picture quiz game against TypeSafe's Jev vision model, which answers in about a quarter of a second: sprint, versus and streak modes with leaderboards, or live matches with friends with Jev as an extra player. The site was built with Claude Code (the creator confirmed in the HN thread) and the cards with Opper's vision models; open source.",
+      "play_url": "https://jevcards.com/",
+      "found_via": "Show HN: Jev Cards (HN 50167617, u/totisjosema)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/jev-cards.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/jev-cards.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/jev-cards.jpg",
+      "screenshots": [
+        {
+          "path": "videos/jev-cards.jpg",
+          "score": 5,
+          "notes": "Blue game-show UI with picture quiz cards such as a mate-in-one chess board and a timer; tidy but mostly UI. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "found_via_network": "hackernews",
+      "author": "totisjosema",
+      "author_source": "https://news.ycombinator.com/user?id=totisjosema",
+      "source_url": "https://news.ycombinator.com/item?id=50167617",
+      "likes_source_url": "https://news.ycombinator.com/item?id=50167617",
+      "likes_source": "hackernews_points",
+      "remote_likes": 57,
+      "comment_count": 48,
+      "comments": [
+        {
+          "author": "inerte",
+          "text": "I got a lot of answers wrong (half of them maybe?), and the ones I got it right Jev was still faster.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168211",
+          "created_at": "2026-10-20T15:49:56Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "Play some more you will get the hang of it :)\nThe first 200 cards I did: Jev got 160 right, at a median of 261 ms , so no need to feel bad",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168305",
+          "created_at": "2026-10-20T15:55:03Z"
+        },
+        {
+          "author": "edaemon",
+          "text": "Interesting. Jev is certainly faster but it was wrong quite a bit more than I was.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168427",
+          "created_at": "2026-10-20T16:04:13Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "yeah the different games play to different strengths, you can play multiplayer with friends also",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168480",
+          "created_at": "2026-10-20T16:07:25Z"
+        },
+        {
+          "author": "arm32",
+          "text": "Just like a coin flip!",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170386",
+          "created_at": "2026-10-20T18:15:02Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "A coin flip with 80% chance of success tho (and 100% in some categories)",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170854",
+          "created_at": "2026-10-20T18:47:55Z"
+        },
+        {
+          "author": "nextaccountic",
+          "text": "Could you add an option to remove musical theory questions? I mean, I know Jev can ace those as well, but I can only click at random, that's unfun",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168463",
+          "created_at": "2026-10-20T16:06:34Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "just play again :), but will consider adding whitelist/blacklist of categories",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168496",
+          "created_at": "2026-10-20T16:07:55Z"
+        },
+        {
+          "author": "folmar",
+          "text": "also less USification would help, it's not common knowledge how US birds or bridges or hats look like",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50169286",
+          "created_at": "2026-10-20T16:56:10Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "will add more cards, thanks for the feedback",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170848",
+          "created_at": "2026-10-20T18:47:17Z"
+        },
+        {
+          "author": "hluska",
+          "text": "Considering this whole thing is AI slop, you could be a lot more polite when people make feature requests.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170692",
+          "created_at": "2026-10-20T18:36:22Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "sorry you saw it that way, was just kidding, there are many categories unlucky of him that the one he doesnt like landed on his deck\nAnyway the feature he requested was literally on the app 5 minutes after he asked :)",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170824",
+          "created_at": "2026-10-20T18:45:59Z"
+        },
+        {
+          "author": "ajjenkins",
+          "text": "In my opinion the the point of the site is that Jev has knowledge on all topics that makes it hard to beat. It might not be as smart as you, but it probably has a greater breadth of knowledge.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170944",
+          "created_at": "2026-10-20T18:53:36Z"
+        },
+        {
+          "author": "nextaccountic",
+          "text": "Yeah but this is also a fun, addictive game and I was invested into beating Jev, but every run where musical theory appeared had to be aborted",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50174736",
+          "created_at": "2026-10-21T00:52:17Z"
+        },
+        {
+          "author": "arjie",
+          "text": "Would prefer if the audio button was at the top right of the page etc.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168778",
+          "created_at": "2026-10-20T16:23:27Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "Will take a look, should already be there during a game though",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50168790",
+          "created_at": "2026-10-20T16:24:41Z"
+        },
+        {
+          "author": "jrflo",
+          "text": "Very cool demo! Although I feel that incorrect answers should be penalized more. For instance- I got 100% in about 45 seconds on the sprint. Then, I clicked through as fast as I can (only limited by finding the right targets) and got a score of 42s, technically better than my first score but I only got 20% right.",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50169022",
+          "created_at": "2026-10-20T16:39:05Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "Thanks for the feedback! And now that you showed everyone a cheat sheet we will get many high scores, so lets increase the penalty of wrong answers and reset the leaderboard! Thanks a lot for the insights",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50169129",
+          "created_at": "2026-10-20T16:45:41Z"
+        },
+        {
+          "author": "casey2",
+          "text": "I thought I did terrible 5, but jev got 0 in a row. then the slopcoded app says \"Jev has won 2,613 of 3,300 games, this one included.\" Though if you need very quick answers obviously humans can't compete. Actually on further thought after getting 15, if you've seen the exact problem before you can answer quickly, so the usefulness is diminished to problems that don't need to be 100% correct, need to be solved very quickly (even routing might not need to be this quick), problem form often changes, but is still general knowledge, and very low marginal benifet for 99% correctness over 50%",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50169754",
+          "created_at": "2026-10-20T17:27:46Z"
+        },
+        {
+          "author": "totisjosema",
+          "text": "Jev gets around 70-80% right. Varies a lot per category. But its quite surprising that its soo good in some of them",
+          "likes": null,
+          "url": "https://news.ycombinator.com/item?id=50170542",
+          "created_at": "2026-10-20T18:26:28Z"
+        }
+      ],
+      "first_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-21T02:30:00.000Z",
+      "published_at": "2026-10-20T15:11:56Z",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Blue game-show UI with picture quiz cards such as a mate-in-one chess board and a timer; tidy but mostly UI. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
     }
   ],
   "totals": {
-    "games": 530,
+    "games": 552,
     "by_made_with": {
-      "opus-5.5": 294,
-      "astra": 66,
+      "opus-5.5": 297,
+      "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 7,
-      "unknown": 145,
+      "unknown": 163,
       "gemini-4-argon": 5
     }
   }
