@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:11:30.000Z",
+  "updated_at": "2026-10-21T14:12:56.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -37008,7 +37008,7 @@
       "title": "Underground 2 Revived (NFSU2 in the browser)",
       "description": "Fan port of Need for Speed: Underground 2 (2004) to the browser: the original x86 code is statically recompiled to C and then WebAssembly, with WebGPU graphics, 120 fps, high-resolution fixes, skippable movies, working online lobbies and freeroam multiplayer. Based on the NFSU2Recomp project; open source. Needs a WebGPU browser (Chrome or Firefox).",
       "play_url": "https://nfsu2.xyz/",
-      "found_via": "r/NFSU2 NFSU2 recomp ported to the browser (u/lantaarnappel)",
+      "found_via": "r/NFSU2 NFSU2 recomp ported to the browser (u/lantaarnappel); also listed in Decomp Games catalog (aigamedevs/awesome-decomp-games c81a84c, entry need-for-speed-underground-2-underground-2-revived)",
       "made_with": "unknown",
       "engine": "WebAssembly",
       "tags": [
@@ -37021,24 +37021,24 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/nfsu2-web.mp4",
+      "video_path": "videos/nfsu2-web-v2.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/nfsu2-web.mp4",
+          "path": "videos/nfsu2-web-v2.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/nfsu2-web.jpg",
+      "screenshot_path": "videos/nfsu2-web-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/nfsu2-web.jpg",
-          "score": 2,
-          "notes": "Only the dark Underground 2 Revived start page with its controls and settings panels; the WebGPU game did not start in the recorder, so no driving footage. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+          "path": "videos/nfsu2-web-v2.jpg",
+          "score": 4,
+          "notes": "Real footage rendered by the browser port itself (WebGPU): NFSU2's intro cinematics - neon-lit Bayview streets, the Mitsubishi Lancer drifting past red chevron barriers, a car meet with the cover model and the Underground 2 logo. Authentic game visuals, but it is the intro movie rather than driving. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
       ],
-      "screenshot_score": 2,
-      "screenshot_score_notes": "Only the dark Underground 2 Revived start page with its controls and settings panels; the WebGPU game did not start in the recorder, so no driving footage. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Real footage rendered by the browser port itself (WebGPU): NFSU2's intro cinematics - neon-lit Bayview streets, the Mitsubishi Lancer drifting past red chevron barriers, a car meet with the cover model and the Underground 2 logo. Authentic game visuals, but it is the intro movie rather than driving. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "found_via_network": "reddit",
       "author": "lantaarnappel",
       "author_source": "https://www.reddit.com/user/lantaarnappel/",
@@ -37190,8 +37190,9 @@
         }
       ],
       "first_seen": "2026-10-21T02:30:00.000Z",
-      "last_seen": "2026-10-21T02:30:00.000Z",
-      "published_at": "2026-10-19T13:48:21Z"
+      "last_seen": "2026-10-21T14:12:56.000Z",
+      "published_at": "2026-10-19T13:48:21Z",
+      "video_note": "Re-recorded 2026-10-21 with a WebGPU-enabled headless browser: the game now starts and plays its intro cinematics; the previous clip only showed the start page."
     },
     {
       "id": "thoosie",
