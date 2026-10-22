@@ -1082,7 +1082,7 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "video_path": "videos/goodgame.mp4",
+      "video_path": "videos/goodgame-v2.mp4",
       "video_source": "feed-local",
       "remote_likes": 11,
       "likes_source": "x"
@@ -1613,7 +1613,7 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "video_path": "videos/nand-16.mp4",
+      "video_path": "videos/nand-16-v2.mp4",
       "video_source": "feed-local",
       "remote_likes": 1790,
       "likes_source": "x"
@@ -2889,7 +2889,7 @@
       "engine": "Three.js",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "video_path": "videos/devin-vs-backlog.mp4",
+      "video_path": "videos/devin-vs-backlog-v2.mp4",
       "video_source": "feed-local",
       "remote_likes": 3,
       "likes_source": "x"
@@ -7137,11 +7137,11 @@
       "likes_source": "x",
       "screenshot_score": 8.4,
       "screenshot_score_notes": "Ink-wash shinobi duel still from creator X gameplay clip.",
-      "video_path": "videos/kage-no-michi.mp4",
+      "video_path": "videos/kage-no-michi-v2.mp4",
       "video_source": "scan-intake",
       "videos": [
         {
-          "path": "videos/kage-no-michi.mp4",
+          "path": "videos/kage-no-michi-v2.mp4",
           "source": "scan-intake"
         }
       ],
@@ -7261,11 +7261,11 @@
       "likes_source": "reddit",
       "screenshot_score": 8.3,
       "screenshot_score_notes": "Painted city nomad scene from creator X gameplay clip.",
-      "video_path": "videos/vybenomad.mp4",
+      "video_path": "videos/vybenomad-v2.mp4",
       "video_source": "scan-intake",
       "videos": [
         {
-          "path": "videos/vybenomad.mp4",
+          "path": "videos/vybenomad-v2.mp4",
           "source": "scan-intake"
         }
       ],
@@ -8245,18 +8245,18 @@
       "likes_source": "x",
       "first_seen": "2026-10-04T01:42:38.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
-      "video_path": "videos/lion-city-life.mp4",
+      "video_path": "videos/lion-city-life-v2.mp4",
       "video_source": "scan-intake",
       "videos": [
         {
-          "path": "videos/lion-city-life.mp4",
+          "path": "videos/lion-city-life-v2.mp4",
           "source": "scan-intake"
         }
       ],
-      "screenshot_path": "videos/lion-city-life.jpg",
+      "screenshot_path": "videos/lion-city-life-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/lion-city-life.jpg",
+          "path": "videos/lion-city-life-v2.jpg",
           "score": 5.7,
           "notes": "The stored poster is a pure black frame; a later clip still shows a simple blocky traveler in an arrivals hall, readable but flat, blown out, and letterboxed."
         }
@@ -9339,18 +9339,18 @@
       "likes_source": "x",
       "first_seen": "2026-10-06T01:47:44.000Z",
       "last_seen": "2026-10-06T01:47:44.000Z",
-      "video_path": "videos/fogbound-trail.mp4",
+      "video_path": "videos/fogbound-trail-v2.mp4",
       "video_source": "x",
       "videos": [
         {
-          "path": "videos/fogbound-trail.mp4",
+          "path": "videos/fogbound-trail-v2.mp4",
           "source": "x"
         }
       ],
-      "screenshot_path": "videos/fogbound-trail.jpg",
+      "screenshot_path": "videos/fogbound-trail-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/fogbound-trail.jpg",
+          "path": "videos/fogbound-trail-v2.jpg",
           "score": 5,
           "notes": "Moody fog-drenched forest path is atmospheric, but the letterboxed frame is murky and low-contrast with nothing to interact with."
         }
@@ -10837,18 +10837,18 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-08T02:30:00.000Z",
       "last_seen": "2026-10-21T02:30:00.000Z",
-      "video_path": "videos/pavement-pursuit.mp4",
+      "video_path": "videos/pavement-pursuit-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/pavement-pursuit.mp4",
+          "path": "videos/pavement-pursuit-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/pavement-pursuit.jpg",
+      "screenshot_path": "videos/pavement-pursuit-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/pavement-pursuit.jpg",
+          "path": "videos/pavement-pursuit-v2.jpg",
           "score": 4,
           "notes": "Vertical phone capture of a plain grey road with one red car and a 'The road learns to bend' caption; readable but very sparse."
         }
@@ -24178,18 +24178,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/small-hours.mp4",
+      "video_path": "videos/small-hours-v2.mp4",
       "video_source": "x",
       "videos": [
         {
-          "path": "videos/small-hours.mp4",
+          "path": "videos/small-hours-v2.mp4",
           "source": "x"
         }
       ],
-      "screenshot_path": "videos/small-hours.jpg",
+      "screenshot_path": "videos/small-hours-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/small-hours.jpg",
+          "path": "videos/small-hours-v2.jpg",
           "score": 7,
           "notes": "Pixel-art neon city title and a detailed cozy diner interior with character portraits and dialogue; charming, consistent art. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
         }
@@ -24737,18 +24737,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/velscour.mp4",
+      "video_path": "videos/velscour-v2.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/velscour.mp4",
+          "path": "videos/velscour-v2.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/velscour.jpg",
+      "screenshot_path": "videos/velscour-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/velscour.jpg",
+          "path": "videos/velscour-v2.jpg",
           "score": 5,
           "notes": "Recorded clip only reached the \"click to awaken\" screen and the main menu (fiery logo, glowing eyes); no gameplay frames captured, so rated conservatively. Rated from 5 frames across the clip plus the poster."
         }
@@ -27347,18 +27347,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/age-of-wars-3d.mp4",
+      "video_path": "videos/age-of-wars-3d-v2.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/age-of-wars-3d.mp4",
+          "path": "videos/age-of-wars-3d-v2.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/age-of-wars-3d.jpg",
+      "screenshot_path": "videos/age-of-wars-3d-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/age-of-wars-3d.jpg",
+          "path": "videos/age-of-wars-3d-v2.jpg",
           "score": 5,
           "notes": "Recorded clip: wooden title menu, then a 3D battlefield with a rock fortress and dirt lane; decent assets, little action captured. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -34525,18 +34525,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/roadster-flight-lab.mp4",
+      "video_path": "videos/roadster-flight-lab-v2.mp4",
       "video_source": "x",
       "videos": [
         {
-          "path": "videos/roadster-flight-lab.mp4",
+          "path": "videos/roadster-flight-lab-v2.mp4",
           "source": "x"
         }
       ],
-      "screenshot_path": "videos/roadster-flight-lab.jpg",
+      "screenshot_path": "videos/roadster-flight-lab-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/roadster-flight-lab.jpg",
+          "path": "videos/roadster-flight-lab-v2.jpg",
           "score": 5,
           "notes": "Roadster in sunset traffic, a FLY title, a dark road, a flying-cars promo card and the car on a pad; mixed promo and game. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -36539,18 +36539,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/balls-of-furry.mp4",
+      "video_path": "videos/balls-of-furry-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/balls-of-furry.mp4",
+          "path": "videos/balls-of-furry-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/balls-of-furry.jpg",
+      "screenshot_path": "videos/balls-of-furry-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/balls-of-furry.jpg",
+          "path": "videos/balls-of-furry-v2.jpg",
           "score": 6,
           "notes": "Clean blue ping-pong table in a crowded arena with a scoreboard and paddle; clear and readable though a bit plain. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -37911,18 +37911,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/apokelypse-now.mp4",
+      "video_path": "videos/apokelypse-now-v2.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/apokelypse-now.mp4",
+          "path": "videos/apokelypse-now-v2.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/apokelypse-now.jpg",
+      "screenshot_path": "videos/apokelypse-now-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/apokelypse-now.jpg",
+          "path": "videos/apokelypse-now-v2.jpg",
           "score": 5,
           "notes": "Pixel-art APOKELYPSE NOW title over a burning jungle with helicopters, then a slow ceiling-fan intro with dialogue; strong style but only intro scenes. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -41982,18 +41982,18 @@
       "download_platforms": [
         "windows"
       ],
-      "video_path": "videos/just-one-more.mp4",
+      "video_path": "videos/just-one-more-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/just-one-more.mp4",
+          "path": "videos/just-one-more-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/just-one-more.jpg",
+      "screenshot_path": "videos/just-one-more-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/just-one-more.jpg",
+          "path": "videos/just-one-more-v2.jpg",
           "score": 6,
           "notes": "multi-frame: Moody night balcony silhouette against a city skyline whose windows light up one by one, small counters and upgrade panels, a burning building later on; atmospheric but dark and quiet. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
