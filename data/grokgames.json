@@ -21867,14 +21867,6 @@
           "created_at": "2026-10-13T14:28:53Z"
         }
       ],
-      "video_path": "videos/need4space.mp4",
-      "video_source": "playwright",
-      "videos": [
-        {
-          "path": "videos/need4space.mp4",
-          "source": "playwright"
-        }
-      ],
       "screenshot_path": "videos/need4space.jpg",
       "screenshots": [
         {
@@ -21893,9 +21885,7 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "tags": [
-        "rec"
-      ]
+      "tags": []
     },
     {
       "id": "approximatr",
@@ -22713,14 +22703,6 @@
           "created_at": "2026-10-13T17:57:06Z"
         }
       ],
-      "video_path": "videos/counterstance.mp4",
-      "video_source": "playwright",
-      "videos": [
-        {
-          "path": "videos/counterstance.mp4",
-          "source": "playwright"
-        }
-      ],
       "screenshot_path": "videos/counterstance.jpg",
       "screenshots": [
         {
@@ -22739,9 +22721,7 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "tags": [
-        "rec"
-      ]
+      "tags": []
     },
     {
       "id": "tank-vs-city",
@@ -33450,14 +33430,6 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/retzar.mp4",
-      "video_source": "reddit-image",
-      "videos": [
-        {
-          "path": "videos/retzar.mp4",
-          "source": "reddit-image"
-        }
-      ],
       "screenshot_path": "videos/retzar.jpg",
       "screenshots": [
         {
@@ -33645,14 +33617,6 @@
       "category": "fighting",
       "platforms": [
         "desktop"
-      ],
-      "video_path": "videos/windowsmash.mp4",
-      "video_source": "github-og",
-      "videos": [
-        {
-          "path": "videos/windowsmash.mp4",
-          "source": "github-og"
-        }
       ],
       "screenshot_path": "videos/windowsmash.jpg",
       "screenshots": [
@@ -33842,14 +33806,6 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/wiindowsplay.mp4",
-      "video_source": "github-og",
-      "videos": [
-        {
-          "path": "videos/wiindowsplay.mp4",
-          "source": "github-og"
-        }
-      ],
       "screenshot_path": "videos/wiindowsplay.jpg",
       "screenshots": [
         {
@@ -33927,14 +33883,6 @@
       "category": "shooter",
       "platforms": [
         "desktop"
-      ],
-      "video_path": "videos/robowar.mp4",
-      "video_source": "reddit-image",
-      "videos": [
-        {
-          "path": "videos/robowar.mp4",
-          "source": "reddit-image"
-        }
       ],
       "screenshot_path": "videos/robowar.jpg",
       "screenshots": [
@@ -36397,14 +36345,6 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/chateau-de-sable.mp4",
-      "video_source": "reddit-image",
-      "videos": [
-        {
-          "path": "videos/chateau-de-sable.mp4",
-          "source": "reddit-image"
-        }
-      ],
       "screenshot_path": "videos/chateau-de-sable.jpg",
       "screenshots": [
         {
@@ -38613,14 +38553,6 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/echo-horror.mp4",
-      "video_source": "recorded",
-      "videos": [
-        {
-          "path": "videos/echo-horror.mp4",
-          "source": "recorded"
-        }
-      ],
       "screenshot_path": "videos/echo-horror.jpg",
       "screenshots": [
         {
@@ -38643,9 +38575,7 @@
       "published_at": "2026-10-20T12:05:09Z",
       "screenshot_score": 3,
       "screenshot_score_notes": "Loading screens, an intro text card and a headphones prompt over a dark bodycam frame; no gameplay reached. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
-      "tags": [
-        "rec"
-      ],
+      "tags": [],
       "video_note": "fps fix 2026-10-21: headless recording measured ~12.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.33x (target 30fps, capped at 4x) to 24.5s, no audio"
     },
     {
