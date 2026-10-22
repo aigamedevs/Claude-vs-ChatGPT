@@ -6661,11 +6661,11 @@
       "first_seen": "2026-10-02T01:50:14.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
       "listed_at": "2026-10-02T01:50:14.000Z",
-      "video_path": "videos/kals-valley.mp4",
+      "video_path": "videos/kals-valley-v2.mp4",
       "video_source": "scan-intake",
       "videos": [
         {
-          "path": "videos/kals-valley.mp4",
+          "path": "videos/kals-valley-v2.mp4",
           "source": "scan-intake"
         }
       ],
@@ -8374,19 +8374,19 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-04T01:42:38.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
-      "video_path": "videos/mandris.mp4",
+      "video_path": "videos/mandris-v2.mp4",
       "video_source": "reddit",
       "video_source_url": "https://www.reddit.com/r/aigamedev/comments/1wu9nqk/",
       "videos": [
         {
-          "path": "videos/mandris.mp4",
+          "path": "videos/mandris-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/mandris.jpg",
+      "screenshot_path": "videos/mandris-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/mandris.jpg",
+          "path": "videos/mandris-v2.jpg",
           "score": 5,
           "notes": "multi-frame: vertical trailer: MANDRIS title card, then enemy/ability cards (Garmo, Jivadin, Norgron) over neon space combat and an explosion; flashy effects, little readable gameplay. Rated from 5 frames across the creator clip plus poster."
         }
@@ -9066,18 +9066,18 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-06T01:47:44.000Z",
       "last_seen": "2026-10-06T01:47:44.000Z",
-      "video_path": "videos/concrete-jungle.mp4",
+      "video_path": "videos/concrete-jungle-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/concrete-jungle.mp4",
+          "path": "videos/concrete-jungle-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/concrete-jungle.jpg",
+      "screenshot_path": "videos/concrete-jungle-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/concrete-jungle.jpg",
+          "path": "videos/concrete-jungle-v2.jpg",
           "score": 6,
           "notes": "Bold title card over a night voxel skyline with subway-line badges looks polished, but it is a menu shot with no animal gameplay visible."
         }
@@ -17051,18 +17051,18 @@
       "author_source": "https://www.reddit.com/r/aigamedev/comments/1wz6m0d/",
       "first_seen": "2026-10-12T02:00:00.000Z",
       "last_seen": "2026-10-13T01:30:00.000Z",
-      "video_path": "videos/grayfall.mp4",
+      "video_path": "videos/grayfall-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/grayfall.mp4",
+          "path": "videos/grayfall-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/grayfall.jpg",
+      "screenshot_path": "videos/grayfall-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/grayfall.jpg",
+          "path": "videos/grayfall-v2.jpg",
           "score": 6,
           "notes": "Torch-lit purple dungeon hall with a pixel hero mid-spell and a 'DAGNA / ARTIFICER' nameplate; atmospheric, sprites small."
         }
@@ -20200,18 +20200,18 @@
       "author_source": "https://www.reddit.com/user/edc1591/",
       "first_seen": "2026-10-13T01:30:00.000Z",
       "last_seen": "2026-10-13T01:30:00.000Z",
-      "video_path": "videos/nyc-subway-sim.mp4",
+      "video_path": "videos/nyc-subway-sim-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/nyc-subway-sim.mp4",
+          "path": "videos/nyc-subway-sim-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/nyc-subway-sim.jpg",
+      "screenshot_path": "videos/nyc-subway-sim-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/nyc-subway-sim.jpg",
+          "path": "videos/nyc-subway-sim-v2.jpg",
           "score": 5,
           "notes": "Cab view down an elevated track between grey buildings with speedometer, line map and clock HUD; realistic layout, plain textures."
         }
@@ -20925,18 +20925,18 @@
       "author_source": "https://www.reddit.com/user/zykooo/",
       "first_seen": "2026-10-13T01:30:00.000Z",
       "last_seen": "2026-10-13T01:30:00.000Z",
-      "video_path": "videos/zugstrecke.mp4",
+      "video_path": "videos/zugstrecke-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/zugstrecke.mp4",
+          "path": "videos/zugstrecke-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/zugstrecke.jpg",
+      "screenshot_path": "videos/zugstrecke-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/zugstrecke.jpg",
+          "path": "videos/zugstrecke-v2.jpg",
           "score": 6,
           "notes": "Silver train curving out of a tunnel through green hills with rocks, captioned 'Through the hills'; calm, tidy diorama look."
         }
@@ -25111,18 +25111,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/power-pile.mp4",
+      "video_path": "videos/power-pile-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/power-pile.mp4",
+          "path": "videos/power-pile-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/power-pile.jpg",
+      "screenshot_path": "videos/power-pile-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/power-pile.jpg",
+          "path": "videos/power-pile-v2.jpg",
           "score": 6,
           "notes": "Bold title art, clear card battle boards and a confetti run-complete screen; polished UI, simple visuals. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
         }
@@ -25258,18 +25258,18 @@
       "platforms": [
         "mobile"
       ],
-      "video_path": "videos/cyport.mp4",
+      "video_path": "videos/cyport-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/cyport.mp4",
+          "path": "videos/cyport-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/cyport.jpg",
+      "screenshot_path": "videos/cyport-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/cyport.jpg",
+          "path": "videos/cyport-v2.jpg",
           "score": 3,
           "notes": "Dark night-city gameplay with on-screen touch controls; ROM/own-files game capped at 3. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
         }
@@ -26588,18 +26588,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/wta-lou15.mp4",
+      "video_path": "videos/wta-lou15-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/wta-lou15.mp4",
+          "path": "videos/wta-lou15-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/wta-lou15.jpg",
+      "screenshot_path": "videos/wta-lou15-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/wta-lou15.jpg",
+          "path": "videos/wta-lou15-v2.jpg",
           "score": 7,
           "notes": "Warm-lit old-town square with crowds, cobbled streets and a classic car at night; cinematic title cards. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -26776,18 +26776,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/the-flip-side.mp4",
+      "video_path": "videos/the-flip-side-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/the-flip-side.mp4",
+          "path": "videos/the-flip-side-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/the-flip-side.jpg",
+      "screenshot_path": "videos/the-flip-side-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/the-flip-side.jpg",
+          "path": "videos/the-flip-side-v2.jpg",
           "score": 6,
           "notes": "Dark suburban street at night with characters, houses and touch controls; moody but low detail. Short 5 s clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -28567,18 +28567,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/wordio.mp4",
+      "video_path": "videos/wordio-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/wordio.mp4",
+          "path": "videos/wordio-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/wordio.jpg",
+      "screenshot_path": "videos/wordio-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/wordio.jpg",
+          "path": "videos/wordio-v2.jpg",
           "score": 4,
           "notes": "Clean letter-tile logos, phone mockups and a sprawling tile board; tidy but mostly promo and UI frames. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -30683,18 +30683,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/insert-soul.mp4",
+      "video_path": "videos/insert-soul-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/insert-soul.mp4",
+          "path": "videos/insert-soul-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/insert-soul.jpg",
+      "screenshot_path": "videos/insert-soul-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/insert-soul.jpg",
+          "path": "videos/insert-soul-v2.jpg",
           "score": 7,
           "notes": "Neon-lit haunted arcade hall with string lights, cabinets, haze and a glowing game breaking out into the room; moody and detailed. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -31032,18 +31032,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/bubenjump.mp4",
+      "video_path": "videos/bubenjump-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/bubenjump.mp4",
+          "path": "videos/bubenjump-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/bubenjump.jpg",
+      "screenshot_path": "videos/bubenjump-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/bubenjump.jpg",
+          "path": "videos/bubenjump-v2.jpg",
           "score": 6,
           "notes": "Crisp pixel-art ski hills with pines, a jumper in flight, crowds and a scoreboard; charming and readable. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -31215,18 +31215,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/crimson-steel.mp4",
+      "video_path": "videos/crimson-steel-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/crimson-steel.mp4",
+          "path": "videos/crimson-steel-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/crimson-steel.jpg",
+      "screenshot_path": "videos/crimson-steel-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/crimson-steel.jpg",
+          "path": "videos/crimson-steel-v2.jpg",
           "score": 2,
           "notes": "Phone screen capture: mostly a black frame with small red fighter stills and a title card; hard to read. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -31278,18 +31278,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/blueprint-job.mp4",
+      "video_path": "videos/blueprint-job-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/blueprint-job.mp4",
+          "path": "videos/blueprint-job-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/blueprint-job.jpg",
+      "screenshot_path": "videos/blueprint-job-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/blueprint-job.jpg",
+          "path": "videos/blueprint-job-v2.jpg",
           "score": 5,
           "notes": "Top-down 3D shop and street interiors, a glowing blueprint plan and a getaway summary screen; tidy and clear. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -33029,18 +33029,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/roadthruster.mp4",
+      "video_path": "videos/roadthruster-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/roadthruster.mp4",
+          "path": "videos/roadthruster-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/roadthruster.jpg",
+      "screenshot_path": "videos/roadthruster-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/roadthruster.jpg",
+          "path": "videos/roadthruster-v2.jpg",
           "score": 7,
           "notes": "Neon night racing with lanterns, a white Roadster weaving through traffic, a glowing tunnel and WANNA RACE captions; flashy trailer. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -35247,18 +35247,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/last-drop.mp4",
+      "video_path": "videos/last-drop-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/last-drop.mp4",
+          "path": "videos/last-drop-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/last-drop.jpg",
+      "screenshot_path": "videos/last-drop-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/last-drop.jpg",
+          "path": "videos/last-drop-v2.jpg",
           "score": 5,
           "notes": "Vertical clip of a tiny water droplet rolling down sunlit desert dunes with a minimal HUD; pretty light but washed out and hard to read at feed size. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -40794,18 +40794,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/chulk-runner.mp4",
+      "video_path": "videos/chulk-runner-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/chulk-runner.mp4",
+          "path": "videos/chulk-runner-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/chulk-runner.jpg",
+      "screenshot_path": "videos/chulk-runner-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/chulk-runner.jpg",
+          "path": "videos/chulk-runner-v2.jpg",
           "score": 5,
           "notes": "multi-frame: Green chalkboard framed in wood with hand-drawn white chalk lines, a running stick figure, spikes and captions like \"You draw the floor\" and \"Spiked at 139 m\"; minimal but charming. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
@@ -41636,18 +41636,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/spellblunder.mp4",
+      "video_path": "videos/spellblunder-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/spellblunder.mp4",
+          "path": "videos/spellblunder-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/spellblunder.jpg",
+      "screenshot_path": "videos/spellblunder-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/spellblunder.jpg",
+          "path": "videos/spellblunder-v2.jpg",
           "score": 7,
           "notes": "multi-frame: Stylised low-poly arenas: a wizard by a turquoise river on green grass, a snowy forest with falling flaming aerolites and goblins, with funny captions about backfiring spells; bright and readable. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
@@ -41774,18 +41774,18 @@
       "download_platforms": [
         "windows"
       ],
-      "video_path": "videos/granny-vs-rent.mp4",
+      "video_path": "videos/granny-vs-rent-v2.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/granny-vs-rent.mp4",
+          "path": "videos/granny-vs-rent-v2.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/granny-vs-rent.jpg",
+      "screenshot_path": "videos/granny-vs-rent-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/granny-vs-rent.jpg",
+          "path": "videos/granny-vs-rent-v2.jpg",
           "score": 6,
           "notes": "multi-frame: Top-down 3D garden around a thatched cottage with paths, trees and waves of collectors, a round counter and upgrade shop panel, ending on a yellow GRANNY VS RENT title card; cheerful and clear. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
