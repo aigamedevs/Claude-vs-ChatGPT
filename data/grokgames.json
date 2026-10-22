@@ -19,11 +19,11 @@
       "engine": "Three.js",
       "remote_likes": 898,
       "likes_source": "github",
-      "video_path": "videos/pelican-bicycle-adventure.mp4",
+      "video_path": "videos/pelican-bicycle-adventure-v2.mp4",
       "video_source": "awesome-local",
       "videos": [
         {
-          "path": "videos/pelican-bicycle-adventure.mp4",
+          "path": "videos/pelican-bicycle-adventure-v2.mp4",
           "source": "awesome-local"
         }
       ]
@@ -13373,10 +13373,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/command-conquer-generals-zero-hour.jpg",
+      "screenshot_path": "videos/command-conquer-generals-zero-hour-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/command-conquer-generals-zero-hour.jpg",
+          "path": "videos/command-conquer-generals-zero-hour-v2.jpg",
           "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -13394,11 +13394,11 @@
       "remote_likes": 9,
       "likes_source": "github",
       "github_url": "https://github.com/origami-ltd/wasm-generals",
-      "video_path": "videos/command-conquer-generals-zero-hour.mp4",
+      "video_path": "videos/command-conquer-generals-zero-hour-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/command-conquer-generals-zero-hour.mp4",
+          "path": "videos/command-conquer-generals-zero-hour-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -13520,10 +13520,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+      "screenshot_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.jpg",
+          "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol-v2.jpg",
           "score": 10,
           "notes": "Poster frame from Counter-Strike: Source bhop gameplay (bhop_challenge2)."
         },
@@ -13535,11 +13535,11 @@
       ],
       "screenshot_score": 4,
       "screenshot_score_notes": "Site landing card with text and a play button over a faint map; no gameplay frame.",
-      "video_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.mp4",
+      "video_path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol.mp4",
+          "path": "videos/counter-strike-source-bunnyhop-bunnyhop-lol-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -13678,10 +13678,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/doom-multiplayer-silent-space-marine.jpg",
+      "screenshot_path": "videos/doom-multiplayer-silent-space-marine-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/doom-multiplayer-silent-space-marine.jpg",
+          "path": "videos/doom-multiplayer-silent-space-marine-v2.jpg",
           "score": 8,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -13699,11 +13699,11 @@
       "remote_likes": 416,
       "likes_source": "github",
       "github_url": "https://github.com/cloudflare/doom-wasm",
-      "video_path": "videos/doom-multiplayer-silent-space-marine.mp4",
+      "video_path": "videos/doom-multiplayer-silent-space-marine-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/doom-multiplayer-silent-space-marine.mp4",
+          "path": "videos/doom-multiplayer-silent-space-marine-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -13729,10 +13729,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/golden-sun-recompilation.jpg",
+      "screenshot_path": "videos/golden-sun-recompilation-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/golden-sun-recompilation.jpg",
+          "path": "videos/golden-sun-recompilation-v2.jpg",
           "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -13749,11 +13749,11 @@
       "remote_likes": 33,
       "likes_source": "github",
       "github_url": "https://github.com/Shmargus/GSRecomp",
-      "video_path": "videos/golden-sun-recompilation.mp4",
+      "video_path": "videos/golden-sun-recompilation-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/golden-sun-recompilation.mp4",
+          "path": "videos/golden-sun-recompilation-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -14042,10 +14042,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/pro-evolution-soccer-6.jpg",
+      "screenshot_path": "videos/pro-evolution-soccer-6-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/pro-evolution-soccer-6.jpg",
+          "path": "videos/pro-evolution-soccer-6-v2.jpg",
           "score": 6,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -14059,11 +14059,11 @@
       "screenshot_score_notes": "Broadcast-view PES6 match with HUD and minimap; clear, small players.",
       "author": "OptiProjects",
       "author_source": "https://recompiledgames.com/pro-evolution-soccer-6-recompiled/",
-      "video_path": "videos/pro-evolution-soccer-6.mp4",
+      "video_path": "videos/pro-evolution-soccer-6-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/pro-evolution-soccer-6.mp4",
+          "path": "videos/pro-evolution-soccer-6-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -14191,10 +14191,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/quakeworld.jpg",
+      "screenshot_path": "videos/quakeworld-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/quakeworld.jpg",
+          "path": "videos/quakeworld-v2.jpg",
           "score": 6,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -14208,11 +14208,11 @@
       "screenshot_score_notes": "Bright castle courtyard with chaingun (same view as NetQuake); clean, no action.",
       "x_handle": "levelsio",
       "author_source": "https://recompiledgames.com/quakeworld-recompiled/",
-      "video_path": "videos/quakeworld.mp4",
+      "video_path": "videos/quakeworld-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/quakeworld.mp4",
+          "path": "videos/quakeworld-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -14398,10 +14398,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/star-fox-adventures.jpg",
+      "screenshot_path": "videos/star-fox-adventures-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/star-fox-adventures.jpg",
+          "path": "videos/star-fox-adventures-v2.jpg",
           "score": 3,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -14418,11 +14418,11 @@
       "remote_likes": 61,
       "likes_source": "github",
       "github_url": "https://github.com/JackPriceBurns/foxhollow",
-      "video_path": "videos/star-fox-adventures.mp4",
+      "video_path": "videos/star-fox-adventures-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/star-fox-adventures.mp4",
+          "path": "videos/star-fox-adventures-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -14456,10 +14456,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/star-wars-jedi-knight-jedi-academy.jpg",
+      "screenshot_path": "videos/star-wars-jedi-knight-jedi-academy-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/star-wars-jedi-knight-jedi-academy.jpg",
+          "path": "videos/star-wars-jedi-knight-jedi-academy-v2.jpg",
           "score": 2.0,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -14474,11 +14474,11 @@
       "x_handle": "lukathedev",
       "github_user": "lklacar",
       "author_source": "https://jk.q3js.com",
-      "video_path": "videos/star-wars-jedi-knight-jedi-academy.mp4",
+      "video_path": "videos/star-wars-jedi-knight-jedi-academy-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/star-wars-jedi-knight-jedi-academy.mp4",
+          "path": "videos/star-wars-jedi-knight-jedi-academy-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -14703,10 +14703,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/the-simpsons-hit-run.jpg",
+      "screenshot_path": "videos/the-simpsons-hit-run-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/the-simpsons-hit-run.jpg",
+          "path": "videos/the-simpsons-hit-run-v2.jpg",
           "score": 6,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -14723,11 +14723,11 @@
       "remote_likes": 1,
       "likes_source": "hn",
       "comment_count": 2,
-      "video_path": "videos/the-simpsons-hit-run.mp4",
+      "video_path": "videos/the-simpsons-hit-run-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/the-simpsons-hit-run.mp4",
+          "path": "videos/the-simpsons-hit-run-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -14753,10 +14753,10 @@
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
       "last_seen": "2026-10-11T00:30:00.000Z",
-      "screenshot_path": "videos/urban-terror-listed-as-unreal-tournament.jpg",
+      "screenshot_path": "videos/urban-terror-listed-as-unreal-tournament-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/urban-terror-listed-as-unreal-tournament.jpg",
+          "path": "videos/urban-terror-listed-as-unreal-tournament-v2.jpg",
           "score": 10,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -14768,11 +14768,11 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Casa map arches view with a text banner across the bottom; nice but static.",
-      "video_path": "videos/urban-terror-listed-as-unreal-tournament.mp4",
+      "video_path": "videos/urban-terror-listed-as-unreal-tournament-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/urban-terror-listed-as-unreal-tournament.mp4",
+          "path": "videos/urban-terror-listed-as-unreal-tournament-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -15616,10 +15616,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/crash-bash-online.jpg",
+      "screenshot_path": "videos/crash-bash-online-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/crash-bash-online.jpg",
+          "path": "videos/crash-bash-online-v2.jpg",
           "score": 10,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -15636,11 +15636,11 @@
       "remote_likes": 415,
       "likes_source": "x",
       "comment_count": 9,
-      "video_path": "videos/crash-bash-online.mp4",
+      "video_path": "videos/crash-bash-online-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/crash-bash-online.mp4",
+          "path": "videos/crash-bash-online-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -15817,10 +15817,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/grand-theft-auto-iii.jpg",
+      "screenshot_path": "videos/grand-theft-auto-iii-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/grand-theft-auto-iii.jpg",
+          "path": "videos/grand-theft-auto-iii-v2.jpg",
           "score": 6,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -15832,11 +15832,11 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Claude with a gun among Liberty City towers; clear character shot.",
-      "video_path": "videos/grand-theft-auto-iii.mp4",
+      "video_path": "videos/grand-theft-auto-iii-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/grand-theft-auto-iii.mp4",
+          "path": "videos/grand-theft-auto-iii-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -15862,10 +15862,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/grand-theft-auto-v.jpg",
+      "screenshot_path": "videos/grand-theft-auto-v-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/grand-theft-auto-v.jpg",
+          "path": "videos/grand-theft-auto-v-v2.jpg",
           "score": 6,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -15877,11 +15877,11 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "GTA Online promo-style flying-DeLorean frame; striking but not representative gameplay.",
-      "video_path": "videos/grand-theft-auto-v.mp4",
+      "video_path": "videos/grand-theft-auto-v-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/grand-theft-auto-v.mp4",
+          "path": "videos/grand-theft-auto-v-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -16080,10 +16080,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/minecraft-1-8-8-eaglercraftx.jpg",
+      "screenshot_path": "videos/minecraft-1-8-8-eaglercraftx-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/minecraft-1-8-8-eaglercraftx.jpg",
+          "path": "videos/minecraft-1-8-8-eaglercraftx-v2.jpg",
           "score": 8,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -16095,11 +16095,11 @@
       ],
       "screenshot_score": 4,
       "screenshot_score_notes": "Minecraft title menu over blurred world; no gameplay.",
-      "video_path": "videos/minecraft-1-8-8-eaglercraftx.mp4",
+      "video_path": "videos/minecraft-1-8-8-eaglercraftx-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/minecraft-1-8-8-eaglercraftx.mp4",
+          "path": "videos/minecraft-1-8-8-eaglercraftx-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -16125,10 +16125,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/nacht-der-untoten.jpg",
+      "screenshot_path": "videos/nacht-der-untoten-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/nacht-der-untoten.jpg",
+          "path": "videos/nacht-der-untoten-v2.jpg",
           "score": 10,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -16140,11 +16140,11 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Landing hero with title text over a dark zombie scene; moody, partly a menu.",
-      "video_path": "videos/nacht-der-untoten.mp4",
+      "video_path": "videos/nacht-der-untoten-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/nacht-der-untoten.mp4",
+          "path": "videos/nacht-der-untoten-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -16170,10 +16170,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/runescape-classic.jpg",
+      "screenshot_path": "videos/runescape-classic-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/runescape-classic.jpg",
+          "path": "videos/runescape-classic-v2.jpg",
           "score": 10,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -16185,11 +16185,11 @@
       ],
       "screenshot_score": 4,
       "screenshot_score_notes": "Website landing page with sign-in buttons over a classic map render.",
-      "video_path": "videos/runescape-classic.mp4",
+      "video_path": "videos/runescape-classic-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/runescape-classic.mp4",
+          "path": "videos/runescape-classic-v2.mp4",
           "source": "youtube"
         }
       ],
@@ -16216,10 +16216,10 @@
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
       "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/super-mario-zombies.jpg",
+      "screenshot_path": "videos/super-mario-zombies-v2.jpg",
       "screenshots": [
         {
-          "path": "videos/super-mario-zombies.jpg",
+          "path": "videos/super-mario-zombies-v2.jpg",
           "score": 10,
           "notes": "Poster frame from original-game gameplay clip."
         },
@@ -16236,11 +16236,11 @@
       "remote_likes": 2211,
       "likes_source": "x",
       "comment_count": 50,
-      "video_path": "videos/super-mario-zombies.mp4",
+      "video_path": "videos/super-mario-zombies-v2.mp4",
       "video_source": "youtube",
       "videos": [
         {
-          "path": "videos/super-mario-zombies.mp4",
+          "path": "videos/super-mario-zombies-v2.mp4",
           "source": "youtube"
         }
       ],
