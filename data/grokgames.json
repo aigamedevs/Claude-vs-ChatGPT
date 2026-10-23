@@ -1522,23 +1522,6 @@
       "likes_source": "x"
     },
     {
-      "id": "somethingbig-world",
-      "title": "SomethingBig World (open NYC)",
-      "description": "Multiplayer open-world browser NYC sandbox with live weather, vehicles, weapons, mini-map, and controller support — continuously improved by Opus 5.5 on somethingbig.ai/world.",
-      "play_url": "https://somethingbig.ai/world/",
-      "source_url": "https://x.com/mattshumer_/status/2103667211395268863",
-      "found_via": "X / AICrier / aicookd coverage of Matt Shumer's Opus 5.5 NYC world; play URL somethingbig.ai/world",
-      "found_via_network": "x",
-      "screenshot_path": "screenshots/58-somethingbig-world.jpg",
-      "screenshot_score": 8.4,
-      "screenshot_score_notes": "Clear third-person city view with HUD, mini-map (Amsterdam Ave / W 68th), NPCs with umbrellas, and traffic — reads as a real open-world still.",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-30T05:52:30.000Z",
-      "made_with": "opus-5.5",
-      "remote_likes": 184,
-      "likes_source": "x"
-    },
-    {
       "id": "cozy-cove",
       "title": "Cozy Cove",
       "description": "Cozy pixel fishing RPG in a seaside village: bamboo rod, coins, Old Finn at the docks. Built over months with prior Claude models plus Opus 5.5 on Tesana.",
@@ -42893,9 +42876,9 @@
     }
   ],
   "totals": {
-    "games": 593,
+    "games": 592,
     "by_made_with": {
-      "opus-5.5": 306,
+      "opus-5.5": 305,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 6,
