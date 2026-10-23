@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:00:00.000Z",
+  "updated_at": "2026-10-23T07:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -1060,13 +1060,39 @@
       "found_via": "MagicCreator Claude Opus 5.5 demos gallery (live link)",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/36-sakura-river-valley.jpg",
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "Cinematic third-person boat view with sakura banks, misty water, pagoda, and soft golden-hour lighting that instantly sells the journey.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: A small boat drifting down a misty river valley lined with pink sakura trees and hills; soft and pretty but the view barely changes. Rated from 5 screenshots.",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/36-sakura-river-valley.jpg",
+          "score": 6,
+          "notes": "multi-frame: A small boat drifting down a misty river valley lined with pink sakura trees and hills; soft and pretty but the view barely changes. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/sakura-river-valley-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/sakura-river-valley-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/sakura-river-valley-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/sakura-river-valley-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "goodgame",
@@ -1780,15 +1806,41 @@
       "found_via": "GitHub search + AgentsLoop seed; README Made with Claude Opus 5.5",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/70-casa-de-gemas.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Cohesive watercolor Mediterranean house with gem HUD (0/8), interactive props, and pastel paper texture — clear cozy gameplay still.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Hand-drawn Spanish-style white house with a red tile roof, balcony, plants and small gem decorations on a cream page; charming illustration but the scene hardly changes. Rated from 5 screenshots.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-30T01:56:38.000Z",
       "made_with": "opus-5.5",
       "remote_likes": 3,
       "likes_source": "github_stars",
       "likes_source_url": "https://github.com/deepujain/casadegema",
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/70-casa-de-gemas.jpg",
+          "score": 5,
+          "notes": "multi-frame: Hand-drawn Spanish-style white house with a red tile roof, balcony, plants and small gem decorations on a cream page; charming illustration but the scene hardly changes. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/casa-de-gemas-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/casa-de-gemas-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/casa-de-gemas-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/casa-de-gemas-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "volley-rally",
@@ -2271,12 +2323,38 @@
       "found_via_network": "catalog",
       "made_with": "astra",
       "screenshot_path": "screenshots/98-orbital-garden.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Luminous particle flower with bilingual lab UI and form picker — elegant interactive-art still.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "multi-frame: Orbital Garden title page: a glowing teal flower made of orbiting strands on a dark background with elegant serif text; pretty but the frames are almost identical. Rated from 5 screenshots.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "remote_likes": 289,
-      "likes_source": "github"
+      "likes_source": "github",
+      "screenshots": [
+        {
+          "path": "screenshots/98-orbital-garden.jpg",
+          "score": 4,
+          "notes": "multi-frame: Orbital Garden title page: a glowing teal flower made of orbiting strands on a dark background with elegant serif text; pretty but the frames are almost identical. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/orbital-garden-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/orbital-garden-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/orbital-garden-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/orbital-garden-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "arcane-orb-reforged",
@@ -2289,11 +2367,37 @@
       "made_with": "astra",
       "engine": "Three.js",
       "screenshot_path": "screenshots/100-arcane-orb-reforged.jpg",
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "Dark fantasy title modal with clear Enter the sanctum CTA; atmospheric but light on tower gameplay.",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Arcane Orb title card, then a torch-lit green dungeon chamber with a glowing orb, an event log and spell panels around it; atmospheric, UI-heavy. Rated from 5 screenshots.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/100-arcane-orb-reforged.jpg",
+          "score": 6,
+          "notes": "multi-frame: Arcane Orb title card, then a torch-lit green dungeon chamber with a glowing orb, an event log and spell panels around it; atmospheric, UI-heavy. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/arcane-orb-reforged-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/arcane-orb-reforged-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/arcane-orb-reforged-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/arcane-orb-reforged-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "convergence-rts",
@@ -2781,14 +2885,40 @@
       "found_via": "X post by @chrisjdimarco listing live Astra/ChatGPT Sites games",
       "found_via_network": "x",
       "screenshot_path": "screenshots/114-mini-moto.jpg",
-      "screenshot_score": 8,
-      "screenshot_score_notes": "Polished dark UI and isometric dirt track, but captured during paddock loading overlay.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Mini Moto park overview: a small winding race track on a dark editor grid with a lap counter and track tools in a side panel; clean but tiny and static. Rated from 5 screenshots.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "astra",
       "engine": "ChatGPT",
       "remote_likes": 6,
-      "likes_source": "x"
+      "likes_source": "x",
+      "screenshots": [
+        {
+          "path": "screenshots/114-mini-moto.jpg",
+          "score": 5,
+          "notes": "multi-frame: Mini Moto park overview: a small winding race track on a dark editor grid with a lap counter and track tools in a side panel; clean but tiny and static. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/mini-moto-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mini-moto-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mini-moto-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mini-moto-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "skip-a-stone",
@@ -8058,8 +8188,32 @@
       "iframe": false,
       "iframe_block_reason": "xfo-deny",
       "tags": [
-        "agentgames"
-      ]
+        "agentgames",
+        "screenshots"
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/veilfall-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Dark top-down dungeon room with a glowing figure on a lit pedestal, ability bar and inventory slots, shown inside the agentgames.dev player; moody but small in the frame. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/veilfall-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/veilfall-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/veilfall-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_path": "screenshots/veilfall-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Dark top-down dungeon room with a glowing figure on a lit pedestal, ability bar and inventory slots, shown inside the agentgames.dev player; moody but small in the frame. Rated from 4 screenshots."
     },
     {
       "id": "dash-dinner",
@@ -10180,12 +10334,28 @@
       "screenshots": [
         {
           "path": "screenshots/298-rise-and-raid.jpg",
-          "score": 6,
-          "notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen."
+          "score": 5,
+          "notes": "multi-frame: Painted Rise & Raid title art over a fantasy valley, then the \"Found your village\" setup panel with banner and colour pickers over a green map; nice art, only setup screens captured. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/rise-and-raid-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rise-and-raid-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rise-and-raid-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rise-and-raid-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Vivid painted key art of a village and king with Sign in / Play as guest buttons is attractive, but it is a login screen.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Painted Rise & Raid title art over a fantasy valley, then the \"Found your village\" setup panel with banner and colour pickers over a green map; nice art, only setup screens captured. Rated from 5 screenshots.",
       "likes_source_url": "https://x.com/i/status/2107531682475565085",
       "comment_count": 1,
       "likes_checked": "2026-10-12",
@@ -10197,6 +10367,9 @@
           "url": "https://x.com/GamePixDev/status/2107764483942916115",
           "created_at": "2026-10-07T09:26:27Z"
         }
+      ],
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -12396,12 +12569,31 @@
       "screenshots": [
         {
           "path": "screenshots/381-kingbots.jpg",
-          "score": 6,
-          "notes": "Bold castle/bot OG art; punchy key art."
+          "score": 4,
+          "notes": "multi-frame: A pink mech robot standing in a dark, grassy night field under a spotlight with a Deploy button; moody but sparse. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/kingbots-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/kingbots-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/kingbots-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/kingbots-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Bold castle/bot OG art; punchy key art."
+      "screenshot_score": 4,
+      "screenshot_score_notes": "multi-frame: A pink mech robot standing in a dark, grassy night field under a spotlight with a Deploy button; moody but sparse. Rated from 5 screenshots.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "deadlight",
@@ -12428,13 +12620,30 @@
         {
           "path": "screenshots/382-deadlight.jpg",
           "score": 5,
-          "notes": "Imagine Studio playframe of a zombie-inspired 3D scene; dark."
+          "notes": "multi-frame: Deadlight horror FPS: a red DEADLIGHT title screen, then a dusky street with a pistol in hand and an ammo HUD; moody, very dark. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/deadlight-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/deadlight-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/deadlight-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/deadlight-4.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Imagine Studio playframe of a zombie-inspired 3D scene; dark.",
+      "screenshot_score_notes": "multi-frame: Deadlight horror FPS: a red DEADLIGHT title screen, then a dusky street with a pistol in hand and an ammo HUD; moody, very dark. Rated from 5 screenshots.",
       "tags": [
-        "imaginestudio"
+        "imaginestudio",
+        "screenshots"
       ]
     },
     {
@@ -42280,16 +42489,417 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-20T22:37:13Z"
+    },
+    {
+      "id": "hypernova",
+      "title": "Hypernova",
+      "description": "Neon arcade space shooter that its creator asked Claude Opus 5.5 to make \"the maximum dopamine game\": blast swarms of glowing enemies through dense particle storms and pick an evolution card at each level-up (upgrades like Death Ray) as the screen fills with effects. Free in the browser.",
+      "play_url": "https://0xdiid.github.io/hypernova/",
+      "found_via": "X @0xdiid \"I told Opus 5.5 to make the maximum dopamine game\"",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/hypernova.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/hypernova.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/hypernova.jpg",
+      "screenshots": [
+        {
+          "path": "videos/hypernova.jpg",
+          "score": 7,
+          "notes": "multi-frame: Neon particle-space shooter: a small ship in clouds of glowing bullets and explosions, evolution upgrade cards such as Death Ray between waves, score and level counters; dense, flashy dopamine visuals. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Neon particle-space shooter: a small ship in clouds of glowing bullets and explosions, evolution upgrade cards such as Death Ray between waves, score and level counters; dense, flashy dopamine visuals. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "0xdiid",
+      "author": "0xdiid",
+      "author_source": "https://x.com/0xdiid",
+      "source_url": "https://x.com/0xdiid/status/2113366266593656833",
+      "likes_source_url": "https://x.com/0xdiid/status/2113366266593656833",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1943013262045442048/4HOwwKuG_normal.jpg",
+      "remote_likes": 12,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "minimizer_art",
+          "text": "@0xdiid Can confirm it was pretty fun, and I think I found a cheat code.. I never hit any key except '1' when I had to make a choice. Got up to level 21",
+          "likes": 1,
+          "url": "https://x.com/minimizer_art/status/2113389103496794416",
+          "created_at": "2026-10-22T21:56:41Z"
+        },
+        {
+          "author": "bushibuilds",
+          "text": "@0xdiid Dang claude cooked",
+          "likes": 0,
+          "url": "https://x.com/bushibuilds/status/2113421322193973345",
+          "created_at": "2026-10-23T00:04:43Z"
+        },
+        {
+          "author": "convobrianhere",
+          "text": "@0xdiid @bushibuilds Looks fun",
+          "likes": 0,
+          "url": "https://x.com/convobrianhere/status/2113449838457332186",
+          "created_at": "2026-10-23T01:58:02Z"
+        }
+      ],
+      "first_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-23T07:00:00.000Z",
+      "published_at": "2026-10-22T20:25:57.000Z"
+    },
+    {
+      "id": "paozu-runner",
+      "title": "Kid Goku: Beyond the Clouds",
+      "description": "Dragon Ball fan runner made as a tribute to the first Dragon Ball episode at Mount Paozu: ride the Flying Nimbus as Kid Goku through canyons and over a river toward Grandpa Gohan's house. Created with Claude Opus 5.5 on the Crayon platform with three.js.",
+      "play_url": "https://app.usecrayon.ai/play/3a9001a5-28fa-4ae0-ba5c-3b068d1912a4",
+      "found_via": "X @aniketjart Dragon Ball Mount Paozu fan runner built with Opus 5.5 on @usecrayon",
+      "made_with": "opus-5.5",
+      "engine": "Crayon",
+      "tags": [
+        "crayon"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
+      "category": "runner",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/paozu-runner.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/paozu-runner.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/paozu-runner.jpg",
+      "screenshots": [
+        {
+          "path": "videos/paozu-runner.jpg",
+          "score": 8,
+          "notes": "multi-frame: Colourful low-poly runner: Kid Goku on the yellow Nimbus cloud flying through orange canyons and along a blue river with pickups and obstacles; bright, lively and readable. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: Colourful low-poly runner: Kid Goku on the yellow Nimbus cloud flying through orange canyons and along a blue river with pickups and obstacles; bright, lively and readable. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "aniketjart",
+      "author": "aniketjart",
+      "author_source": "https://x.com/aniketjart",
+      "source_url": "https://x.com/aniketjart/status/2113427367477878971",
+      "likes_source_url": "https://x.com/aniketjart/status/2113427367477878971",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2035854779373715456/2loYcV16_normal.jpg",
+      "remote_likes": 16,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "boardyai",
+          "text": "@aniketjart @usecrayon ending at grandpa's house is just unfair",
+          "likes": 0,
+          "url": "https://x.com/boardyai/status/2113427642439651360",
+          "created_at": "2026-10-23T00:29:50Z"
+        },
+        {
+          "author": "TusharXo",
+          "text": "@aniketjart @usecrayon wow",
+          "likes": 2,
+          "url": "https://x.com/TusharXo/status/2113429892893422055",
+          "created_at": "2026-10-23T00:38:46Z"
+        },
+        {
+          "author": "aniketjart",
+          "text": "@TusharXo @usecrayon i spend unhealthy amount of time cooking on project when it comes to anything Dragon ball 👨‍🍳",
+          "likes": 2,
+          "url": "https://x.com/aniketjart/status/2113434373085434251",
+          "created_at": "2026-10-23T00:56:34Z"
+        }
+      ],
+      "first_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-23T07:00:00.000Z",
+      "published_at": "2026-10-23T00:28:44.000Z"
+    },
+    {
+      "id": "brag",
+      "title": "Brag",
+      "description": "Multiplayer quiz game to play with friends in the browser: set up a profile, create a game, gather everyone in a lobby and answer questions together. Designed in Figma and built with Codex.",
+      "play_url": "https://brag-play.onrender.com/",
+      "found_via": "X @S_Rufuss quiz game designed in Figma, built in Codex",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "quiz",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/brag.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/brag.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/brag.jpg",
+      "screenshots": [
+        {
+          "path": "videos/brag.jpg",
+          "score": 4,
+          "notes": "multi-frame: Clean flat UI screens: profile setup, create-game form, a lobby and multiple-choice question cards; tidy but plain app screens with no game world. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "multi-frame: Clean flat UI screens: profile setup, create-game form, a lobby and multiple-choice question cards; tidy but plain app screens with no game world. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "S_Rufuss",
+      "author": "S_Rufuss",
+      "author_source": "https://x.com/S_Rufuss",
+      "source_url": "https://x.com/S_Rufuss/status/2113181376975618380",
+      "likes_source_url": "https://x.com/S_Rufuss/status/2113181376975618380",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2111721301526171649/UXhUJElu_normal.jpg",
+      "remote_likes": 10,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "ConnorEllison",
+          "text": "@S_Rufuss A quiz built for playing with friends, designed in Figma before Codex built it. Do friends race to answer the same question, or take turns answering?",
+          "likes": 0,
+          "url": "https://x.com/ConnorEllison/status/2113199800841838897",
+          "created_at": "2026-10-22T09:24:28Z"
+        }
+      ],
+      "first_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-23T07:00:00.000Z",
+      "published_at": "2026-10-22T08:11:15.000Z"
+    },
+    {
+      "id": "ictus",
+      "title": "Ictus",
+      "description": "Rhythm-timed driving game where every car is choreographed to just miss you if you stay on the line and keep in time; drift off it or get ahead or behind and something hits you. Built with Claude Code, mostly in Unity; free in the browser on keyboard or phone.",
+      "play_url": "https://rom838.itch.io/ictus",
+      "found_via": "r/aigamedev choreographed-traffic driving game built with Claude Code in Unity (u/CRHLR)",
+      "made_with": "unknown",
+      "engine": "Unity",
+      "tags": [
+        "itchio"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/ictus.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/ictus.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/ictus.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ictus.jpg",
+          "score": 6.5,
+          "notes": "multi-frame: Low-poly desert highway with palm trees and streams of cars weaving past the player, including an overhead replay of many attempts at once; clean and clear, simple art. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Low-poly desert highway with palm trees and streams of cars weaving past the player, including an overhead replay of many attempts at once; clean and clear, simple art. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "CRHLR",
+      "author_source": "https://www.reddit.com/user/CRHLR/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/",
+      "likes_source": "reddit",
+      "remote_likes": 57,
+      "comment_count": 42,
+      "comments": [
+        {
+          "author": "Ubernaga",
+          "text": "Honestly, you’re onto something here. Even though you told us “just stay on the line”, watching still gave me a little anxiousness. Lol. Nice job. I think this could be a great game, especially if you add in a bunch of different levels where you operate as different vehicles. I think a big one could",
+          "likes": 11,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "Specialist_Ad3426",
+          "text": "I caught up to the idea shortly into the video, then later i noticed why! (the line).\nLooks pretty fun to try not get startled 👍🔥",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "JDad67",
+          "text": "Clever. But I’m not sure I’d get the idea just from the video as is. ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "Individual_Guest_323",
+          "text": "Pretty good idea, you should launch fast before someone do it.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "Carter5on",
+          "text": "Nice idea!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "Heavenly-alligator",
+          "text": "Brilliant idea buddy! ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "Inevitable-4522",
+          "text": "Anxiety: The Game",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        },
+        {
+          "author": "TheMrGecko",
+          "text": "I like it, like the driving game equivalent of the buzz wire game you play at fairs. the steering comes across clear, maybe too clear, fainter tire marks on the ground could be nicer? But im not sure how you would show the speed in that case if you were behind of ahead. \n\nAnyway.. im going to keep p",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xchxeq/"
+        }
+      ],
+      "first_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-23T07:00:00.000Z",
+      "published_at": "2026-10-22T13:00:58Z"
+    },
+    {
+      "id": "breakable-js",
+      "title": "Breakable.js",
+      "description": "Real-time destruction demo for the open-source Breakable.js library (Three.js/WebGPU): six worlds to blow apart with GPU physics, buildings that collapse when their supports go, destructible cars and terrain. Built with Claude Code (Opus), which also wrote 240 unit tests and the asset pipeline. Needs WebGPU, so desktop Chrome or Edge.",
+      "play_url": "https://kchernev.github.io/breakable.js/",
+      "found_via": "r/ClaudeAI city destruction demo built with Claude Code (Opus) (u/smith2008; repo github.com/kchernev/breakable.js)",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "sandbox",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/breakable-js.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/breakable-js.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/breakable-js.jpg",
+      "screenshots": [
+        {
+          "path": "videos/breakable-js.jpg",
+          "score": 8,
+          "notes": "multi-frame: First-person destruction: brick buildings crumbling under rocket blasts, flying debris, smoke and wrecked cars across several city scenes; impressive physics and detail. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: First-person destruction: brick buildings crumbling under rocket blasts, flying debris, smoke and wrecked cars across several city scenes; impressive physics and detail. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "smith2008",
+      "author_source": "https://www.reddit.com/user/smith2008/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xclevr/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xclevr/",
+      "likes_source": "reddit",
+      "remote_likes": 16,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "obese_coder",
+          "text": "Now add some enemies, would be cool finding creative ways to kill enemies with stuff falling on them lol.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xclevr/"
+        },
+        {
+          "author": "AmcillaSB",
+          "text": "Hmm. Need a Gravity Gun for chucking objects around. Hulk Smash mode.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xclevr/"
+        },
+        {
+          "author": "fuzzypetiolesguy",
+          "text": "0:50 is this cyberpunk 2177",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xclevr/"
+        }
+      ],
+      "first_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-23T07:00:00.000Z",
+      "published_at": "2026-10-22T15:17:52Z"
+    },
+    {
+      "id": "sphere-of-doom",
+      "title": "The Sphere of Doom",
+      "description": "Pixel-art bullet hell ARPG in the browser: four biomes, enemy variety, leveling, endless mode, randomly generated bosses and randomly rolled items, all in a 479 KB HTML5 game. Developed in Claude.ai with Claude Opus 5.5 (extra thinking) from a five-year-old design document.",
+      "play_url": "https://anyadahalor.itch.io/the-sphere-of-doom",
+      "found_via": "r/aigamerdevs bullet hell ARPG developed with Claude Opus 5.5 (u/koleraebola)",
+      "made_with": "opus-5.5",
+      "tags": [
+        "itchio"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "bullet-hell",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/sphere-of-doom.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/sphere-of-doom.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/sphere-of-doom.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sphere-of-doom.jpg",
+          "score": 4.5,
+          "notes": "multi-frame: Dark top-down arena with a tiny hero, swarms of small enemies and bullet patterns, a timer and orb counter; atmospheric but the sprites are very small. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "multi-frame: Dark top-down arena with a tiny hero, swarms of small enemies and bullet patterns, a timer and orb counter; atmospheric but the sprites are very small. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "koleraebola",
+      "author_source": "https://www.reddit.com/user/koleraebola/",
+      "source_url": "https://www.reddit.com/r/aigamerdevs/comments/1xcg4zy/",
+      "likes_source_url": "https://www.reddit.com/r/aigamerdevs/comments/1xcg4zy/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-23T07:00:00.000Z",
+      "published_at": "2026-10-22T11:36:31Z"
     }
   ],
   "totals": {
-    "games": 587,
+    "games": 593,
     "by_made_with": {
-      "opus-5.5": 303,
+      "opus-5.5": 306,
       "astra": 67,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 193,
+      "unknown": 196,
       "gemini-4-argon": 5
     }
   }
