@@ -22611,18 +22611,18 @@
           "created_at": "2026-10-13T22:41:58Z"
         }
       ],
-      "video_path": "videos/hearthworks-7x.mp4",
+      "video_path": "videos/hearthworks-16p32x.mp4",
       "video_source": "playwright",
       "videos": [
         {
-          "path": "videos/hearthworks-7x.mp4",
+          "path": "videos/hearthworks-16p32x.mp4",
           "source": "playwright"
         }
       ],
-      "screenshot_path": "videos/hearthworks-7x.jpg",
+      "screenshot_path": "videos/hearthworks-16p32x.jpg",
       "screenshots": [
         {
-          "path": "videos/hearthworks-7x.jpg",
+          "path": "videos/hearthworks-16p32x.jpg",
           "score": 7,
           "notes": "multi-frame: Top-down 3D survivor: the HEARTHWORKS menu with a robed wizard on a glowing summoning circle, then the arena of grey flagstones with a purple rune circle, ravens and shadow creatures closing in, magic bolts flying, HP/XP bars, run timer and kill count and a four-spell bar; clear and punchy, units are small. Rated from 6 frames sampled across the self-recorded 7x clip plus the poster."
         }
@@ -22640,7 +22640,7 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-22 (4x cap lifted for this game with Igor's OK): headless Playwright recording measured ~5.1-5.6 unique fps during play (mpdecimate on the raw webm) and the in-game run timer advanced ~8 s over ~55 s of recording (~0.15x speed); re-encoded from the raw webm sped up 7x (setpts, 30 fps output) from the menu through gameplay, 9.3 s, no audio. Previous 4x version still played at about half speed."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 1.84 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 16.32x (was 7x), output 23.5 unique fps at 30 fps, 4.0 s, no audio. Clip is under 8 s because the whole usable recording (65.3 s of raw) only holds 120 unique frames. Earlier: fps fix 2026-10-22 (4x cap lifted for this game with Igor's OK): headless Playwright recording measured ~5.1-5.6 unique fps during play (mpdecimate on the raw webm) and the in-game run timer advanced ~8 s over ~55 s of recording (~0.15x speed); re-encoded from the raw webm sped up 7x (setpts, 30 fps output) from the menu through gameplay, 9.3 s, no audio. Previous 4x version still played at about half speed."
     },
     {
       "id": "penguinsmack",
@@ -22952,18 +22952,18 @@
           "created_at": "2026-10-13T06:13:14Z"
         }
       ],
-      "video_path": "videos/tank-vs-city.mp4",
+      "video_path": "videos/tank-vs-city-13p22x.mp4",
       "video_source": "playwright",
       "videos": [
         {
-          "path": "videos/tank-vs-city.mp4",
+          "path": "videos/tank-vs-city-13p22x.mp4",
           "source": "playwright"
         }
       ],
-      "screenshot_path": "videos/tank-vs-city.jpg",
+      "screenshot_path": "videos/tank-vs-city-13p22x.jpg",
       "screenshots": [
         {
-          "path": "videos/tank-vs-city.jpg",
+          "path": "videos/tank-vs-city-13p22x.jpg",
           "score": 5,
           "notes": "Rated from 5 frames across the gameplay recording plus poster: chunky tank rolling through a destructible city; simple and cathartic. Multi-frame rating."
         }
@@ -22981,7 +22981,7 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-21: headless recording measured ~6.8 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 16.7s, no audio"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 2.27 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 13.22x (was 4x), output 24.1 unique fps at 30 fps, 5.1 s, no audio. Clip is under 8 s because the whole usable recording (67 s of raw) only holds 152 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~6.8 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 16.7s, no audio"
     },
     {
       "id": "handoff-atc",
@@ -24909,18 +24909,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/velscour-v2.mp4",
+      "video_path": "videos/velscour-6p13x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/velscour-v2.mp4",
+          "path": "videos/velscour-6p13x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/velscour-v2.jpg",
+      "screenshot_path": "videos/velscour-6p13x.jpg",
       "screenshots": [
         {
-          "path": "videos/velscour-v2.jpg",
+          "path": "videos/velscour-6p13x.jpg",
           "score": 5,
           "notes": "Recorded clip only reached the \"click to awaken\" screen and the main menu (fiery logo, glowing eyes); no gameplay frames captured, so rated conservatively. Rated from 5 frames across the clip plus the poster."
         }
@@ -25081,7 +25081,8 @@
       "last_seen": "2026-10-15T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.13x (was 1x), output 20.2 unique fps at 30 fps, 5.2 s, no audio. Clip is under 8 s because the whole usable recording (32 s of raw) only holds 197 unique frames."
     },
     {
       "id": "toke",
@@ -28912,18 +28913,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/arrowshift.mp4",
+      "video_path": "videos/arrowshift-1p74x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/arrowshift.mp4",
+          "path": "videos/arrowshift-1p74x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/arrowshift.jpg",
+      "screenshot_path": "videos/arrowshift-1p74x.jpg",
       "screenshots": [
         {
-          "path": "videos/arrowshift.jpg",
+          "path": "videos/arrowshift-1p74x.jpg",
           "score": 4,
           "notes": "Recorded clip: stage-select menu, then a purple arrow-maze cube on a pastel background inside the Playgama frame; simple. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -28960,7 +28961,8 @@
       "tags": [
         "rec",
         "playgama"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 17.19 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.74x (was 1x), output 22.3 unique fps at 30 fps, 32.0 s, no audio."
     },
     {
       "id": "peekle",
@@ -30953,18 +30955,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/way-of-the-river.mp4",
+      "video_path": "videos/way-of-the-river-1p69x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/way-of-the-river.mp4",
+          "path": "videos/way-of-the-river-1p69x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/way-of-the-river.jpg",
+      "screenshot_path": "videos/way-of-the-river-1p69x.jpg",
       "screenshots": [
         {
-          "path": "videos/way-of-the-river.jpg",
+          "path": "videos/way-of-the-river-1p69x.jpg",
           "score": 6,
           "notes": "Painted moonlit shrine courtyard with cherry blossoms and lanterns, two samurai trading strikes under health bars and touch buttons; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -30985,7 +30987,8 @@
       "published_at": "2026-10-15T12:05:59Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 17.72 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.69x (was 1x), output 22.6 unique fps at 30 fps, 31.1 s, no audio."
     },
     {
       "id": "grid-surf-io",
@@ -35572,18 +35575,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/pocket-genesis.mp4",
+      "video_path": "videos/pocket-genesis-3p53x.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/pocket-genesis.mp4",
+          "path": "videos/pocket-genesis-3p53x.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/pocket-genesis.jpg",
+      "screenshot_path": "videos/pocket-genesis-3p53x.jpg",
       "screenshots": [
         {
-          "path": "videos/pocket-genesis.jpg",
+          "path": "videos/pocket-genesis-3p53x.jpg",
           "score": 5,
           "notes": "Colourful Pocket Genesis title art, then a WorldBox-style top-down planet map surrounded by a dense toolbar of god powers; busy UI, small world view. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -35745,7 +35748,8 @@
       "published_at": "2026-10-19T05:52:47Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 8.51 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 3.53x (was 1x), output 20.3 unique fps at 30 fps, 12.9 s, no audio."
     },
     {
       "id": "georgluif-birds",
@@ -36467,18 +36471,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/beastball.mp4",
+      "video_path": "videos/beastball-11p42x.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/beastball.mp4",
+          "path": "videos/beastball-11p42x.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/beastball.jpg",
+      "screenshot_path": "videos/beastball-11p42x.jpg",
       "screenshots": [
         {
-          "path": "videos/beastball.jpg",
+          "path": "videos/beastball-11p42x.jpg",
           "score": 4,
           "notes": "Only the beast deck draft screen with stat cards on a dark background; no match footage in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -36522,7 +36526,7 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-21: headless recording measured ~6.4 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 10.8s, no audio"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 2.63 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 11.42x (was 4x), output 22.1 unique fps at 30 fps, 3.8 s, no audio. Clip is under 8 s because the whole usable recording (43.4 s of raw) only holds 114 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~6.4 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 10.8s, no audio"
     },
     {
       "id": "chateau-de-sable",
@@ -36787,18 +36791,18 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/hypergrip.mp4",
+      "video_path": "videos/hypergrip-2p34x.mp4",
       "video_source": "reddit",
       "videos": [
         {
-          "path": "videos/hypergrip.mp4",
+          "path": "videos/hypergrip-2p34x.mp4",
           "source": "reddit"
         }
       ],
-      "screenshot_path": "videos/hypergrip.jpg",
+      "screenshot_path": "videos/hypergrip-2p34x.jpg",
       "screenshots": [
         {
-          "path": "videos/hypergrip.jpg",
+          "path": "videos/hypergrip-2p34x.jpg",
           "score": 6,
           "notes": "Synthwave pixel highway with neon skyline, a thruster car dodging traffic, a G-force HUD and a Hull Breach high-score screen; punchy colours. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -36841,7 +36845,8 @@
       "published_at": "2026-10-19T19:17:34Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 12.79 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 2.34x (was 1x), output 22.8 unique fps at 30 fps, 19.3 s, no audio."
     },
     {
       "id": "klarbase",
@@ -37481,18 +37486,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/nfsu2-web-v2.mp4",
+      "video_path": "videos/nfsu2-web-1p88x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/nfsu2-web-v2.mp4",
+          "path": "videos/nfsu2-web-1p88x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/nfsu2-web-v2.jpg",
+      "screenshot_path": "videos/nfsu2-web-1p88x.jpg",
       "screenshots": [
         {
-          "path": "videos/nfsu2-web-v2.jpg",
+          "path": "videos/nfsu2-web-1p88x.jpg",
           "score": 4,
           "notes": "Real footage rendered by the browser port itself (WebGPU): NFSU2's intro cinematics - neon-lit Bayview streets, the Mitsubishi Lancer drifting past red chevron barriers, a car meet with the cover model and the Underground 2 logo. Authentic game visuals, but it is the intro movie rather than driving. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
@@ -37652,7 +37657,7 @@
       "first_seen": "2026-10-21T02:30:00.000Z",
       "last_seen": "2026-10-21T14:12:56.000Z",
       "published_at": "2026-10-19T13:48:21Z",
-      "video_note": "Re-recorded 2026-10-21 with a WebGPU-enabled headless browser: the game now starts and plays its intro cinematics; the previous clip only showed the start page."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 15.95 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.88x (was 1x), output 22.8 unique fps at 30 fps, 52.1 s, no audio. Earlier: Re-recorded 2026-10-21 with a WebGPU-enabled headless browser: the game now starts and plays its intro cinematics; the previous clip only showed the start page."
     },
     {
       "id": "thoosie",
@@ -38433,18 +38438,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/rockman-dash-5-islands.mp4",
+      "video_path": "videos/rockman-dash-5-islands-5p65x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/rockman-dash-5-islands.mp4",
+          "path": "videos/rockman-dash-5-islands-5p65x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/rockman-dash-5-islands.jpg",
+      "screenshot_path": "videos/rockman-dash-5-islands-5p65x.jpg",
       "screenshots": [
         {
-          "path": "videos/rockman-dash-5-islands.jpg",
+          "path": "videos/rockman-dash-5-islands-5p65x.jpg",
           "score": 4,
           "notes": "Japanese Rockman DASH title screen, then the island map menu; faithful but no action in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -38478,7 +38483,7 @@
       "published_at": "2026-10-19T20:16:39Z",
       "screenshot_score": 4,
       "screenshot_score_notes": "Japanese Rockman DASH title screen, then the island map menu; faithful but no action in the clip. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
-      "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 8.5s, no audio; under 10s after speed-up, kept anyway"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 5.31 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.65x (was 4x), output 21.8 unique fps at 30 fps, 6.0 s, no audio. Clip is under 8 s because the whole usable recording (33.9 s of raw) only holds 180 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 8.5s, no audio; under 10s after speed-up, kept anyway"
     },
     {
       "id": "roomio",
@@ -39334,18 +39339,18 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/unrest.mp4",
+      "video_path": "videos/unrest-5p77x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/unrest.mp4",
+          "path": "videos/unrest-5p77x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/unrest.jpg",
+      "screenshot_path": "videos/unrest-5p77x.jpg",
       "screenshots": [
         {
-          "path": "videos/unrest.jpg",
+          "path": "videos/unrest-5p77x.jpg",
           "score": 4,
           "notes": "UNREST title card, then a dim top-down room with an inventory bar and objective text; dark and sparse. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
@@ -39368,7 +39373,7 @@
         "rec",
         "itchio"
       ],
-      "video_note": "fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.07 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.77x (was 2.52x), output 20.6 unique fps at 30 fps, 6.6 s, no audio. Clip is under 8 s because the whole usable recording (38.2 s of raw) only holds 232 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio"
     },
     {
       "id": "jev-cards",
@@ -39583,18 +39588,18 @@
       "requires_own_files": false,
       "iframe": false,
       "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
-      "video_path": "videos/nolf-web.mp4",
+      "video_path": "videos/nolf-web-8p93x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/nolf-web.mp4",
+          "path": "videos/nolf-web-8p93x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/nolf-web.jpg",
+      "screenshot_path": "videos/nolf-web-8p93x.jpg",
       "screenshots": [
         {
-          "path": "videos/nolf-web.jpg",
+          "path": "videos/nolf-web-8p93x.jpg",
           "score": 7,
           "notes": "Real in-engine footage from Misfortune in Morocco part 1: Cate Archer at a window over a sunlit Moroccan courtyard, a diplomat walking past palms and arches, 60s-spy styling and warm textures. Clear and recognisable, slightly soft 2000-era geometry. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
@@ -39602,7 +39607,8 @@
       "screenshot_score": 7,
       "screenshot_score_notes": "Real in-engine footage from Misfortune in Morocco part 1: Cate Archer at a window over a sunlit Moroccan courtyard, a diplomat walking past palms and arches, 60s-spy styling and warm textures. Clear and recognisable, slightly soft 2000-era geometry. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "first_seen": "2026-10-21T13:56:29.000Z",
-      "last_seen": "2026-10-21T13:56:29.000Z"
+      "last_seen": "2026-10-21T13:56:29.000Z",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.36 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 8.93x (was 1x), output 23.5 unique fps at 30 fps, 22.7 s, no audio."
     },
     {
       "id": "tf2-web",
@@ -39625,18 +39631,18 @@
       "browser_playable": true,
       "requires_own_files": false,
       "iframe": true,
-      "video_path": "videos/tf2-web.mp4",
+      "video_path": "videos/tf2-web-9p49x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/tf2-web.mp4",
+          "path": "videos/tf2-web-9p49x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/tf2-web.jpg",
+      "screenshot_path": "videos/tf2-web-9p49x.jpg",
       "screenshots": [
         {
-          "path": "videos/tf2-web.jpg",
+          "path": "videos/tf2-web-9p49x.jpg",
           "score": 6,
           "notes": "Real gameplay as Scout on a bot server: lantern-lit wooden mine tunnel with rails, a RED Heavy and BLU players trading fire, scattergun in hand, TF2 HUD and objective callout boxes. Authentic look, but the scene is dark and the hint pop-ups cover part of the frame. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
@@ -39644,7 +39650,8 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Real gameplay as Scout on a bot server: lantern-lit wooden mine tunnel with rails, a RED Heavy and BLU players trading fire, scattergun in hand, TF2 HUD and objective callout boxes. Authentic look, but the scene is dark and the hint pop-ups cover part of the frame. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "first_seen": "2026-10-21T13:56:29.000Z",
-      "last_seen": "2026-10-21T13:56:29.000Z"
+      "last_seen": "2026-10-21T13:56:29.000Z",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 9.49x (was 1x), output 25.5 unique fps at 30 fps, 10.5 s, no audio."
     },
     {
       "id": "portal-web",
@@ -39673,18 +39680,18 @@
       "requires_own_files": false,
       "iframe": false,
       "iframe_block_reason": "coep-require-corp-crossOriginIsolated",
-      "video_path": "videos/portal-web.mp4",
+      "video_path": "videos/portal-web-6p53x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/portal-web.mp4",
+          "path": "videos/portal-web-6p53x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/portal-web.jpg",
+      "screenshot_path": "videos/portal-web-6p53x.jpg",
       "screenshots": [
         {
-          "path": "videos/portal-web.jpg",
+          "path": "videos/portal-web-6p53x.jpg",
           "score": 6.5,
           "notes": "Real gameplay in Portal's first chamber: white Aperture panels, the relaxation-vault glass and a glowing blue portal opening in the wall. Instantly recognisable, but the canvas is small (720x404) and the palette is very washed-out white. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
@@ -39697,7 +39704,8 @@
       "likes_checked": "2026-10-21",
       "published_at": "2025-06-07T07:50:23Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
-      "last_seen": "2026-10-21T13:56:29.000Z"
+      "last_seen": "2026-10-21T13:56:29.000Z",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 4.59 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.53x (was 1x), output 23.4 unique fps at 30 fps, 27.1 s, no audio."
     },
     {
       "id": "tekken-dr-recomp",
@@ -39769,18 +39777,18 @@
       "browser_playable": true,
       "requires_own_files": false,
       "iframe": true,
-      "video_path": "videos/super-monkey-ball-online.mp4",
+      "video_path": "videos/super-monkey-ball-online-6p18x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/super-monkey-ball-online.mp4",
+          "path": "videos/super-monkey-ball-online-6p18x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/super-monkey-ball-online.jpg",
+      "screenshot_path": "videos/super-monkey-ball-online-6p18x.jpg",
       "screenshots": [
         {
-          "path": "videos/super-monkey-ball-online.jpg",
+          "path": "videos/super-monkey-ball-online-6p18x.jpg",
           "score": 7.5,
           "notes": "Real gameplay on Beginner Floor 1: the monkey ball rolling down a bright green checkered track toward bananas, jungle vines and pink flowers around it, timer, banana counter and speed HUD. Colourful and unmistakably Monkey Ball. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
@@ -39793,7 +39801,8 @@
       "likes_checked": "2026-10-21",
       "published_at": "2021-06-24T03:27:49Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
-      "last_seen": "2026-10-21T13:56:29.000Z"
+      "last_seen": "2026-10-21T13:56:29.000Z",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.65 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.18x (was 1x), output 21.7 unique fps at 30 fps, 9.1 s, no audio."
     },
     {
       "id": "openjkdf2",
@@ -39822,18 +39831,18 @@
       "requires_own_files": false,
       "access_note": "Free demo: the shareware demo levels are built in; the full campaign needs your own JKDF2 game files.",
       "iframe": true,
-      "video_path": "videos/openjkdf2.mp4",
+      "video_path": "videos/openjkdf2-3p18x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/openjkdf2.mp4",
+          "path": "videos/openjkdf2-3p18x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/openjkdf2.jpg",
+      "screenshot_path": "videos/openjkdf2-3p18x.jpg",
       "screenshots": [
         {
-          "path": "videos/openjkdf2.jpg",
+          "path": "videos/openjkdf2-3p18x.jpg",
           "score": 4,
           "notes": "Real demo gameplay on the opening rooftops: grey concrete blocks, rust-red brick panels and a blue sky, Kyle's bryar pistol and the health/shield HUD dials. Authentic 1997 look but low-detail textures and mostly grey walls; scored a bit lower as a free-demo build. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
@@ -39846,7 +39855,8 @@
       "likes_checked": "2026-10-21",
       "published_at": "2018-07-03T07:09:45Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
-      "last_seen": "2026-10-21T13:56:29.000Z"
+      "last_seen": "2026-10-21T13:56:29.000Z",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 9.44 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 3.18x (was 1x), output 20.3 unique fps at 30 fps, 19.5 s, no audio."
     },
     {
       "id": "dbz-bt3-online",
@@ -39875,25 +39885,25 @@
       "requires_own_files": false,
       "iframe": false,
       "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
-      "video_path": "videos/dbz-bt3-online.mp4",
+      "video_path": "videos/dbz-bt3-online-15p21x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/dbz-bt3-online.mp4",
+          "path": "videos/dbz-bt3-online-15p21x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/dbz-bt3-online.jpg",
+      "screenshot_path": "videos/dbz-bt3-online-15p21x.jpg",
       "screenshots": [
         {
-          "path": "videos/dbz-bt3-online.jpg",
+          "path": "videos/dbz-bt3-online-15p21x.jpg",
           "score": 6,
           "notes": "Real in-engine BT3 footage (attract-mode battle): Super Saiyan Vegeta, Trunks and Cell trading ki blasts over grassy plains, golden aura flares, the Tenkaichi 3 logo and a Press START prompt over the action. Recognisable and colourful, but low-res and captured in slow motion. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating)."
         }
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Real in-engine BT3 footage (attract-mode battle): Super Saiyan Vegeta, Trunks and Cell trading ki blasts over grassy plains, golden aura flares, the Tenkaichi 3 logo and a Press START prompt over the action. Recognisable and colourful, but low-res and captured in slow motion. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
-      "video_note": "Self-recorded on a GPU-less headless browser: the site ran at about 10% speed, so this is the game's own attract-mode battle demo played back at 2x; real game rendering, slower than on a real PC.",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 1.97 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 15.21x (was 2x), output 21.1 unique fps at 30 fps, 14.1 s, no audio. Earlier: Self-recorded on a GPU-less headless browser: the site ran at about 10% speed, so this is the game's own attract-mode battle demo played back at 2x; real game rendering, slower than on a real PC.",
       "remote_likes": 29,
       "likes_source": "github",
       "likes_source_url": "https://github.com/stufno102/Tenkaichi3Decomp",
@@ -40845,23 +40855,23 @@
       "platforms": [
         "desktop"
       ],
-      "video_path": "videos/panache.mp4",
+      "video_path": "videos/panache-7p48x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/panache.mp4",
+          "path": "videos/panache-7p48x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/panache.jpg",
+      "screenshot_path": "videos/panache-7p48x.jpg",
       "screenshots": [
         {
-          "path": "videos/panache.jpg",
+          "path": "videos/panache-7p48x.jpg",
           "score": 5,
           "notes": "multi-frame: Top-down RTS map with a river, stone road, rocks and woods in sepia-tinted Belle Epoque colours, small units and buildings scattered across it and a minimap; atmospheric but the units are tiny at this zoom. Rated from 5 frames sampled across the self-recorded clip plus the poster."
         }
       ],
-      "video_note": "Self-recorded in a GPU-less headless browser; measured 3.4 fps (requestAnimationFrame tick count), sped up 4x with setpts (target 30 fps, capped at 4x); audio dropped. Shows the built-in IA contre IA (AI vs AI) mode with the camera moved around the map.",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 4.01 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 7.48x (was 4x), output 20.6 unique fps at 30 fps, 17.5 s, no audio. Earlier: Self-recorded in a GPU-less headless browser; measured 3.4 fps (requestAnimationFrame tick count), sped up 4x with setpts (target 30 fps, capped at 4x); audio dropped. Shows the built-in IA contre IA (AI vs AI) mode with the camera moved around the map.",
       "screenshot_score": 5,
       "screenshot_score_notes": "multi-frame: Top-down RTS map with a river, stone road, rocks and woods in sepia-tinted Belle Epoque colours, small units and buildings scattered across it and a minimap; atmospheric but the units are tiny at this zoom. Rated from 5 frames sampled across the self-recorded clip plus the poster.",
       "found_via_network": "x",
@@ -42320,23 +42330,23 @@
         "desktop",
         "mobile"
       ],
-      "video_path": "videos/gridline.mp4",
+      "video_path": "videos/gridline-5p55x.mp4",
       "video_source": "recorded",
       "videos": [
         {
-          "path": "videos/gridline.mp4",
+          "path": "videos/gridline-5p55x.mp4",
           "source": "recorded"
         }
       ],
-      "screenshot_path": "videos/gridline.jpg",
+      "screenshot_path": "videos/gridline-5p55x.jpg",
       "screenshots": [
         {
-          "path": "videos/gridline.jpg",
+          "path": "videos/gridline-5p55x.jpg",
           "score": 6,
           "notes": "multi-frame: Isometric low-poly town on green land: crossing roads, zoned houses and shops, trees, a lake and river, with a cream HUD of funds, population and approval and a tool bar; tidy and readable. Rated from 5 frames sampled across the self-recorded clip plus the poster."
         }
       ],
-      "video_note": "Self-recorded in a GPU-less headless browser; measured 5.5 fps (requestAnimationFrame tick count), sped up 4x with setpts (target 30 fps, capped at 4x); audio dropped. Founds a small starter town and pans around it at 2x game speed.",
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 5.41 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.55x (was 4x), output 20.5 unique fps at 30 fps, 23.3 s, no audio. Earlier: Self-recorded in a GPU-less headless browser; measured 5.5 fps (requestAnimationFrame tick count), sped up 4x with setpts (target 30 fps, capped at 4x); audio dropped. Founds a small starter town and pans around it at 2x game speed.",
       "screenshot_score": 6,
       "screenshot_score_notes": "multi-frame: Isometric low-poly town on green land: crossing roads, zoned houses and shops, trees, a lake and river, with a cream HUD of funds, population and approval and a tool bar; tidy and readable. Rated from 5 frames sampled across the self-recorded clip plus the poster.",
       "found_via_network": "reddit",
