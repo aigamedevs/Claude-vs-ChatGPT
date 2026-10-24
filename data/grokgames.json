@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:00:00.000Z",
+  "updated_at": "2026-10-24T07:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -2015,11 +2015,37 @@
       "made_with": "astra",
       "engine": "ChatGPT",
       "screenshot_path": "screenshots/86-velocity-loop.jpg",
-      "screenshot_score": 9,
-      "screenshot_score_notes": "Split UI with photoreal miniature car on a wooden track reads as highly polished; car/track selection is crystal clear.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Toy slot-car style racer: blue sports car on a looping clay-colored track with trees and loop-de-loops, speed and lap timer HUD, race-select menu and finish time card; clean stylized 3D. Rated from 5 screenshots.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "screenshots": [
+        {
+          "path": "screenshots/86-velocity-loop.jpg",
+          "score": 7,
+          "notes": "multi-frame: Toy slot-car style racer: blue sports car on a looping clay-colored track with trees and loop-de-loops, speed and lap timer HUD, race-select menu and finish time card; clean stylized 3D. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/velocity-loop-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/velocity-loop-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/velocity-loop-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/velocity-loop-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "little-ritual",
@@ -6641,12 +6667,12 @@
       "source_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
       "screenshot_path": "screenshots/279-type-or-die.jpg",
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Gothic typing game: the TYPE or DIE logo over a moonlit graveyard with a parchment sign-in letter, and an ACT I torn-paper card for The Churchyard of St. Ossery on black; nice art, no typing combat shown. Rated from 3 screenshots.",
+      "screenshot_score_notes": "multi-frame: Typing horror game: title with parchment instructions over a moonlit graveyard; in-game frame rendered partly black under swiftshader. Rated from 4 screenshots.",
       "screenshots": [
         {
           "path": "screenshots/279-type-or-die.jpg",
           "score": 5,
-          "notes": "multi-frame: Gothic typing game: the TYPE or DIE logo over a moonlit graveyard with a parchment sign-in letter, and an ACT I torn-paper card for The Churchyard of St. Ossery on black; nice art, no typing combat shown. Rated from 3 screenshots."
+          "notes": "multi-frame: Typing horror game: title with parchment instructions over a moonlit graveyard; in-game frame rendered partly black under swiftshader. Rated from 4 screenshots."
         },
         {
           "path": "screenshots/type-or-die-1.jpg",
@@ -6654,6 +6680,10 @@
         },
         {
           "path": "screenshots/type-or-die-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/type-or-die-3.jpg",
           "source": "headless-browser"
         }
       ],
@@ -9324,13 +9354,32 @@
       "screenshots": [
         {
           "path": "screenshots/292-last-call.jpg",
-          "score": 5,
-          "notes": "Warm pixel tavern sets the mood, but a tutorial modal covers the board and the card fight behind it is dimmed out."
+          "score": 6,
+          "notes": "multi-frame: Tavern card battler: painted tavern interior with a dwarf brawler facing a skeleton by the fireplace, health bars, card hand and End Turn button, plus tutorial dialog; polished art. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/last-call-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/last-call-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/last-call-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/last-call-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Warm pixel tavern sets the mood, but a tutorial modal covers the board and the card fight behind it is dimmed out.",
-      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Tavern card battler: painted tavern interior with a dwarf brawler facing a skeleton by the fireplace, health bars, card hand and End Turn button, plus tutorial dialog; polished art. Rated from 5 screenshots.",
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "tinker-tailor-soldier-sensor",
@@ -15103,6 +15152,36 @@
           "url": "https://x.com/pagmaksym/status/2108987615504412930",
           "created_at": "2026-10-10T18:26:45Z"
         }
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/kosighost-1.jpg",
+          "source": "headless-browser",
+          "score": 4,
+          "notes": "multi-frame: Minimal pixel night runner: small ghost hopping past gravestones and coins on a dark purple field, plus intro card and Run over screen; clear but sparse. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/kosighost-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/kosighost-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/kosighost-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/kosighost-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_path": "screenshots/kosighost-1.jpg",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "multi-frame: Minimal pixel night runner: small ghost hopping past gravestones and coins on a dark purple field, plus intro card and Run over screen; clear but sparse. Rated from 5 screenshots.",
+      "tags": [
+        "screenshots"
       ]
     },
     {
@@ -36546,11 +36625,27 @@
         {
           "path": "videos/chateau-de-sable.jpg",
           "score": 6,
-          "notes": "Top-down WebGPU beach with a detailed sandcastle, foamy waves and grass; attractive but a single still. Rated from the single post image shown as a short still clip (no gameplay video available)."
+          "notes": "multi-frame: WebGPU ocean simulator: sunlit sandy island with rocks and palm-like plants over clear turquoise water, wrapped in a dense debug/settings panel UI; real render, little game framing. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/chateau-de-sable-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/chateau-de-sable-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/chateau-de-sable-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/chateau-de-sable-4.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Top-down WebGPU beach with a detailed sandcastle, foamy waves and grass; attractive but a single still. Rated from the single post image shown as a short still clip (no gameplay video available).",
+      "screenshot_score_notes": "multi-frame: WebGPU ocean simulator: sunlit sandy island with rocks and palm-like plants over clear turquoise water, wrapped in a dense debug/settings panel UI; real render, little game framing. Rated from 5 screenshots.",
       "found_via_network": "reddit",
       "author": "Imaginary_Cry6015",
       "author_source": "https://www.reddit.com/user/Imaginary_Cry6015/",
@@ -36605,7 +36700,10 @@
       ],
       "first_seen": "2026-10-20T01:30:00.000Z",
       "last_seen": "2026-10-20T01:30:00.000Z",
-      "published_at": "2026-10-19T14:46:48Z"
+      "published_at": "2026-10-19T14:46:48Z",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "working-the-margins",
@@ -38810,8 +38908,8 @@
       "source_url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/",
       "likes_source_url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/",
       "likes_source": "reddit",
-      "remote_likes": 116,
-      "comment_count": 56,
+      "remote_likes": 158,
+      "comment_count": 82,
       "comments": [
         {
           "author": "Sami__",
@@ -38835,6 +38933,20 @@
           "created_at": "2026-10-18T14:33:16Z"
         },
         {
+          "author": "sametnadav",
+          "text": "It's very soothing. It's like a The Neverhood-style Trolls game. I like the physics, graphics, and the music. Even though the goal is unclear, it's still enjoyable and calming.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phksgbs/",
+          "created_at": "2026-10-18T21:32:04Z"
+        },
+        {
+          "author": "dermosef",
+          "text": "Thank you! The chapters in the demo are somehow disjointed. The final game will get a, lightweight, story giving it a clearer goals as well.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phl53t6/",
+          "created_at": "2026-10-18T22:35:17Z"
+        },
+        {
           "author": "BrainchildArt",
           "text": "Cool & unique art style. I also like the music. Good job",
           "likes": 2,
@@ -38849,113 +38961,99 @@
           "created_at": "2026-10-20T05:34:12Z"
         },
         {
-          "author": "Kotykavun",
-          "text": "The combination of claymation visuals and relaxing music gives this game such a cozy atmosphere. Really unique concept!",
+          "author": "OffAxisGame",
+          "text": "I played the demo, and the gameplay really reminded me of the classic Mario games. I also really like the clay art style. Nice work!",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rdkpkqjk4sj/",
-          "created_at": "2026-10-20T08:45:16Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19reiklq5fwox/",
+          "created_at": "2026-10-20T21:24:28Z"
         },
         {
           "author": "dermosef",
-          "text": "Thank you! I am glad you enjoy it.",
+          "text": "Thank you ",
           "likes": 1,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rdz6a7dc5kx/",
-          "created_at": "2026-10-20T14:09:34Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rf71k63y05g/",
+          "created_at": "2026-10-21T06:33:06Z"
         },
         {
-          "author": "Unfair_Substance2044",
-          "text": "Oh will there be a creative mode? Clay world  seem totally asking for it. My hands are already itchy while only looking at it",
+          "author": "adeelmarshad",
+          "text": "Just played the demo. The clay art is incredible, and the sound design really works too",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phgvkxp/",
-          "created_at": "2026-10-18T09:50:54Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rfjeropv490/",
+          "created_at": "2026-10-21T11:10:22Z"
         },
         {
           "author": "dermosef",
-          "text": "In this case, what do you mean by it?\nI do have a level editor in place, I set it up for myself, but yes, I could ship it along with the game as well",
+          "text": "Thank you. Super happy to hear you liked it ",
           "likes": 1,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phgvwmn/",
-          "created_at": "2026-10-18T09:53:42Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rg1wex42og4/",
+          "created_at": "2026-10-21T18:04:56Z"
         },
         {
-          "author": "WhatNoRobot",
-          "text": "Works great!",
+          "author": "OfficialKB28",
+          "text": "I like the art style! ",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phh05kb/",
-          "created_at": "2026-10-18T10:28:50Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rg2h4s93add/",
+          "created_at": "2026-10-21T18:17:50Z"
         },
         {
           "author": "dermosef",
-          "text": "Thanks! Glad to hear ",
+          "text": "Thanks!",
           "likes": 1,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phh0l0v/",
-          "created_at": "2026-10-18T10:32:18Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rgwssr4cgu8/",
+          "created_at": "2026-10-22T05:37:42Z"
         },
         {
-          "author": "ranuncull",
-          "text": "The visuals are adorable!",
+          "author": "SerhiiKostyliev",
+          "text": "Love the claymation aesthetic! Getting strong *Neverhood* / retro stop-motion vibes from this, and the shader work is fantastic. Really impressive that this runs straight in the browser via Three.js so smoothly. Definitely keeping an eye on your Steam launch in December!",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phhsmeg/",
-          "created_at": "2026-10-18T13:34:27Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rg74o8oj9s5/",
+          "created_at": "2026-10-21T20:02:10Z"
         },
         {
           "author": "dermosef",
-          "text": "Thank you ranuncull!",
+          "text": "Nice! Can't wait!",
           "likes": 1,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phhvkci/",
-          "created_at": "2026-10-18T13:49:40Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rgwtcq3mbt0/",
+          "created_at": "2026-10-22T05:38:03Z"
         },
         {
-          "author": "AnchorVita",
-          "text": "That's really fun and I love the visuals. It controls very well for a touch screen platformer too, I often find they can be a bit fiddly to control properly but this pulls it off very well 👌 ",
+          "author": "Ok-Investment4414",
+          "text": "see your boy been to the chiropractor fixed that bad back crunching when he jump...gl OP keep it up",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phi54ae/",
-          "created_at": "2026-10-18T14:36:15Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rg92ehkuc05/",
+          "created_at": "2026-10-21T20:45:36Z"
         },
         {
           "author": "dermosef",
-          "text": "Thank you! Indeed mobile controls are/were tricky. I am glad you like the outcome.",
+          "text": "Hahaha, thank you ",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phi6kcy/",
-          "created_at": "2026-10-18T14:42:59Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rgwshgzcsw4/",
+          "created_at": "2026-10-22T05:37:30Z"
         },
         {
-          "author": "Friendly-Beginning72",
-          "text": "The art is amazing. This is definitely something that should hit stores whenever you are ready.",
+          "author": "nobitanobi82",
+          "text": "I was drawn by the clay art style of the game, which is a great selling point. I thought it plays well, with cool puzzles. I really liked the moulding of the purple clay as it's a very unique mechanism. It reminds me of a lot of 2d platformers, but also has Little Big Planet vibes. Difficulty of the puzzles is ok, but maybe because I'm more of a casual player, and this is a casual game. Adding more interesting and difficult puzzles could elevate this game to another level. I also liked the messages in the game, very nature-based. Thanks for making the game.",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj0qsh/",
-          "created_at": "2026-10-18T16:56:22Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rgs4t1oxk5e/",
+          "created_at": "2026-10-22T03:53:05Z"
         },
         {
           "author": "dermosef",
-          "text": "Yes, I am currently waiting on my Steam Validation to go through. Planning a launch in December ",
+          "text": "Thank you so much for your feedback. Means a lot to me!",
           "likes": 1,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj23vw/",
-          "created_at": "2026-10-18T17:02:21Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rgwuig825hf/",
+          "created_at": "2026-10-22T05:38:46Z"
         },
         {
-          "author": "Friendly-Beginning72",
-          "text": "Wish you best of luck. Share the link for a wishlist whenever is approved",
+          "author": "Groowl",
+          "text": "This is awesome 🤩",
           "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj2gdo/",
-          "created_at": "2026-10-18T17:03:52Z"
-        },
-        {
-          "author": "CaptChair",
-          "text": "My name is Clay, and I nominate this game for Clay of the year 👍",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj4wsc/",
-          "created_at": "2026-10-18T17:14:25Z"
-        },
-        {
-          "author": "dermosef",
-          "text": "Hahaha, thank you ❤️",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/phj7wmp/",
-          "created_at": "2026-10-18T17:27:08Z"
+          "url": "https://www.reddit.com/r/playmygame/comments/1x8y08a/claybound_a_platformer_where_everything_is_made/19rh1fhkvd35x/",
+          "created_at": "2026-10-22T07:21:31Z"
         }
       ],
       "first_seen": "2026-10-21T02:30:00.000Z",
-      "last_seen": "2026-10-21T02:30:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
       "published_at": "2026-10-18T08:27:44Z",
       "screenshot_score": 8,
       "screenshot_score_notes": "Claymation platformer: red clay cliffs, mushroom-ledge trees, candy-coloured hills and a gear factory with a tiny clay hero; very distinctive. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
@@ -42593,8 +42691,8 @@
       "likes_source_url": "https://x.com/aniketjart/status/2113427367477878971",
       "likes_source": "x",
       "avatar_url": "https://pbs.twimg.com/profile_images/2035854779373715456/2loYcV16_normal.jpg",
-      "remote_likes": 16,
-      "comment_count": 4,
+      "remote_likes": 5114,
+      "comment_count": 135,
       "comments": [
         {
           "author": "boardyai",
@@ -42619,7 +42717,7 @@
         }
       ],
       "first_seen": "2026-10-23T07:00:00.000Z",
-      "last_seen": "2026-10-23T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
       "published_at": "2026-10-23T00:28:44.000Z"
     },
     {
@@ -42883,16 +42981,787 @@
       "first_seen": "2026-10-23T07:00:00.000Z",
       "last_seen": "2026-10-23T07:00:00.000Z",
       "published_at": "2026-10-22T11:36:31Z"
+    },
+    {
+      "id": "orbital-empire",
+      "title": "Orbital Empire",
+      "description": "Hybrid 4X space strategy multiplayer game that simulates the vastness of the solar system in real time: games unfold over days or weeks, with alliances and betrayals between players. The solo dev runs a Claude Opus 5.5 pipeline that turns public playtest feedback into patches and balance updates, and trained Claude design on public NASA planet images for the visuals. Free in the browser.",
+      "play_url": "https://orbital-empire.com/",
+      "found_via": "r/aigamedev \"how far Orbital Empires has come through player feedback and Opus 5.5\" (u/everybodytrustslorne; also r/aigamedev 1xd1bc9)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/orbital-empire.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/orbital-empire.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/orbital-empire.jpg",
+      "screenshots": [
+        {
+          "path": "videos/orbital-empire.jpg",
+          "score": 7,
+          "notes": "multi-frame: Dark solar-system map with glowing planets, orbit rings and fleets of ship icons moving between worlds, plus empire panels; striking NASA-style planets, busy strategy UI. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_note": "Converted from the post's GIF; the poster says the GIF is quite sped up for dramatic effect.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Dark solar-system map with glowing planets, orbit rings and fleets of ship icons moving between worlds, plus empire panels; striking NASA-style planets, busy strategy UI. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "everybodytrustslorne",
+      "author_source": "https://www.reddit.com/user/everybodytrustslorne/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/",
+      "likes_source": "reddit",
+      "remote_likes": 36,
+      "comment_count": 6,
+      "comments": [
+        {
+          "author": "Recoil42",
+          "text": "Really cool. I'm building a game like this and it's not easy to get it right with the massive amount of constant scale change. What you've done making the ships semi-zoom-independent is pretty neat art direction.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/19rifguge4s3l/",
+          "created_at": "2026-10-23T02:03:22Z"
+        },
+        {
+          "author": "everybodytrustslorne",
+          "text": "Thank you! I can't tell you how long I've spent on the way this map zooms haha. Do you have a link for your game?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/19rifssgq46ro/",
+          "created_at": "2026-10-23T02:10:48Z"
+        },
+        {
+          "author": "Recoil42",
+          "text": "Unpublished right now, been busy with other things lately. Just wanted to drop a comment of support!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/19rifw0avloar/",
+          "created_at": "2026-10-23T02:12:48Z"
+        },
+        {
+          "author": "West_Satisfaction299",
+          "text": "Is there any co-op in this, my brothers and I tend not to do PvP because we always end up fighting with each other.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/19rig41q5kbpf/",
+          "created_at": "2026-10-23T02:17:49Z"
+        },
+        {
+          "author": "everybodytrustslorne",
+          "text": "The game supports co-operative playstyles! You can trade with each other, build megastructures together, and win by building the dyson sphere together. I mean.... the game doesn't stop you from betraying each other anywhere in the process though...",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/19rig79p4lr9h/",
+          "created_at": "2026-10-23T02:19:49Z"
+        },
+        {
+          "author": "HiveReddit3",
+          "text": "it would be fun to have a cooperative server",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xd1diz/im_honestly_amazed_at_how_far_orbital_empires_has/19riynu0y8vur/",
+          "created_at": "2026-10-23T09:13:42Z"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T01:59:47Z"
+    },
+    {
+      "id": "tap-tavern",
+      "title": "Tap Tavern",
+      "description": "Free browser party game night: open taptavern.app on a TV or laptop and up to 8 people play on their phones as controllers, with no installs or accounts. Seven party games in early playtest, built solo with AI coding agents (Claude) and AI art.",
+      "play_url": "https://taptavern.app/",
+      "found_via": "r/aigamedev Tap Tavern, 7 browser party games built solo with AI coding agents (u/tybeady2)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin",
+      "category": "party",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/tap-tavern.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/tap-tavern.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/tap-tavern.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tap-tavern.jpg",
+          "score": 6,
+          "notes": "multi-frame: Cartoon tavern-themed party screens: big-screen minigames with colourful player avatars, room code and phone-controller prompts; cheerful but simple. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Cartoon tavern-themed party screens: big-screen minigames with colourful player avatars, room code and phone-controller prompts; cheerful but simple. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "tybeady2",
+      "author_source": "https://www.reddit.com/user/tybeady2/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/",
+      "likes_source": "reddit",
+      "remote_likes": 9,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "Ok-Effective-3153",
+          "text": "What do you use for hosting?  \nI’ve got ideas for party games for when friends come around but I haven’t worked out how to get it all to work.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/tap_tavern_7_browser_party_games_one_tv_phones_as/19rjsued5q6rp/",
+          "created_at": "2026-10-23T20:30:24Z"
+        },
+        {
+          "author": "TapTavernTeam",
+          "text": "It’s one small VPS (OVH, 4 cores / 8 GB) running a single Node.js server in Docker. It sits behind a Cloudflare Tunnel, so the server has no open ports, and Cloudflare also handles the domain and HTTPS. Before that it ran on my own PC through the same tunnel for a while, which works fine for testing with friends.\n\nHonestly I'm pretty worried about its ability to handle load, currently I think it caps out at 50 active games. I figured thats fine for a play test but if it gains any amount of traction I will need to figure out how to scale.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/tap_tavern_7_browser_party_games_one_tv_phones_as/19rjt1i9j8zph/",
+          "created_at": "2026-10-23T20:34:49Z"
+        },
+        {
+          "author": "ParkInsider",
+          "text": "What's the process to allow other people to join and play? I am building a silly game to play with my dad and wouldl ove it if it were a simple web page.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/tap_tavern_7_browser_party_games_one_tv_phones_as/19rjswt3zjb28/",
+          "created_at": "2026-10-23T20:31:54Z"
+        },
+        {
+          "author": "TapTavernTeam",
+          "text": "The usual pattern is a room code. The TV or laptop asks the server for a room and shows a short code. Phones enter the code to join, send their taps to the server, and the server sends the game state back to everyone over WebSockets.\n\nFor you and your dad:\n\n* **Same house:** run a small Node server on your laptop and have him open your laptop’s local IP on his phone.\n* **Different houses:** host a plain page on GitHub Pages and use PeerJS to connect your two browsers directly. Or keep your laptop server and share it with a cloudflare tunnel.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/tap_tavern_7_browser_party_games_one_tv_phones_as/19rjtfs68pg3l/",
+          "created_at": "2026-10-23T20:43:43Z"
+        },
+        {
+          "author": "ParkInsider",
+          "text": "Thanks!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdoxzu/tap_tavern_7_browser_party_games_one_tv_phones_as/19rjtrv5vwgck/",
+          "created_at": "2026-10-23T20:51:14Z"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T20:20:24Z"
+    },
+    {
+      "id": "reflow-repair-shop",
+      "title": "ReFlow Repair Shop",
+      "description": "Vibe-coded 3D electronics repair sim that started as a teaching tool: diagnose boards with a real multimeter and oscilloscope, solder parts, run experiments in the lab, and work through a campaign from humble beginnings to owning your own repair business. Built with ChatGPT for planning and Claude with three.js. Free in the browser.",
+      "play_url": "https://jaspoe30.itch.io/reflow",
+      "found_via": "r/ClaudeGameDev vibe-coded 3D electronics repair sim (u/Training_Diamond_897)",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "tags": [
+        "itchio"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/reflow-repair-shop.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/reflow-repair-shop.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/reflow-repair-shop.jpg",
+      "screenshots": [
+        {
+          "path": "videos/reflow-repair-shop.jpg",
+          "score": 7,
+          "notes": "multi-frame: 3D workbench close-ups: circuit boards under a soldering iron, multimeter probes and oscilloscope traces, shop and campaign menus; detailed and unusual, plain lighting. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: 3D workbench close-ups: circuit boards under a soldering iron, multimeter probes and oscilloscope traces, shop and campaign menus; detailed and unusual, plain lighting. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "Training_Diamond_897",
+      "author_source": "https://www.reddit.com/user/Training_Diamond_897/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xdm0wu/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xdm0wu/",
+      "likes_source": "reddit",
+      "remote_likes": 5,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T18:29:29Z"
+    },
+    {
+      "id": "scrapjack",
+      "title": "Scrapjack",
+      "description": "Standalone take on the Fallout minigame Caravan: the original rule set plus a run mode with 5 opponents, a shop, equipment and card modifiers, a base deck and 4 unlockable card sets for custom decks, HUD and radio options for post-apocalyptic mood. Mobile, touch and (WIP) controller friendly. Assets and most code built with GPT-6-Astra, with occasional Opus 5.5 help for review and bug fixing.",
+      "play_url": "https://scrapjackgame.com/",
+      "found_via": "r/aigamedev standalone \"Caravan\" card game built with GPT-6-Astra (u/TheTaco2)",
+      "made_with": "astra",
+      "iframe": true,
+      "category": "card",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/scrapjack.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/scrapjack.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/scrapjack.jpg",
+      "screenshots": [
+        {
+          "path": "videos/scrapjack.jpg",
+          "score": 6,
+          "notes": "multi-frame: Post-apocalyptic card table: Caravan cards laid out in lanes against an opponent, a retro Pip-Boy style HUD and shop screens; clean and readable, modest art. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Post-apocalyptic card table: Caravan cards laid out in lanes against an opponent, a retro Pip-Boy style HUD and shop screens; clean and readable, modest art. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "TheTaco2",
+      "author_source": "https://www.reddit.com/user/TheTaco2/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xdfj39/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xdfj39/",
+      "likes_source": "reddit",
+      "remote_likes": 5,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T14:25:52Z"
+    },
+    {
+      "id": "bathed-in-blood",
+      "title": "Bathed in Blood",
+      "description": "Dark action RPG in the spirit of the classics that runs in a browser tab on PC or phone with mouse, gamepad or touch: three classes (Warrior, Ranger, Sorceress), five zones with monsters, mini-bosses and a unique boss at the top of each, then the Bloodbath, a 100-level survival arena. Loot with affixes, a talent tree, blacksmith and random map events. Built solo over 10 weeks with many AI tools.",
+      "play_url": "https://bathedinblood.com/",
+      "found_via": "r/aigamedev dark browser ARPG built solo with AI tools (u/Merlindovich)",
+      "made_with": "unknown",
+      "engine": "Babylon.js",
+      "iframe": true,
+      "category": "action-rpg",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/bathed-in-blood.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/bathed-in-blood.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/bathed-in-blood.jpg",
+      "screenshots": [
+        {
+          "path": "videos/bathed-in-blood.jpg",
+          "score": 7,
+          "notes": "multi-frame: Isometric dark-fantasy ARPG: a hero fighting monster packs in torch-lit ruins with fire spells, flickering shadows, fog and loot drops; moody Diablo-like look. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Isometric dark-fantasy ARPG: a hero fighting monster packs in torch-lit ruins with fire spells, flickering shadows, fog and loot drops; moody Diablo-like look. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "Merlindovich",
+      "author_source": "https://www.reddit.com/user/Merlindovich/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xdrdnx/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xdrdnx/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 3,
+      "comments": [
+        {
+          "author": "Templeshooter",
+          "text": "I suggest you change the visual of that attack telegraph effect, claude generated one for me and it looks exactly the same. I'll be changing mine as well lol",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdrdnx/im_building_a_dark_arpg_that_runs_in_the_browser/19rjxe8q1xkoy/",
+          "created_at": "2026-10-23T22:12:26Z"
+        },
+        {
+          "author": "Merlindovich",
+          "text": "Oh, which one? I’m curious to see",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdrdnx/im_building_a_dark_arpg_that_runs_in_the_browser/19rjxopl0xybp/",
+          "created_at": "2026-10-23T22:18:57Z"
+        },
+        {
+          "author": "Templeshooter",
+          "text": "the one at 0:19 - 0:20, although upon closer inspection they are not entirely the same. i got background color and border, at roughly the same colors. lol",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xdrdnx/im_building_a_dark_arpg_that_runs_in_the_browser/19rjyu4oxmwoy/",
+          "created_at": "2026-10-23T22:44:45Z"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T21:59:42Z"
+    },
+    {
+      "id": "scoville",
+      "title": "Scoville",
+      "description": "1v1 arena FPS duel, online or against a bot that climbs from tier 1 (Bell pepper) to the Carolina Reaper in Road to Reaper mode. The bot can rocket jump, air shot, wall jump and air strafe. Built over 2.5 months in Claude Cowork with separate agents for physics, bot motor skills, bot decisions, weapons, mapping and graphics, without the dev opening the code.",
+      "play_url": "https://scoville.gg/",
+      "found_via": "r/ClaudeGameDev 1v1 FPS duel vs a rocket-jumping bot, built in Claude Cowork (u/M1ghtyMe)",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/scoville.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/scoville.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/scoville.jpg",
+      "screenshots": [
+        {
+          "path": "videos/scoville.jpg",
+          "score": 7,
+          "notes": "multi-frame: Fast arena FPS: rocket launcher view in a stylized arena, rocket jumps and air shots against the bot, kill feed and score HUD; fluid Quake-like action, simple maps. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_note": "Gameplay trailer from the creator's YouTube video https://youtu.be/S-YRgqsNWLM linked in the post.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Fast arena FPS: rocket launcher view in a stylized arena, rocket jumps and air shots against the bot, kill feed and score HUD; fluid Quake-like action, simple maps. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "M1ghtyMe",
+      "author_source": "https://www.reddit.com/user/M1ghtyMe/",
+      "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xdq665/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xdq665/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T21:09:47Z"
+    },
+    {
+      "id": "genex-morrowind-start-scene",
+      "title": "Morrowind Start Scene (Genex)",
+      "description": "Recreation of the Morrowind starting zone (Seyda Neen) vibecoded completely from scratch, not a mod, in the open-source Genex desktop app for game dev with its Unreal Engine plugin and Claude Opus 5.5. Downloadable build for Mac and Windows.",
+      "play_url": "https://genex.games/morrowind-start-scene",
+      "found_via": "X @genex_games \"the starting zone of Morrowind, vibecoded completely from scratch\" with Genex + Unreal + Opus 5.5",
+      "made_with": "opus-5.5",
+      "engine": "Unreal Engine",
+      "tags": [
+        "genex"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-none",
+      "browser_playable": false,
+      "download_url": "https://genex.games/morrowind-start-scene",
+      "download_platforms": [
+        "mac",
+        "windows"
+      ],
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/genex-morrowind-start-scene.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/genex-morrowind-start-scene.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/genex-morrowind-start-scene.jpg",
+      "screenshots": [
+        {
+          "path": "videos/genex-morrowind-start-scene.jpg",
+          "score": 9,
+          "notes": "multi-frame: Realistic Unreal-rendered Morrowind coast: Seyda Neen docks, stilt houses, silt strider, misty swamp and characters in first person; very high-fidelity lighting and detail. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 9,
+      "screenshot_score_notes": "multi-frame: Realistic Unreal-rendered Morrowind coast: Seyda Neen docks, stilt houses, silt strider, misty swamp and characters in first person; very high-fidelity lighting and detail. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "genex_games",
+      "author": "genex_games",
+      "author_source": "https://x.com/genex_games",
+      "source_url": "https://x.com/genex_games/status/2113715036296499441",
+      "likes_source_url": "https://x.com/genex_games/status/2113715036296499441",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1978921429753020416/dojn4cO0_normal.jpg",
+      "remote_likes": 117,
+      "comment_count": 16,
+      "comments": [
+        {
+          "author": "genex_games",
+          "text": "open source, MIT license: https://t.co/6793Hcpbft",
+          "likes": 8,
+          "url": "https://x.com/genex_games/status/2113715490753511782"
+        },
+        {
+          "author": "_Show_TimeZ_",
+          "text": "@genex_games ok... insane level, how much time 4/5 days?",
+          "likes": 3,
+          "url": "https://x.com/_Show_TimeZ_/status/2113718651542995308"
+        },
+        {
+          "author": "genex_games",
+          "text": "@_Show_TimeZ_ thank you! yes, about 3-4 days",
+          "likes": 2,
+          "url": "https://x.com/genex_games/status/2113722260142088553"
+        },
+        {
+          "author": "metalarp",
+          "text": "@genex_games unreal",
+          "likes": 2,
+          "url": "https://x.com/metalarp/status/2113721211222110435"
+        },
+        {
+          "author": "vanyathecyborg",
+          "text": "@genex_games @TimSweeneyEpic",
+          "likes": 2,
+          "url": "https://x.com/vanyathecyborg/status/2113718670732218599"
+        },
+        {
+          "author": "buzzybats",
+          "text": "@genex_games I just was wondering why nobody did it??",
+          "likes": 2,
+          "url": "https://x.com/buzzybats/status/2113715874414952510"
+        },
+        {
+          "author": "genex_games",
+          "text": "@onemanarmy85 yep, through the built-in Genex plugin: it routes to Tripo, Meshy and other gamedev tools (characters, 3D, sound)",
+          "likes": 1,
+          "url": "https://x.com/genex_games/status/2113735169249247590"
+        },
+        {
+          "author": "onemanarmy85",
+          "text": "@genex_games Didnu hook it to meshy or smthV",
+          "likes": 1,
+          "url": "https://x.com/onemanarmy85/status/2113733662772736341"
+        },
+        {
+          "author": "dcsan",
+          "text": "@genex_games Nice it took just a handful of hours of prompting",
+          "likes": 1,
+          "url": "https://x.com/dcsan/status/2113731788031860962"
+        },
+        {
+          "author": "stewchan2",
+          "text": "@genex_games How much hands-on time was required to get to this point?",
+          "likes": 1,
+          "url": "https://x.com/stewchan2/status/2113724289723531377"
+        },
+        {
+          "author": "TheAstrayDev",
+          "text": "@genex_games This is literally like a AAA-game🤩",
+          "likes": 0,
+          "url": "https://x.com/TheAstrayDev/status/2113792697861619963"
+        },
+        {
+          "author": "AlexStLouis10",
+          "text": "@genex_games @genex_games you should bring it to the web with our tools, it's one prompt into Claude (or your favorite AI IDE) and it'll package for WebGPU using our tools + MCP.\n\nhttps://t.co/EJVKkVMnlX",
+          "likes": 0,
+          "url": "https://x.com/AlexStLouis10/status/2113788540131934668"
+        },
+        {
+          "author": "LinAiDreams",
+          "text": "@genex_games Lokks amazing",
+          "likes": 0,
+          "url": "https://x.com/LinAiDreams/status/2113775145592451368"
+        },
+        {
+          "author": "wolfe_locke",
+          "text": "@genex_games Checking it out today",
+          "likes": 0,
+          "url": "https://x.com/wolfe_locke/status/2113764485181874300"
+        },
+        {
+          "author": "serafinsanchez_",
+          "text": "@genex_games this is really cool!",
+          "likes": 0,
+          "url": "https://x.com/serafinsanchez_/status/2113758762909732970"
+        },
+        {
+          "author": "grokbotstudios",
+          "text": "@genex_games The foggy lighting and gull flying past the timber tavern give this Morrowind recreation a really convincing moody atmosphere.",
+          "likes": 0,
+          "url": "https://x.com/grokbotstudios/status/2113757898014863558"
+        },
+        {
+          "author": "bateluer2065205",
+          "text": "@genex_games Been telling people that its only a matter of time before we start seeing very small dev teams deliver first class titles. \n\nHave you done any testing with common local models to assess their effectiveness? I'm not suggesting that Qwen 3.8 27B, for example, would come anywhere",
+          "likes": 0,
+          "url": "https://x.com/bateluer2065205/status/2113748240940327105"
+        },
+        {
+          "author": "onemanarmy85",
+          "text": "@genex_games u should add it to the post cuz people might think opus can ake 3d assets like that",
+          "likes": 0,
+          "url": "https://x.com/onemanarmy85/status/2113737747571638392"
+        },
+        {
+          "author": "genex_games",
+          "text": "@dcsan thank you 🙏",
+          "likes": 0,
+          "url": "https://x.com/genex_games/status/2113733428336099823"
+        },
+        {
+          "author": "genex_games",
+          "text": "@stewchan2 roughly 4-5 hours of our own attention: describing what we wanted, checking the results, giving feedback. the AI did the building in the background",
+          "likes": 0,
+          "url": "https://x.com/genex_games/status/2113726449110692121"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T19:31:50.000Z"
+    },
+    {
+      "id": "toot-together",
+      "title": "Toot Together",
+      "description": "Co-op hippo raft party game for up to 4 players in the browser (mobile friendly, PWA): share a room code and steer the raft together by tooting. Built with Claude Opus 5.5 as a browser take on Fart Together.",
+      "play_url": "https://toottogether.fun/",
+      "found_via": "X @_pratikpakhale co-op hippo raft game built with Opus 5.5",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "party",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/toot-together.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/toot-together.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/toot-together.jpg",
+      "screenshots": [
+        {
+          "path": "videos/toot-together.jpg",
+          "score": 7,
+          "notes": "multi-frame: Cute 3D river: four cartoon hippos on a raft bumping down rapids past rocks with toot-propulsion effects, lobby with room code; bright and funny, simple scenery. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Cute 3D river: four cartoon hippos on a raft bumping down rapids past rocks with toot-propulsion effects, lobby with room code; bright and funny, simple scenery. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "_pratikpakhale",
+      "author": "_pratikpakhale",
+      "author_source": "https://x.com/_pratikpakhale",
+      "source_url": "https://x.com/_pratikpakhale/status/2113687050809655639",
+      "likes_source_url": "https://x.com/_pratikpakhale/status/2113687050809655639",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1936868206582366208/Zd8SKB6x_normal.jpg",
+      "remote_likes": 7,
+      "comment_count": 3,
+      "comments": [
+        {
+          "author": "danielv8698",
+          "text": "@_pratikpakhale This looks so fun, love the room-code co-op! If you ever want it without running a server, NET does peer-to-peer multiplayer for three.js (open source). https://t.co/MFXybUyMoi",
+          "likes": 1,
+          "url": "https://x.com/danielv8698/status/2113761400375939345"
+        },
+        {
+          "author": "_pratikpakhale",
+          "text": "@danielv8698 thanks!",
+          "likes": 0,
+          "url": "https://x.com/_pratikpakhale/status/2113788342844445169"
+        },
+        {
+          "author": "_pratikpakhale",
+          "text": "@SaurabhJejurkar thanks :) also it’s mumbai server so can expect sub 15ms",
+          "likes": 0,
+          "url": "https://x.com/_pratikpakhale/status/2113692363302584580"
+        },
+        {
+          "author": "allRefsAreDed",
+          "text": "@_pratikpakhale Crazyyyy brother.....",
+          "likes": 0,
+          "url": "https://x.com/allRefsAreDed/status/2113688699078877557"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T17:40:37.000Z"
+    },
+    {
+      "id": "stygian-j-ball",
+      "title": "Stygian J-Ball",
+      "description": "DX-Ball meets a pixel-art fantasy dungeon: break bricks in the Stygian Abyss with an orb and plank, potions and a Tome of Lore and Hall of Heroes. Built in Rust (macroquad, WebAssembly) with Claude Code by Visuality developer Jędrzej (@jptgracz, GitHub jptgraczykowski) as a test before recreating Ultima Underworld.",
+      "play_url": "https://jptgraczykowski.github.io/stygian-j-ball/",
+      "found_via": "X @visualitypl Stygian J-Ball, built in Rust with Claude Code (dev @jptgracz)",
+      "made_with": "unknown",
+      "engine": "macroquad",
+      "tags": [
+        "rec"
+      ],
+      "iframe": true,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/stygian-j-ball.mp4",
+      "video_source": "self-recorded",
+      "videos": [
+        {
+          "path": "videos/stygian-j-ball.mp4",
+          "source": "self-recorded"
+        }
+      ],
+      "screenshot_path": "videos/stygian-j-ball.jpg",
+      "screenshots": [
+        {
+          "path": "videos/stygian-j-ball.jpg",
+          "score": 5,
+          "notes": "multi-frame: Dark stone dungeon brick-breaker: rows of coloured bricks above a torch-lit corridor, small orb and plank, side panel with level, score and potions, death and name-entry screens between lives; atmospheric but the ball is small and dim. Rated from 5 frames sampled across the self-recorded clip plus the poster."
+        }
+      ],
+      "video_note": "Self-recorded in a GPU-less headless browser; measured 53.7 fps (requestAnimationFrame tick count) and 24.5 unique captured fps; sped up 1.12x with setpts (max of 60/53.7 normal-speed factor and 20/24.5) to about 27 unique fps, output constant 30 fps, trimmed to 60 s; audio dropped. Includes short death/Thou Art Worthy screens between rounds.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Dark stone dungeon brick-breaker: rows of coloured bricks above a torch-lit corridor, small orb and plank, side panel with level, score and potions, death and name-entry screens between lives; atmospheric but the ball is small and dim. Rated from 5 frames sampled across the self-recorded clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "visualitypl",
+      "author": "visualitypl",
+      "author_source": "https://x.com/visualitypl",
+      "source_url": "https://x.com/visualitypl/status/2113552434123485467",
+      "likes_source_url": "https://x.com/visualitypl/status/2113552434123485467",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1710213107367190528/TT83g6MU_normal.jpg",
+      "remote_likes": 5,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "RyanJ_KOL",
+          "text": "@visualitypl @jptgracz A smaller game seems like a useful test bed before tackling Underworld. Which part carried over best so far: the rendering approach, input handling, or the workflow for iterating with Claude Code?",
+          "likes": 0,
+          "url": "https://x.com/RyanJ_KOL/status/2113568548601950313",
+          "created_at": "2026-10-23T09:49:44Z"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T08:45:42.000Z"
+    },
+    {
+      "id": "plain-sight",
+      "title": "Plain Sight (browser port)",
+      "description": "Browser revival of Plain Sight (Beatnik Games, 2010), the robot-ninja deathmatch where you steal energy from other robots, grow bigger and brighter, then detonate to bank points and multiply your score by catching others. The free-software XNA 3.1 code was ported to FNA and compiled to WebAssembly + WebGL2 with Claude Opus; the creator also rewrote the master server and Linux dedicated servers from the original protocol, so it still plays with the Steam version. Modes include Deathmatch, Team Deathmatch, Lighten Up, Ninja! Ninja! Botzilla! and Capture The Flag, with bots and practice vs bots. No install or account.",
+      "play_url": "https://plainsight.esperi.de/",
+      "found_via": "r/pcmasterrace \"Plain Sight's servers died in 2012, I brought it back in the browser\" (u/vicesig; also r/ClaudeGameDev 1xdn0gk)",
+      "made_with": "unknown",
+      "engine": "FNA",
+      "tags": [
+        "decomp",
+        "rec"
+      ],
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/plain-sight.mp4",
+      "video_source": "self-recorded",
+      "videos": [
+        {
+          "path": "videos/plain-sight.mp4",
+          "source": "self-recorded"
+        }
+      ],
+      "screenshot_path": "videos/plain-sight.jpg",
+      "screenshots": [
+        {
+          "path": "videos/plain-sight.jpg",
+          "score": 7,
+          "notes": "multi-frame: Neon low-poly arenas: small robot ninjas dashing across purple and blue platforms, energy meter and scoreboard HUD, Deathmatch rules card and kill feed; distinctive and colourful, low-res under software rendering. Rated from 5 frames sampled across the self-recorded clip plus the poster."
+        }
+      ],
+      "video_note": "Self-recorded in a GPU-less headless browser in Practice vs bots (Deathmatch); measured 14.0 fps (requestAnimationFrame tick count) and 13.3 unique captured fps; sped up 4x with setpts (max of the capped normal-speed factor 4x and 20/13.3) to about 53 unique fps, output constant 30 fps, 26 s; audio dropped.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Neon low-poly arenas: small robot ninjas dashing across purple and blue platforms, energy meter and scoreboard HUD, Deathmatch rules card and kill feed; distinctive and colourful, low-res under software rendering. Rated from 5 frames sampled across the self-recorded clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "vicesig",
+      "author_source": "https://www.reddit.com/user/vicesig/",
+      "source_url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/",
+      "likes_source_url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/",
+      "likes_source": "reddit",
+      "remote_likes": 11,
+      "comment_count": 8,
+      "comments": [
+        {
+          "author": "nali_cow",
+          "text": "Plain Sight! There's a name I haven't seen in a long time...",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/plain_sights_servers_died_in_2012_i_spent_the/19rjpyzldjq0y/",
+          "created_at": "2026-10-23T19:26:00Z"
+        },
+        {
+          "author": "vicesig",
+          "text": ":D :D :D I have this cheered memory of a game with the botzilla mode where I got to win for a hair with my friends, it was such a bummer when the server went down and that mode went unavailable even with the bots\n\n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/plain_sights_servers_died_in_2012_i_spent_the/19rjq718xx8qp/",
+          "created_at": "2026-10-23T19:31:00Z"
+        },
+        {
+          "author": "MrHaxx1",
+          "text": "This was SO good. I was sad when it died. I hope people will play this version. ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/plain_sights_servers_died_in_2012_i_spent_the/19rjsot1utjsx/",
+          "created_at": "2026-10-23T20:26:55Z"
+        },
+        {
+          "author": "nderageinmymind",
+          "text": "I opened it and it killed my eardrums. Fuck this shit",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/plain_sights_servers_died_in_2012_i_spent_the/19rjpuvl9drwj/",
+          "created_at": "2026-10-23T19:23:26Z"
+        },
+        {
+          "author": "vicesig",
+          "text": "WDYM? like degraded audio?\n\n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/plain_sights_servers_died_in_2012_i_spent_the/19rjpzrmb19xc/",
+          "created_at": "2026-10-23T19:26:29Z"
+        },
+        {
+          "author": "Hargan1",
+          "text": "Yep the audio is absolutely fucked. It's loud and crackly.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xdn74m/plain_sights_servers_died_in_2012_i_spent_the/19rjq79ko8mf4/",
+          "created_at": "2026-10-23T19:31:09Z"
+        }
+      ],
+      "first_seen": "2026-10-24T07:00:00.000Z",
+      "last_seen": "2026-10-24T07:00:00.000Z",
+      "published_at": "2026-10-23T19:13:23Z"
     }
   ],
   "totals": {
-    "games": 592,
+    "games": 602,
     "by_made_with": {
-      "opus-5.5": 305,
-      "astra": 67,
+      "opus-5.5": 308,
+      "astra": 68,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 196,
+      "unknown": 202,
       "gemini-4-argon": 5
     }
   }
